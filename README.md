@@ -34,7 +34,7 @@ Build confidence through consistent, respectful, and reassuring interactions. Us
 - ✅ **Evidence-based guidelines** grounded in research and real-world testing
 - ✅ **Practical and actionable** with clear implementation guidance
 - ✅ **Open and collaborative** - anyone can contribute and use it
-- ✅ **Trilingual by design** - documentation in English, German, and Arabic
+- ✅ **Trilingual by design** - documentation in English, German, and Arabic (see [TRANSLATION_STATUS.md](TRANSLATION_STATUS.md))
 - ✅ **Standards-aligned** - maps to WCAG, ISO 9241-210, and Nielsen Heuristics
 
 ### What SAGE Is Not
@@ -83,8 +83,11 @@ SAGE-Framework/
 │   └── ROADMAP.*                 # Project roadmap (EN/DE/AR)
 ├── glossary/                     # Terminology glossary
 │   └── glossary.*                # Glossary (EN/DE/AR)
-└── assets/                       # Images, diagrams, and resources
+├── assets/                       # Images, diagrams, and resources
+└── TRANSLATION_STATUS.md         # Translation progress and roadmap
 ```
+
+**Note on Translations:** English (EN) is the canonical version (100% complete). German (DE) and Arabic (AR) translations are in progress (~15% complete). See [TRANSLATION_STATUS.md](TRANSLATION_STATUS.md) for details and how to contribute translations.
 
 ### Getting Started
 

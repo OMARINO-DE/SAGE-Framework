@@ -45,6 +45,7 @@ This index provides a comprehensive guide to all SAGE Framework documentation. U
 | Document | Description | Path |
 |----------|-------------|------|
 | **README** | Framework overview, what SAGE is/isn't, getting started | [README.md](../README.md) |
+| **Translation Status** | Progress and roadmap for DE/AR translations | [TRANSLATION_STATUS.md](../TRANSLATION_STATUS.md) |
 | **Glossary** | Terminology definitions (EN/DE/AR) | [glossary/](../glossary/) |
 | **License** | MIT License terms | [LICENSE](../LICENSE) |
 | **Citation** | How to cite SAGE in academic work | [CITATION.cff](../CITATION.cff) |
