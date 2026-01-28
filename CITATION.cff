@@ -3,7 +3,15 @@ message: "If you use this framework in your research or project, please cite it 
 title: "SAGE Framework: Senior-Adaptive Guided Ecosystem"
 abstract: "An open-source framework for designing digital experiences that empower senior users through Safe Simplicity, Assisted Autonomy, Guided Interaction, and Emotional Trust."
 authors:
-  - family-names: "SAGE Framework Contributors"
+  - family-names: "Bakkour"
+    given-names: "Oday"
+    website: "https://oday-bakkour.com/"
+    role: "Framework Originator"
+  - family-names: "Zaror"
+    given-names: "Omar"
+    email: "omar@omarino.de"
+    affiliation: "OMARINO IT Services"
+    role: "Framework Developer & Maintainer"
 type: software
 repository-code: "https://github.com/OMARINO-DE/SAGE-Framework"
 license: MIT

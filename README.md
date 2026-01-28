@@ -1,6 +1,7 @@
 # SAGE Framework
 ## Senior-Adaptive Guided Ecosystem
 
+**Framework Originator:** Oday Bakkour (https://oday-bakkour.com/)  
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
 
@@ -121,13 +122,15 @@ SAGE Framework is licensed under the [MIT License](LICENSE). You are free to use
 If you use SAGE Framework in your research or project, please cite it:
 
 ```
-SAGE Framework Contributors (2026). SAGE Framework: Senior-Adaptive Guided Ecosystem.
+Bakkour, O., & Zaror, O. (2026). SAGE Framework: Senior-Adaptive Guided Ecosystem.
 GitHub. https://github.com/OMARINO-DE/SAGE-Framework
 ```
 
 For BibTeX and other formats, see [CITATION.cff](CITATION.cff).
 
 ### Contact
+
+**Framework Originator:** Oday Bakkour - https://oday-bakkour.com/
 
 **OMARINO IT Services .inh Omar Zaror**  
 Website: https://www.omarino.de  
@@ -228,6 +231,8 @@ GitHub. https://github.com/OMARINO-DE/SAGE-Framework
 Für BibTeX und andere Formate siehe [CITATION.cff](CITATION.cff).
 
 ### Kontakt
+
+**Framework-Urheber:** Oday Bakkour - https://oday-bakkour.com/
 
 **OMARINO IT Services .inh Omar Zaror**  
 Website: https://www.omarino.de  
@@ -330,6 +335,8 @@ GitHub. https://github.com/OMARINO-DE/SAGE-Framework
 لصيغ BibTeX وغيرها، راجع [CITATION.cff](CITATION.cff).
 
 ### الاتصال
+
+**مؤسس الإطار:** Oday Bakkour - https://oday-bakkour.com/
 
 **OMARINO IT Services .inh Omar Zaror**  
 الموقع الإلكتروني: https://www.omarino.de  

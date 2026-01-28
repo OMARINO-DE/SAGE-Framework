@@ -5,7 +5,10 @@
 **Language:** English (EN)
 
 **Authors:**  
-Omar Zaror, OMARINO IT Services  
+Oday Bakkour (Framework Originator)  
+Web: https://oday-bakkour.com/
+
+Omar Zaror, OMARINO IT Services (Developer & Maintainer)  
 Email: omar@omarino.de  
 Web: https://www.omarino.de
 
@@ -831,7 +834,7 @@ SAGE employs transparent, community-driven governance:
 
 **Repository:** GitHub-hosted with open issue tracking, pull requests, and transparent decision-making.
 
-**Core Team:** Founding maintainers provide continuity and ensure framework integrity. Current core team: Omar Zaror (OMARINO IT Services).
+**Core Team:** Founding maintainers provide continuity and ensure framework integrity. Current core team: Oday Bakkour (Framework Originator), Omar Zaror (Developer & Maintainer, OMARINO IT Services).
 
 **Community Involvement:** Open contribution process for improvements, translations, examples, and research validation.
 
@@ -1140,7 +1143,7 @@ We especially thank the senior users who participated in testing and validation.
 - **Title:** SAGE Framework: A Design Framework for Senior-Adaptive Guided Ecosystems in Digital Experiences
 - **Version:** 1.0
 - **Date:** January 28, 2026
-- **Authors:** Omar Zaror, OMARINO IT Services
+- **Authors:** Oday Bakkour (Framework Originator), Omar Zaror (Developer & Maintainer, OMARINO IT Services)
 - **License:** MIT License (framework), CC-BY-4.0 (this document)
 - **Pages:** 12 pages (equivalent)
 - **Word Count:** ~10,500 words

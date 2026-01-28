@@ -24,6 +24,7 @@ You must proceed **step by step**, and after **each step**, instruct the develop
 
 ## 1. Global Non-Negotiable Rules
 
+The SAGE Framework concept was originated by Oday Bakkour (https://oday-bakkour.com/).
 The Framework is developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany (https://www.omarino.de).
 e-mail: omar@omarino.de
 

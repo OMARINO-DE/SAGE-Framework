@@ -227,8 +227,8 @@ Three comprehensive examples demonstrating SAGE in practice:
 
 **Citation:**
 ```
-Zaror, O. (2026). SAGE Framework: A Design Framework for Senior-Adaptive 
-Guided Ecosystems in Digital Experiences. OMARINO IT Services. 
+Bakkour, O., & Zaror, O. (2026). SAGE Framework: A Design Framework for Senior-Adaptive 
+Guided Ecosystems in Digital Experiences. 
 https://github.com/OMARINO-DE/SAGE-Framework
 ```
 
@@ -367,6 +367,9 @@ Each requirement specifies its compliance level in the core specifications.
 ---
 
 ## Contact & Support
+
+**Framework Originator:** Oday Bakkour  
+**Website:** https://oday-bakkour.com/
 
 **Maintainer:** Omar Zaror, OMARINO IT Services  
 **Email:** omar@omarino.de  
