@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this framework in your research or project, please cite it as below."
+title: "SAGE Framework: Senior-Adaptive Guided Ecosystem"
+abstract: "An open-source framework for designing digital experiences that empower senior users through Safe Simplicity, Assisted Autonomy, Guided Interaction, and Emotional Trust."
+authors:
+  - family-names: "SAGE Framework Contributors"
+type: software
+repository-code: "https://github.com/OMARINO-DE/SAGE-Framework"
+license: MIT
+keywords:
+  - accessibility
+  - senior users
+  - UX design
+  - age-inclusive design
+  - digital inclusion
+  - usability
+  - user experience
+  - WCAG
+  - ISO 9241-210
+version: 0.1.0
+date-released: "2026-01-28"
