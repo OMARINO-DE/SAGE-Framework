@@ -1,6 +1,6 @@
-# Contributing to SAGE Framework
+# Contributing to ELDER Framework
 
-Thank you for your interest in contributing to the SAGE Framework (Senior-Adaptive Guided Ecosystem)! This document provides guidelines for contributing to the project.
+Thank you for your interest in contributing to the ELDER Framework (Empowering Living for Digitally Enhanced Responsiveness)! This document provides guidelines for contributing to the project.
 
 ## Code of Conduct
 
@@ -26,7 +26,7 @@ Enhancement suggestions are welcome! Please provide:
 * Detailed description of the proposed functionality
 * Rationale: why this enhancement would be useful
 * Examples of how it would work
-* Consideration of SAGE's four pillars
+* Consideration of ELDER's five pillars
 
 ### Pull Requests
 
@@ -35,7 +35,7 @@ Enhancement suggestions are welcome! Please provide:
 3. **Maintain consistency**: Use the terminology defined in the glossary
 4. **Test your changes**: Ensure specifications are auditable and testable
 5. **Update documentation**: If you add requirements, update relevant checklists and examples
-6. **Write clear commit messages**: Follow the conventional commits format
+6. **Write clear commit mesELDERs**: Follow the conventional commits format
 7. **Submit your pull request**: Provide a clear description of changes
 
 ## Trilingual Documentation Requirements
@@ -75,12 +75,12 @@ Avoid vague language. Everything must be auditable and testable.
 
 Use these exact terms across all languages:
 
-- **SAGE** – Senior-Adaptive Guided Ecosystem
+- **ELDER** – Empowering Living for Digitally Enhanced Responsiveness
 - **Pillars**:
-  - Safe Simplicity
-  - Assisted Autonomy
-  - Guided Interaction
-  - Emotional Trust Layer
+  - Learning-Friendly
+  - Empowered Autonomy
+  - Directed Guidance
+  - Emotional Trust
 
 Check the [glossary](glossary/) for complete terminology.
 
@@ -88,11 +88,11 @@ Check the [glossary](glossary/) for complete terminology.
 
 1. Create a feature branch: `git checkout -b feature/your-feature-name`
 2. Make your changes
-3. Commit with clear messages: `git commit -m "docs: add German translation for Safe Simplicity"`
+3. Commit with clear mesELDERs: `git commit -m "docs: add German translation for Learning-Friendly"`
 4. Push to your fork: `git push origin feature/your-feature-name`
 5. Open a Pull Request
 
-### Commit Message Format
+### Commit MesELDER Format
 
 Follow conventional commits:
 
@@ -116,7 +116,7 @@ Follow conventional commits:
    - Trilingual completeness
    - Terminology consistency
    - Specification quality
-   - Compliance with SAGE principles
+   - Compliance with ELDER principles
 3. Address review feedback
 4. Once approved, your PR will be merged
 

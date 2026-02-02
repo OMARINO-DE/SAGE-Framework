@@ -1,11 +1,11 @@
-# SAGE Framework Governance
+# ELDER Framework Governance
 
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
 
 ## Overview
 
-The SAGE Framework (Senior-Adaptive Guided Ecosystem) is an open-source project dedicated to establishing standards and guidelines for creating digital experiences that empower senior users. This document outlines how the project is governed and how decisions are made.
+The ELDER Framework (Empowering Living for Digitally Enhanced Responsiveness) is an open-source project dedicated to establishing standards and guidelines for creating digital experiences that empower senior users. This document outlines how the project is governed and how decisions are made.
 
 ## Mission
 
@@ -117,7 +117,7 @@ When consensus cannot be reached:
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed guidelines.
 
 Key requirements:
-- All contributions must align with SAGE principles
+- All contributions must align with ELDER principles
 - Documentation must be trilingual
 - Specifications must be testable and auditable
 - Changes must maintain backward compatibility when possible
@@ -187,7 +187,7 @@ Enforcement responsibilities:
 
 ## Partnerships and Affiliations
 
-The SAGE Framework may partner with:
+The ELDER Framework may partner with:
 - Research institutions
 - Healthcare organizations
 - Government agencies
@@ -195,7 +195,7 @@ The SAGE Framework may partner with:
 - Technology companies
 
 Requirements for partnerships:
-- Alignment with SAGE principles
+- Alignment with ELDER principles
 - No exclusive control or proprietary restrictions
 - Maintain open-source nature
 - Core Team approval required
@@ -226,7 +226,7 @@ If Core Team members become inactive:
 
 For governance-related questions:
 - Open a GitHub Discussion
-- Email: governance@sage-framework.org (if established)
+- Email: governance@ELDER-framework.org (if established)
 - Review this document and [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ---

@@ -1,5 +1,5 @@
-# Assisted Autonomy
-## SAGE Framework - Pillar 2
+# Empowered Autonomy
+## ELDER Framework - Pillar 2
 
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
@@ -26,7 +26,7 @@ This specification applies to all decision-making points and assistance mechanis
 - Assistive features and accommodations
 - Complex workflows and processes
 
-Assisted Autonomy principles ensure users remain in control while receiving appropriate support to achieve their goals independently.
+Empowered Autonomy principles ensure users remain in control while receiving appropriate support to achieve their goals independently.
 
 ## Definitions
 
@@ -189,7 +189,7 @@ Assisted Autonomy principles ensure users remain in control while receiving appr
 - Default choices are reversible
 
 **Test Procedure**:
-1. Review all default settings against SAGE principles
+1. Review all default settings against ELDER principles
 2. Track percentage of users who modify defaults
 3. User testing: Task completion with default settings >85%
 4. Satisfaction survey: Users rate defaults as appropriate
@@ -200,7 +200,7 @@ Assisted Autonomy principles ensure users remain in control while receiving appr
 - ❌ Defaults optimized for tech-savvy users
 - ❌ Forcing users to configure before use
 - ❌ Hidden or hard-to-change defaults
-- ❌ Defaults that violate Safe Simplicity principles
+- ❌ Defaults that violate Learning-Friendly principles
 
 **Implementation Notes**:
 - Default to larger fonts, higher contrast, simpler layouts
@@ -226,7 +226,7 @@ Assisted Autonomy principles ensure users remain in control while receiving appr
 1. Audit all screens for help availability
 2. Verify help content relevance and clarity
 3. User testing: Users find relevant help within 10 seconds
-4. Help usage tracking: Monitor when/where help is accessed
+4. Help uELDER tracking: Monitor when/where help is accessed
 
 **Compliance Level**: Recommended
 
@@ -268,7 +268,7 @@ Assisted Autonomy principles ensure users remain in control while receiving appr
 - ❌ Long operations with no feedback
 - ❌ Unexpected automatic actions
 - ❌ Background operations with no indication
-- ❌ Technical jargon in status messages
+- ❌ Technical jargon in status mesELDERs
 
 **Implementation Notes**:
 - Show progress bars for operations >3 seconds
@@ -325,7 +325,7 @@ Assisted Autonomy principles ensure users remain in control while receiving appr
 - Path from basic to advanced clearly marked
 
 **Test Procedure**:
-1. Analyze feature usage patterns (80/20 rule)
+1. Analyze feature uELDER patterns (80/20 rule)
 2. Verify advanced features are progressively disclosed
 3. User testing: Beginners not overwhelmed, advanced users can access power features
 4. Time-to-competency measurement
@@ -414,11 +414,11 @@ Assisted Autonomy principles ensure users remain in control while receiving appr
 ### Testing Phase
 1. Test assistance effectiveness with users
 2. Measure autonomy preservation
-3. Monitor assistance usage patterns
+3. Monitor assistance uELDER patterns
 4. Evaluate tone and respectfulness
 
 ### Maintenance Phase
-1. Refine assistance based on usage data
+1. Refine assistance based on uELDER data
 2. Update help content based on support requests
 3. Adjust complexity graduation based on user progression
 4. Continuously improve defaults
@@ -435,8 +435,8 @@ Assisted Autonomy principles ensure users remain in control while receiving appr
 ---
 
 **For translations, see:**
-- [German (Deutsch)](assisted-autonomy.de.md)
-- [Arabic (العربية)](assisted-autonomy.ar.md)
+- [German (Deutsch)](empowered-autonomy.de.md)
+- [Arabic (العربية)](empowered-autonomy.ar.md)
 
 **For implementation checklists, see:**
 - [Product Checklist](../checklists/product-checklist.en.md)

@@ -13,7 +13,7 @@
 
 **User Goal**: Record that afternoon medication was taken
 
-**SAGE Requirements**: S5, A3, A4, G2, E2, E9
+**ELDER Requirements**: S5, A3, A4, G2, E2, E9
 
 ---
 
@@ -40,7 +40,7 @@
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **S5**: One clear primary action per medication
 - **S2**: Medication name 20px bold, instructions 18px
 - **S4**: Button is 64×200px (exceeds 56px minimum)
@@ -74,7 +74,7 @@
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **A4**: Confirmation for important health action
 - **S3**: Pill photo helps prevent wrong-medication errors
 - **G2**: Explicit yes/no choices with clear language
@@ -106,7 +106,7 @@
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **E2**: Immediate feedback (checkmark appears <100ms)
 - **E9**: Positive reinforcement, not patronizing
 - **A3**: Undo available for 30 seconds
@@ -137,7 +137,7 @@
 
 **User Goal**: Request a refill before running out of medication
 
-**SAGE Requirements**: S7, S9, G1, G4, G6, A5, A8, E6
+**ELDER Requirements**: S7, S9, G1, G4, G6, A5, A8, E6
 
 ---
 
@@ -163,7 +163,7 @@
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **S7**: Proactive warning at 7 days remaining
 - **S9**: Alert is concise (medication name, days left, action)
 - **G2**: Clear next action "Request Refill"
@@ -202,7 +202,7 @@
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **G1**: Progress shows Step 1/3, user knows what to expect
 - **A5**: Default pre-selected (user's usual pharmacy)
 - **A5**: Default clearly labeled "Your usual pharmacy"
@@ -246,7 +246,7 @@
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **G1**: Progress indicator shows Step 2/3
 - **S9**: Key information only (medication, quantity, pharmacy, cost)
 - **A8**: User sees cost before committing (safe exploration)
@@ -290,7 +290,7 @@
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **G9**: Completion feedback includes what happened and what's next
 - **G4**: Clear 3-step explanation of process
 - **E6**: Transparent about timing ("usually within 2 hours")
@@ -306,7 +306,7 @@
 
 **User Goal**: Check recent lab results and understand what they mean
 
-**SAGE Requirements**: S2, S3, A6, A10, G5, E3, E4, E7
+**ELDER Requirements**: S2, S3, A6, A10, G5, E3, E4, E7
 
 ---
 
@@ -335,12 +335,12 @@
 │  │  [View Details]                │   │
 │  └────────────────────────────────┘   │
 │                                        │
-│  [Message Dr. Chen] ←────────────────  E7: Support access
+│  [MesELDER Dr. Chen] ←────────────────  E7: Support access
 │                                        │
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **S9**: Shows only recent results (2-3 most recent)
 - **E4**: Doctor review status visible (builds trust)
 - **E3**: Reassuring summary before details
@@ -392,13 +392,13 @@
 │                                        │
 │  ─────────────────────────────────────│
 │                                        │
-│  [Message Dr. Chen About Results] ←──  E7: Easy to ask questions
+│  [MesELDER Dr. Chen About Results] ←──  E7: Easy to ask questions
 │  [Download PDF Report]                │
 │                                        │
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **S2**: Result values 24px bold (critical health information)
 - **S3**: Color + icon + text for status (accessible)
   - ✓ = green + checkmark + "This is a healthy level"
@@ -444,12 +444,12 @@
 │  manageable with small changes.       │  E3: Reassuring
 │                                        │
 │  [Close]                               │
-│  [Message Dr. Chen]                    │
+│  [MesELDER Dr. Chen]                    │
 │                                        │
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **A6**: Context-sensitive help explains relevant concept
 - **A10**: Grade 7 reading level, no medical jargon
 - **A10**: Assumes user capability ("What can you do")
@@ -465,7 +465,7 @@
 
 **User Goal**: System helps user who forgot multiple medications
 
-**SAGE Requirements**: S7, A7, A8, G10, E3, E7
+**ELDER Requirements**: S7, A7, A8, G10, E3, E7
 
 ---
 
@@ -503,7 +503,7 @@ User didn't open app for 2 days. Has 6 missed medication doses.
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **E3**: Non-judgmental language ("Let's get you back on track")
 - **A7**: Transparent about situation (6 doses, 2 days)
 - **E7**: Human support (doctor) is primary option
@@ -544,7 +544,7 @@ User didn't open app for 2 days. Has 6 missed medication doses.
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **A7**: System explains what information was shared
 - **E7**: App initiates call (easier than user dialing)
 - **E7**: Complete contact information provided
@@ -582,7 +582,7 @@ User didn't open app for 2 days. Has 6 missed medication doses.
 └────────────────────────────────────────┘
 ```
 
-**SAGE Compliance**:
+**ELDER Compliance**:
 - **G10**: Clear next steps after error recovery
 - **A5**: Smart options pre-filled (common doctor instructions)
 - **A2**: Progressive assistance (offering reminder setup)
@@ -591,9 +591,9 @@ User didn't open app for 2 days. Has 6 missed medication doses.
 
 ---
 
-## Flow Analysis: SAGE Principle Application
+## Flow Analysis: ELDER Principle Application
 
-### Safe Simplicity Throughout
+### Learning-Friendly Throughout
 
 | Screen | Elements Count | Typography | Contrast | Primary Action |
 |--------|----------------|------------|----------|----------------|
@@ -606,7 +606,7 @@ User didn't open app for 2 days. Has 6 missed medication doses.
 
 **Average**: 5.5 elements per screen (target: ≤7) ✓
 
-### Assisted Autonomy Throughout
+### Empowered Autonomy Throughout
 
 | Feature | User Control | Undo | Smart Defaults | Help Access | Respectful |
 |---------|--------------|------|----------------|-------------|------------|
@@ -617,7 +617,7 @@ User didn't open app for 2 days. Has 6 missed medication doses.
 
 **All features**: Support autonomy while providing assistance ✓
 
-### Guided Interaction Throughout
+### Directed Guidance Throughout
 
 | Flow | Progress | Next Action | Orientation | Recovery | Completion |
 |------|----------|-------------|-------------|----------|------------|
@@ -634,7 +634,7 @@ User didn't open app for 2 days. Has 6 missed medication doses.
 |---------|-------------|----------------|------------|------------------|---------|
 | Visual Design | ✓ Design system | <100ms feedback | ✓ | Doctor presence | ✓ Always visible |
 | Language | ✓ Tone guidelines | ✓ | ✓ Positive framing | ✓ Reviews noted | ✓ Multiple channels |
-| Performance | ✓ | <2s load measured | ✓ | ✓ Security badges | ✓ Phone/chat/message |
+| Performance | ✓ | <2s load measured | ✓ | ✓ Security badges | ✓ Phone/chat/mesELDER |
 
 **Overall**: Trust maintained throughout experience ✓
 
@@ -650,7 +650,7 @@ User didn't open app for 2 days. Has 6 missed medication doses.
 - [German (Deutsch)](user-flows.de.md)
 - [Arabic (العربية)](user-flows.ar.md)
 
-### SAGE Framework
+### ELDER Framework
 - [Core Specifications](../../core/)
 - [Checklists](../../checklists/)
 

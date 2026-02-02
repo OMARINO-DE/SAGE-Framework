@@ -11,7 +11,7 @@
 
 ## User Flow: Driver's License Renewal
 
-**SAGE Requirements**: S7, G1, G4, G6, A5, E6
+**ELDER Requirements**: S7, G1, G4, G6, A5, E6
 
 ### Step 1: Eligibility Check (Error Prevention - S7)
 ```
@@ -39,15 +39,15 @@ Pre-filled from DMV records:
 
 ### Critical Tests
 
-**S1-S10 (Safe Simplicity)**
+**S1-S10 (Learning-Friendly)**
 - Pass Criteria: ≤7 elements per screen, 18px min font, 7:1 contrast, 64px buttons
 - Expected Result: PASS on all screens
 
-**A1-A10 (Assisted Autonomy)**
+**A1-A10 (Empowered Autonomy)**
 - Pass Criteria: Can save progress, edit before submit, help available, respectful tone
 - Expected Result: PASS with 90%+ user success
 
-**G1-G10 (Guided Interaction)**
+**G1-G10 (Directed Guidance)**
 - Pass Criteria: Progress visible, next action clear, can cancel, completion feedback
 - Expected Result: PASS with 85%+ task completion
 
@@ -68,4 +68,4 @@ Pre-filled from DMV records:
 - [Overview](overview.en.md)
 - [German (Deutsch)](user-flows.de.md)
 - [Arabic (العربية)](user-flows.ar.md)
-- [SAGE Framework](../../core/)
+- [ELDER Framework](../../core/)

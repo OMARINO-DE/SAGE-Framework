@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The SAGE Framework is currently in active development. We provide security updates for the following versions:
+The ELDER Framework is currently in active development. We provide security updates for the following versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -10,7 +10,7 @@ The SAGE Framework is currently in active development. We provide security updat
 
 ## Reporting a Vulnerability
 
-The SAGE Framework community takes security vulnerabilities seriously. We appreciate your efforts to responsibly disclose your findings.
+The ELDER Framework community takes security vulnerabilities seriously. We appreciate your efforts to responsibly disclose your findings.
 
 ### How to Report
 
@@ -18,7 +18,7 @@ The SAGE Framework community takes security vulnerabilities seriously. We apprec
 
 Instead, please report security vulnerabilities by email to:
 
-**security@sage-framework.org** (or create a private security advisory via GitHub's Security tab)
+**security@ELDER-framework.org** (or create a private security advisory via GitHub's Security tab)
 
 Please include the following information in your report:
 
@@ -45,20 +45,20 @@ Please include the following information in your report:
 
 ## Security Best Practices
 
-When implementing SAGE Framework specifications:
+When implementing ELDER Framework specifications:
 
 1. **Input Validation**: Always validate and sanitize user inputs, especially from senior users
 2. **Authentication**: Implement strong authentication mechanisms while maintaining usability
 3. **Data Privacy**: Protect sensitive user data, particularly health and personal information
 4. **Accessibility**: Ensure security features are accessible to users with varying abilities
-5. **Error Handling**: Provide clear error messages without exposing system internals
+5. **Error Handling**: Provide clear error mesELDERs without exposing system internals
 
 ## Scope
 
 This security policy applies to:
 
-* The SAGE Framework documentation and specifications
+* The ELDER Framework documentation and specifications
 * Reference implementations and example code
-* The SAGE Framework repository and website
+* The ELDER Framework repository and website
 
-Thank you for helping keep SAGE Framework and its users safe!
+Thank you for helping keep ELDER Framework and its users safe!

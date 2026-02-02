@@ -70,7 +70,7 @@ Measurable acceptance criteria for FamilyBridge family communication app.
 
 **Pass Criteria**:
 - [ ] 85%+ make calls independently (no family help)
-- [ ] 80%+ send messages independently
+- [ ] 80%+ send mesELDERs independently
 - [ ] <10% call tech support
 - [ ] Confidence rating ≥4/5
 
@@ -78,12 +78,12 @@ Measurable acceptance criteria for FamilyBridge family communication app.
 
 ---
 
-## SAGE Compliance Summary
+## ELDER Compliance Summary
 
-All 40 SAGE requirements tested across:
-- Safe Simplicity: Photo-based contacts, large text, simple flows
-- Assisted Autonomy: Undo, help, respectful tone
-- Guided Interaction: Clear calls to action, progress feedback
+All 40 ELDER requirements tested across:
+- Learning-Friendly: Photo-based contacts, large text, simple flows
+- Empowered Autonomy: Undo, help, respectful tone
+- Directed Guidance: Clear calls to action, progress feedback
 - Emotional Trust: Warm design, reliable connections, support
 
 **Target**: 100% compliance (Strong level)
@@ -103,4 +103,4 @@ All 40 SAGE requirements tested across:
 - [User Flows](user-flows.en.md)
 - [German (Deutsch)](acceptance-tests.de.md)
 - [Arabic (العربية)](acceptance-tests.ar.md)
-- [SAGE Framework](../../core/)
+- [ELDER Framework](../../core/)

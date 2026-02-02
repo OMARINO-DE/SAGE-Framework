@@ -1,11 +1,11 @@
-# Safe Simplicity - Placeholder for Full Arabic Translation
+# Learning-Friendly - Placeholder for Full Arabic Translation
 
 > ملاحظة: هذا المستند مكتوب بالعربية وقد يُعرض من اليمين إلى اليسار حسب بيئة العرض.
 
-**Note:** This is a placeholder file. The full Arabic translation following the comprehensive structure of the English version (safe-simplicity.en.md) with all 10 requirements (S1-S10) should be completed here.
+**Note:** This is a placeholder file. The full Arabic translation following the comprehensive structure of the English version (learning-friendly.en.md) with all 10 requirements (S1-S10) should be completed here.
 
-For immediate reference, see the English version: [safe-simplicity.en.md](safe-simplicity.en.md)
-For German version, see: [safe-simplicity.de.md](safe-simplicity.de.md)
+For immediate reference, see the English version: [learning-friendly.en.md](learning-friendly.en.md)
+For German version, see: [learning-friendly.de.md](learning-friendly.de.md)
 
 ## Structure to be translated:
 - Goal, Scope, Definitions

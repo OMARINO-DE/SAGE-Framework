@@ -1,5 +1,5 @@
-# Emotional Trust Layer
-## SAGE Framework - Pillar 4
+# Emotional Trust
+## ELDER Framework - Pillar 4
 
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
@@ -27,7 +27,7 @@ This specification applies to all aspects of the user experience that influence 
 - Brand consistency and familiarity
 - Support and human connection
 
-The Emotional Trust Layer ensures users feel safe, respected, and confident when using digital products.
+The Emotional Trust ensures users feel safe, respected, and confident when using digital products.
 
 ## Definitions
 
@@ -73,7 +73,7 @@ The Emotional Trust Layer ensures users feel safe, respected, and confident when
 - Use component libraries (Material-UI, Ant Design, custom)
 - Enforce design tokens for colors, spacing, typography
 - Regular design audits for consistency
-- Train team on design system usage
+- Train team on design system uELDER
 
 ---
 
@@ -122,7 +122,7 @@ The Emotional Trust Layer ensures users feel safe, respected, and confident when
 - Content tone audit: 100% compliant with tone guidelines
 - Readability: Flesch-Kincaid grade level 8 or below
 - No technical jargon in user-facing content
-- Positive framing: 80%+ of messages
+- Positive framing: 80%+ of mesELDERs
 
 **Test Procedure**:
 1. Content audit against tone guidelines
@@ -226,7 +226,7 @@ The Emotional Trust Layer ensures users feel safe, respected, and confident when
 - Privacy policy written in plain language (grade 8 reading level)
 - Data collection explained at point of collection
 - Privacy settings accessible and understandable
-- Data usage notifications clear and specific
+- Data uELDER notifications clear and specific
 - 85%+ users understand what data is collected and why
 
 **Test Procedure**:
@@ -241,7 +241,7 @@ The Emotional Trust Layer ensures users feel safe, respected, and confident when
 - ❌ Long, legal-jargon privacy policies
 - ❌ Hidden data collection
 - ❌ Unclear opt-in/opt-out mechanisms
-- ❌ No explanation of data usage
+- ❌ No explanation of data uELDER
 
 **Implementation Notes**:
 - Rewrite privacy policy in plain language
@@ -355,7 +355,7 @@ The Emotional Trust Layer ensures users feel safe, respected, and confident when
 **Implementation Notes**:
 - Acknowledge first-time completions
 - Celebrate milestones appropriately
-- Use subtle, dignified celebration (checkmark, brief message)
+- Use subtle, dignified celebration (checkmark, brief mesELDER)
 - Avoid: animated characters, excessive badges
 - Test celebration appropriateness with senior users
 

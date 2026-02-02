@@ -54,7 +54,7 @@ This document provides measurable acceptance criteria for CitizenConnect governm
 **Pass Criteria**:
 - [ ] Can save and resume over multiple sessions
 - [ ] Inline guidance reduces help calls
-- [ ] Error messages actionable
+- [ ] Error mesELDERs actionable
 - [ ] 80%+ complete without phone assistance
 - [ ] Clear next steps after submission
 
@@ -62,9 +62,9 @@ This document provides measurable acceptance criteria for CitizenConnect governm
 
 ---
 
-## SAGE Compliance Validation
+## ELDER Compliance Validation
 
-All 40 SAGE requirements (S1-S10, A1-A10, G1-G10, E1-E10) must be tested.
+All 40 ELDER requirements (S1-S10, A1-A10, G1-G10, E1-E10) must be tested.
 
 **Target Compliance**: 95%+ (Strong level)
 

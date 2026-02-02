@@ -1,4 +1,4 @@
-# SAGE Framework - Translation Status
+# ELDER Framework - Translation Status
 
 **Last Updated:** January 28, 2026  
 **Framework Version:** 1.0
@@ -7,7 +7,7 @@
 
 ## Overview
 
-SAGE Framework aims to provide complete documentation in three languages:
+ELDER Framework aims to provide complete documentation in three languages:
 - **English (EN)** - Canonical/Primary ✅ Complete
 - **German (DE)** - In Progress 🔄
 - **Arabic (AR)** - In Progress 🔄
@@ -24,7 +24,7 @@ SAGE Framework aims to provide complete documentation in three languages:
 | **Glossary** | ✅ Complete | glossary/glossary.{en,de,ar}.md |
 | **Governance** | ✅ Complete | governance/GOVERNANCE.{en,de,ar}.md |
 | **Roadmap** | ✅ Complete | governance/ROADMAP.{en,de,ar}.md |
-| **Safe Simplicity** | ✅ Complete | core/safe-simplicity.{en,de,ar}.md |
+| **Learning-Friendly** | ✅ Complete | core/learning-friendly.{en,de,ar}.md |
 
 **Total:** 5 document sets fully translated
 
@@ -36,9 +36,9 @@ SAGE Framework aims to provide complete documentation in three languages:
 
 | Document | EN | DE | AR | Priority |
 |----------|----|----|----| ---------|
-| **Assisted Autonomy** | ✅ | ❌ | ❌ | High |
-| **Guided Interaction** | ✅ | ❌ | ❌ | High |
-| **Emotional Trust Layer** | ✅ | ❌ | ❌ | High |
+| **Empowered Autonomy** | ✅ | ❌ | ❌ | High |
+| **Directed Guidance** | ✅ | ❌ | ❌ | High |
+| **Emotional Trust** | ✅ | ❌ | ❌ | High |
 
 **Lines per file:** ~450  
 **Estimated effort:** 3 files × 2 languages = 6 translations
@@ -104,7 +104,7 @@ SAGE Framework aims to provide complete documentation in three languages:
 - ✅ **5 document sets** fully translated (EN/DE/AR)
 - ✅ **English (EN)** - 100% complete (canonical reference)
 - ✅ Foundation documents (README, Glossary, Governance, Roadmap)
-- ✅ One complete core specification example (Safe Simplicity)
+- ✅ One complete core specification example (Learning-Friendly)
 
 ### Pending
 - 🔄 **3 core specifications** need DE/AR
@@ -124,13 +124,13 @@ SAGE Framework aims to provide complete documentation in three languages:
 - README with trilingual sections
 - Glossary (EN/DE/AR)
 - Governance documents (EN/DE/AR)
-- One complete pillar example (Safe Simplicity EN/DE/AR)
+- One complete pillar example (Learning-Friendly EN/DE/AR)
 
 ### Phase 2: Core Framework (Next Priority)
 1. **Core Specifications** (3 pillars)
-   - Assisted Autonomy
-   - Guided Interaction
-   - Emotional Trust Layer
+   - Empowered Autonomy
+   - Directed Guidance
+   - Emotional Trust
 2. **Product & UX Checklists** (practitioner-focused)
 3. **Healthcare Example** (most detailed validation)
 
@@ -257,8 +257,8 @@ Based on current documentation volume:
 
 **Framework Maintainer:** Omar Zaror, OMARINO IT Services  
 **Email:** omar@omarino.de  
-**Repository:** https://github.com/OMARINO-DE/SAGE-Framework  
-**Translation Issues:** https://github.com/OMARINO-DE/SAGE-Framework/labels/translation
+**Repository:** https://github.com/OMARINO-DE/ELDER-Framework  
+**Translation Issues:** https://github.com/OMARINO-DE/ELDER-Framework/labels/translation
 
 ---
 

@@ -1,5 +1,5 @@
-# Guided Interaction
-## SAGE Framework - Pillar 3
+# Directed Guidance
+## ELDER Framework - Pillar 3
 
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
@@ -26,7 +26,7 @@ This specification applies to all user flows, navigation, and wayfinding element
 - Task completion guidance
 - Error recovery and support
 
-Guided Interaction principles ensure users never feel lost or uncertain about what to do next.
+Directed Guidance principles ensure users never feel lost or uncertain about what to do next.
 
 ## Definitions
 
@@ -158,7 +158,7 @@ Guided Interaction principles ensure users never feel lost or uncertain about wh
 1. Map user mental models through interviews
 2. Compare process flows to mental models
 3. User testing: Prediction of next step
-4. Monitor back-button usage (high usage suggests poor sequencing)
+4. Monitor back-button uELDER (high uELDER suggests poor sequencing)
 
 **Compliance Level**: Recommended
 
@@ -336,7 +336,7 @@ Guided Interaction principles ensure users never feel lost or uncertain about wh
 
 **Anti-Patterns**:
 - ❌ Silent completion with no feedback
-- ❌ Generic "Success!" messages
+- ❌ Generic "Success!" mesELDERs
 - ❌ Unclear what was actually completed
 - ❌ No indication of next steps
 
@@ -357,7 +357,7 @@ Guided Interaction principles ensure users never feel lost or uncertain about wh
 
 **Metrics**:
 - 100% of error states include recovery instructions
-- Error messages appear near the error source
+- Error mesELDERs appear near the error source
 - Specific explanation of what's wrong and how to fix
 - Progress and data preserved during error recovery
 
@@ -371,13 +371,13 @@ Guided Interaction principles ensure users never feel lost or uncertain about wh
 **Compliance Level**: Minimum
 
 **Anti-Patterns**:
-- ❌ Generic error messages: "Invalid input"
+- ❌ Generic error mesELDERs: "Invalid input"
 - ❌ Errors at top of page, far from source
 - ❌ No guidance on how to fix
 - ❌ Clearing all data on error
 
 **Implementation Notes**:
-- Place error message near the problematic field
+- Place error mesELDER near the problematic field
 - Specific guidance: "Phone number must include area code"
 - Highlight the error field visually
 - Preserve all user input
@@ -440,8 +440,8 @@ Guided Interaction principles ensure users never feel lost or uncertain about wh
 ---
 
 **For translations, see:**
-- [German (Deutsch)](guided-interaction.de.md)
-- [Arabic (العربية)](guided-interaction.ar.md)
+- [German (Deutsch)](directed-guidance.de.md)
+- [Arabic (العربية)](directed-guidance.ar.md)
 
 **For implementation checklists, see:**
 - [Product Checklist](../checklists/product-checklist.en.md)

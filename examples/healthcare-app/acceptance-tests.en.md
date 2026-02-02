@@ -11,7 +11,7 @@
 
 ## Overview
 
-This document provides measurable, testable acceptance criteria for the HealthCompanion healthcare app example. All tests are designed to validate SAGE Framework compliance.
+This document provides measurable, testable acceptance criteria for the HealthCompanion healthcare app example. All tests are designed to validate ELDER Framework compliance.
 
 **Testing Philosophy**:
 - Tests must be objective and measurable
@@ -21,7 +21,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 ---
 
-## Test Suite 1: Safe Simplicity (S1-S10)
+## Test Suite 1: Learning-Friendly (S1-S10)
 
 ### S1: Minimal Visual Clutter
 
@@ -63,7 +63,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 **Pass Criteria**:
 - [ ] Body text: 18px
 - [ ] Medication names: 20px
-- [ ] Dosage values: 24px (critical information)
+- [ ] DoELDER values: 24px (critical information)
 - [ ] Small text (captions): 14px minimum
 - [ ] Line height: 1.5-1.8x font size
 - [ ] Readable at arm's length (senior user validation)
@@ -205,7 +205,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 **Pass Criteria**:
 - [ ] Form fields validate in real-time (as user types)
-- [ ] Validation messages appear before submission
+- [ ] Validation mesELDERs appear before submission
 - [ ] Destructive actions require confirmation
 - [ ] Input masks guide structured data entry
 - [ ] Error rate <10% across all tasks
@@ -223,23 +223,23 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 ### S8: Error Tolerance
 
-**Requirement**: Error messages in plain language, explain fix, preserve input, undo available
+**Requirement**: Error mesELDERs in plain language, explain fix, preserve input, undo available
 
 **Test Procedure**:
 1. Trigger all possible error states
-2. Verify error message clarity and helpfulness
+2. Verify error mesELDER clarity and helpfulness
 3. Test that user input is preserved
 4. Verify undo mechanisms function
 
 **Pass Criteria**:
-- [ ] Error messages at grade 8 reading level
+- [ ] Error mesELDERs at grade 8 reading level
 - [ ] All errors explain how to fix the issue
 - [ ] User input preserved on validation errors
 - [ ] Undo available for important actions (30s window)
 - [ ] 90%+ users successfully recover from errors in <30 seconds
 
 **Evidence Required**:
-- Error message catalog with readability scores
+- Error mesELDER catalog with readability scores
 - Screenshots showing input preservation
 - Undo mechanism test results
 - User error recovery data
@@ -304,7 +304,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 ---
 
-## Test Suite 2: Assisted Autonomy (A1-A10)
+## Test Suite 2: Empowered Autonomy (A1-A10)
 
 ### A1: User Control
 
@@ -375,7 +375,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 **Pass Criteria**:
 - [ ] Marking medication as taken: undo available
-- [ ] Sending message: undo available
+- [ ] Sending mesELDER: undo available
 - [ ] Changing settings: undo available
 - [ ] Undo accessible in ≤3 taps/clicks
 - [ ] Undo window ≥30 seconds (measured)
@@ -426,7 +426,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 **Requirement**: 80%+ users complete tasks with default settings
 
 **Test Procedure**:
-1. Track default usage vs. customization
+1. Track default uELDER vs. customization
 2. Monitor task completion with defaults
 3. Verify defaults are senior-optimized
 
@@ -438,12 +438,12 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 - [ ] 80%+ users complete tasks without changing defaults
 
 **Evidence Required**:
-- Analytics showing default usage rates
+- Analytics showing default uELDER rates
 - Default configuration documentation
 - User task completion data
 
 **Test Result**: PASS / FAIL
-**Default Usage Rate**: ___%
+**Default UELDER Rate**: ___%
 **Notes**: _________________________________
 
 ---
@@ -516,7 +516,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 **Pass Criteria**:
 - [ ] Refill cost preview before submitting
-- [ ] Message preview before sending
+- [ ] MesELDER preview before sending
 - [ ] Auto-save every 30-60 seconds
 - [ ] Progress saved when navigating away
 - [ ] Work recoverable after crash/interruption
@@ -538,7 +538,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 **Requirement**: Core features (80% use cases) in main UI, advanced behind progressive disclosure
 
 **Test Procedure**:
-1. Analyze feature usage analytics
+1. Analyze feature uELDER analytics
 2. Verify 80/20 rule applied to UI
 3. Check advanced features are accessible but not prominent
 
@@ -549,7 +549,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 - [ ] 80%+ of tasks completable without accessing advanced features
 
 **Evidence Required**:
-- Feature usage analytics
+- Feature uELDER analytics
 - UI complexity audit
 - User task completion data
 
@@ -572,7 +572,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 - [ ] No childish language or imagery
 - [ ] Assistance phrased as "Would you like help?" not "Let me show you"
 - [ ] Language assumes capability
-- [ ] Error messages constructive, not blaming
+- [ ] Error mesELDERs constructive, not blaming
 - [ ] 90%+ users rate tone as respectful (≥4.5/5)
 
 **Evidence Required**:
@@ -586,7 +586,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 ---
 
-## Test Suite 3: Guided Interaction (G1-G10)
+## Test Suite 3: Directed Guidance (G1-G10)
 
 ### G1: Progress Indication
 
@@ -620,7 +620,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 **Test Procedure**:
 1. Audit all screens for next action clarity
-2. Verify action verb usage
+2. Verify action verb uELDER
 3. User testing: "What should you do next?" (time and accuracy)
 
 **Pass Criteria**:
@@ -802,7 +802,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 **Pass Criteria**:
 - [ ] Medication taken: confirmation with what's next
 - [ ] Refill submitted: confirmation with timeline
-- [ ] Message sent: confirmation with expected response time
+- [ ] MesELDER sent: confirmation with expected response time
 - [ ] 95%+ users understand what happened
 
 **Evidence Required**:
@@ -827,7 +827,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 **Pass Criteria**:
 - [ ] All errors have recovery instructions
-- [ ] Error messages appear near error source
+- [ ] Error mesELDERs appear near error source
 - [ ] Instructions are actionable
 - [ ] 90%+ users successfully recover in <30 seconds
 
@@ -841,7 +841,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 ---
 
-## Test Suite 4: Emotional Trust Layer (E1-E10)
+## Test Suite 4: Emotional Trust (E1-E10)
 
 ### E1: Consistent Visual Language
 
@@ -861,8 +861,8 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 **Evidence Required**:
 - Design system coverage audit
-- Color and font usage reports
-- Component usage analysis
+- Color and font uELDER reports
+- Component uELDER analysis
 
 **Test Result**: PASS / FAIL
 **DS Coverage**: ___%
@@ -915,7 +915,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 - [ ] All content at grade 8 reading level or below
 - [ ] Zero unexplained medical jargon
 - [ ] Positive, supportive tone throughout
-- [ ] Error messages constructive, not blaming
+- [ ] Error mesELDERs constructive, not blaming
 - [ ] 90%+ users rate tone warmth ≥4/5
 
 **Evidence Required**:
@@ -997,7 +997,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 **Pass Criteria**:
 - [ ] Privacy policy at grade 8 reading level
-- [ ] Data usage explained when requested (location, contacts, camera)
+- [ ] Data uELDER explained when requested (location, contacts, camera)
 - [ ] Clear consent for each data type
 - [ ] 85%+ users understand what data is collected and why
 
@@ -1024,7 +1024,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 
 **Pass Criteria**:
 - [ ] Contact options reachable in ≤2 clicks from any screen
-- [ ] Multiple channels: phone, chat, message, email
+- [ ] Multiple channels: phone, chat, mesELDER, email
 - [ ] Phone number tap-to-call enabled
 - [ ] Support hours clearly stated
 - [ ] Support satisfaction ≥4/5 in surveys
@@ -1090,7 +1090,7 @@ This document provides measurable, testable acceptance criteria for the HealthCo
 **Evidence Required**:
 - Celebration audit document
 - User tone perception feedback
-- Screenshots of success messages
+- Screenshots of success mesELDERs
 
 **Test Result**: PASS / FAIL
 **User Perception**: Appropriate / Patronizing
@@ -1224,21 +1224,21 @@ Test complete user journeys with real senior users (age 65+, n=10 minimum):
 
 ## Compliance Summary
 
-### Overall SAGE Compliance Score
+### Overall ELDER Compliance Score
 
 | Pillar | Requirements | Tests Passed | Compliance % |
 |--------|--------------|--------------|--------------|
-| Safe Simplicity (S1-S10) | 10 | __ / 10 | ___% |
-| Assisted Autonomy (A1-A10) | 10 | __ / 10 | ___% |
-| Guided Interaction (G1-G10) | 10 | __ / 10 | ___% |
-| Emotional Trust Layer (E1-E10) | 10 | __ / 10 | ___% |
+| Learning-Friendly (S1-S10) | 10 | __ / 10 | ___% |
+| Empowered Autonomy (A1-A10) | 10 | __ / 10 | ___% |
+| Directed Guidance (G1-G10) | 10 | __ / 10 | ___% |
+| Emotional Trust (E1-E10) | 10 | __ / 10 | ___% |
 | **TOTAL** | **40** | **__ / 40** | **___%** |
 
 ### Compliance Level Achieved
 
-- [ ] **Minimum** (80%+ of Minimum requirements) – Basic SAGE compliance
-- [ ] **Recommended** (90%+ Min + 70%+ Rec) – Strong SAGE compliance
-- [ ] **Strong** (95%+ Min + 85%+ Rec + 50%+ Strong) – Exemplary SAGE compliance
+- [ ] **Minimum** (80%+ of Minimum requirements) – Basic ELDER compliance
+- [ ] **Recommended** (90%+ Min + 70%+ Rec) – Strong ELDER compliance
+- [ ] **Strong** (95%+ Min + 85%+ Rec + 50%+ Strong) – Exemplary ELDER compliance
 
 **Level Achieved**: _________________________
 
@@ -1285,7 +1285,7 @@ Test complete user journeys with real senior users (age 65+, n=10 minimum):
 - [German (Deutsch)](acceptance-tests.de.md)
 - [Arabic (العربية)](acceptance-tests.ar.md)
 
-### SAGE Framework
+### ELDER Framework
 - [Core Specifications](../../core/)
 - [Checklists](../../checklists/)
 

@@ -1,4 +1,4 @@
-# SAGE Framework - Engineering Checklist
+# ELDER Framework - Engineering Checklist
 
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
@@ -11,7 +11,7 @@
 
 ## Overview
 
-This checklist helps Engineers implement SAGE-compliant features correctly. Use during development, code review, and QA testing.
+This checklist helps Engineers implement ELDER-compliant features correctly. Use during development, code review, and QA testing.
 
 **How to Use**:
 - Reference during implementation
@@ -34,7 +34,7 @@ This checklist helps Engineers implement SAGE-compliant features correctly. Use 
 
 ---
 
-## Implementation - Safe Simplicity
+## Implementation - Learning-Friendly
 
 ### S1: Minimal Visual Clutter
 
@@ -65,7 +65,7 @@ This checklist helps Engineers implement SAGE-compliant features correctly. Use 
 ### S2: Large Typography
 
 ```css
-/* ✅ SAGE-compliant typography */
+/* ✅ ELDER-compliant typography */
 :root {
   --font-base: 18px;          /* Body text */
   --font-large: 20px;         /* Important text */
@@ -91,7 +91,7 @@ body {
 ### S3: High Contrast
 
 ```css
-/* ✅ SAGE-compliant contrast */
+/* ✅ ELDER-compliant contrast */
 :root {
   --text-primary: #000000;      /* On white: 21:1 */
   --text-secondary: #404040;    /* On white: 11.6:1 */
@@ -119,7 +119,7 @@ body {
 ### S4: Large Touch Targets
 
 ```css
-/* ✅ SAGE-compliant touch targets */
+/* ✅ ELDER-compliant touch targets */
 .button {
   min-width: 56px;
   min-height: 56px;
@@ -185,9 +185,9 @@ body {
 - [ ] Navigation HTML structure identical
 - [ ] Home link present on every page
 - [ ] Real-time form validation implemented
-- [ ] Validation messages appear immediately
+- [ ] Validation mesELDERs appear immediately
 - [ ] Confirmation dialogs for destructive actions
-- [ ] Error messages in plain language
+- [ ] Error mesELDERs in plain language
 - [ ] User input preserved on errors (localStorage/state)
 - [ ] Undo mechanism implemented (30s+ window)
 - [ ] Information limited to 3-5 key points per screen
@@ -196,7 +196,7 @@ body {
 
 ---
 
-## Implementation - Assisted Autonomy
+## Implementation - Empowered Autonomy
 
 ### A1: User Control
 
@@ -204,10 +204,10 @@ body {
 // ✅ Persistent assistance settings
 const AssistanceSettings = {
   save: (preferences) => {
-    localStorage.setItem('sage-assistance', JSON.stringify(preferences));
+    localStorage.setItem('ELDER-assistance', JSON.stringify(preferences));
   },
   load: () => {
-    return JSON.parse(localStorage.getItem('sage-assistance')) || {
+    return JSON.parse(localStorage.getItem('ELDER-assistance')) || {
       showTooltips: true,
       autoComplete: true,
       confirmations: true
@@ -279,7 +279,7 @@ const performAction = (action) => {
 // ✅ Confirmation dialog
 <ConfirmDialog
   title="Delete this document?"
-  message="This action cannot be undone. The document will be permanently removed."
+  mesELDER="This action cannot be undone. The document will be permanently removed."
   confirmLabel="Delete Document"
   cancelLabel="Keep Document"
   defaultFocus="cancel"  // Safe option focused
@@ -290,7 +290,7 @@ const performAction = (action) => {
 <Form defaultValues={{
   country: userLocation.country,
   language: userPreference.language,
-  fontSize: '18px'  // SAGE-compliant default
+  fontSize: '18px'  // ELDER-compliant default
 }} />
 
 // ✅ Contextual help
@@ -324,7 +324,7 @@ const performAction = (action) => {
 
 ---
 
-## Implementation - Guided Interaction
+## Implementation - Directed Guidance
 
 ### G1-G3: Progress, Next Actions, Orientation
 
@@ -401,20 +401,20 @@ const performAction = (action) => {
 - [ ] Progress saved during navigation
 - [ ] Completion feedback for significant actions
 - [ ] Feedback includes "what's next"
-- [ ] Error messages include recovery instructions
-- [ ] Error messages near error source
+- [ ] Error mesELDERs include recovery instructions
+- [ ] Error mesELDERs near error source
 
 ---
 
-## Implementation - Emotional Trust Layer
+## Implementation - Emotional Trust
 
 ### E1-E2: Consistency & Responsiveness
 
 ```javascript
 // ✅ Design system implementation
-import { Button, Input, Card } from '@company/sage-components';
+import { Button, Input, Card } from '@company/ELDER-components';
 
-// All components pre-configured for SAGE compliance
+// All components pre-configured for ELDER compliance
 
 // ✅ Immediate feedback
 const handleClick = async (action) => {
@@ -451,7 +451,7 @@ useEffect(() => {
 
 ```javascript
 // ✅ Plain language errors
-const errorMessages = {
+const errorMesELDERs = {
   'auth/wrong-password': 'The password is incorrect. Try again or reset your password.',
   'auth/user-not-found': 'We couldn\'t find an account with that email. Check the spelling or create a new account.',
   'network-error': 'We\'re having trouble connecting. Check your internet and try again.'
@@ -472,7 +472,7 @@ const errorMessages = {
 
 - [ ] All content at grade 8 reading level
 - [ ] No jargon in user-facing text
-- [ ] Error messages constructive
+- [ ] Error mesELDERs constructive
 - [ ] Security indicators on sensitive pages
 - [ ] Privacy policy accessible (≤2 clicks)
 - [ ] Contact information visible
@@ -542,10 +542,10 @@ describe('LoginPage', () => {
 - [ ] Tested with slow network (throttling)
 - [ ] Tested with JavaScript disabled (graceful degradation)
 
-### SAGE-Specific Tests
+### ELDER-Specific Tests
 
 ```javascript
-describe('SAGE Compliance', () => {
+describe('ELDER Compliance', () => {
   it('S1: has ≤7 interactive elements per section', () => {
     const section = screen.getByRole('main');
     const interactive = section.querySelectorAll('button, a, input, select');
@@ -575,7 +575,7 @@ describe('SAGE Compliance', () => {
 
 ### Before Requesting Review
 
-- [ ] All SAGE requirements addressed
+- [ ] All ELDER requirements addressed
 - [ ] Code comments reference requirement IDs
 - [ ] Automated tests pass
 - [ ] Manual testing completed
@@ -586,7 +586,7 @@ describe('SAGE Compliance', () => {
 
 ### For Reviewers
 
-- [ ] SAGE requirements correctly implemented
+- [ ] ELDER requirements correctly implemented
 - [ ] Code follows team standards
 - [ ] Accessibility properly implemented
 - [ ] No accessibility anti-patterns
@@ -662,7 +662,7 @@ if ('PerformanceObserver' in window) {
 /**
  * Primary action button component
  * 
- * SAGE Requirements: S4 (touch targets), S5 (single primary)
+ * ELDER Requirements: S4 (touch targets), S5 (single primary)
  * Compliance: Minimum ✓
  * 
  * @param {string} label - Action verb label (e.g., "Continue", "Submit")
@@ -672,7 +672,7 @@ if ('PerformanceObserver' in window) {
 export const PrimaryButton = ({ label, onClick }) => {
   return (
     <button
-      className="sage-button-primary"
+      className="ELDER-button-primary"
       style={{ minWidth: '56px', minHeight: '56px' }}  // S4
       onClick={onClick}
     >
@@ -682,10 +682,10 @@ export const PrimaryButton = ({ label, onClick }) => {
 };
 ```
 
-- [ ] SAGE requirement IDs in code comments
+- [ ] ELDER requirement IDs in code comments
 - [ ] Component documentation includes compliance notes
 - [ ] API documentation includes accessibility notes
-- [ ] README includes SAGE implementation notes
+- [ ] README includes ELDER implementation notes
 
 ---
 
@@ -693,10 +693,10 @@ export const PrimaryButton = ({ label, onClick }) => {
 
 **Quick Check**: Verify implementation
 
-- [ ] S1-S10 (Safe Simplicity): All 10 requirements addressed
-- [ ] A1-A10 (Assisted Autonomy): All 10 requirements addressed
-- [ ] G1-G10 (Guided Interaction): All 10 requirements addressed
-- [ ] E1-E10 (Emotional Trust Layer): All 10 requirements addressed
+- [ ] S1-S10 (Learning-Friendly): All 10 requirements addressed
+- [ ] A1-A10 (Empowered Autonomy): All 10 requirements addressed
+- [ ] G1-G10 (Directed Guidance): All 10 requirements addressed
+- [ ] E1-E10 (Emotional Trust): All 10 requirements addressed
 
 **Test Coverage**: ___% (target: 80%+)
 

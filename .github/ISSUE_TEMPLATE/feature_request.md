@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest a new feature or enhancement for the SAGE Framework
+about: Suggest a new feature or enhancement for the ELDER Framework
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''
@@ -26,14 +26,14 @@ Describe your proposed solution or approach.
 - How would this work?
 - Are there any implementation considerations?
 
-## SAGE Pillar Alignment
+## ELDER Pillar Alignment
 
-Which SAGE pillar(s) does this feature relate to?
+Which ELDER pillar(s) does this feature relate to?
 
-- [ ] Safe Simplicity
-- [ ] Assisted Autonomy
-- [ ] Guided Interaction
-- [ ] Emotional Trust Layer
+- [ ] Learning-Friendly
+- [ ] Empowered Autonomy
+- [ ] Directed Guidance
+- [ ] Emotional Trust
 - [ ] Framework-wide / Cross-cutting
 
 ## Alternatives Considered

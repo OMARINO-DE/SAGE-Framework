@@ -1,5 +1,5 @@
 # GitHub Copilot Instructions  
-## Project: SAGE Framework (Senior-Adaptive Guided Ecosystem)
+## Project: ELDER Framework (Empowering Living for Digitally Enhanced Responsiveness)
 
 ---
 
@@ -7,9 +7,9 @@
 
 You are GitHub Copilot operating inside the repository:
 
-https://github.com/OMARINO-DE/SAGE-Framework
+https://github.com/OMARINO-DE/ELDER-Framework
 
-Your mission is to **fully generate an open-source framework repository** called **SAGE Framework**, including:
+Your mission is to **fully generate an open-source framework repository** called **ELDER Framework**, including:
 - Repository structure
 - Governance and licensing
 - Trilingual documentation (**English, German, Arabic**)
@@ -24,7 +24,7 @@ You must proceed **step by step**, and after **each step**, instruct the develop
 
 ## 1. Global Non-Negotiable Rules
 
-The SAGE Framework concept was originated by Oday Bakkour (https://oday-bakkour.com/).
+The ELDER Framework concept was originated by Oday Bakkour (https://oday-bakkour.com/).
 The Framework is developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany (https://www.omarino.de).
 e-mail: omar@omarino.de
 
@@ -68,12 +68,12 @@ Keep technical acronyms (WCAG, ISO, UX, UI) in Latin characters.
 
 The following terms MUST be used verbatim in all languages:
 
-- **SAGE** – Senior-Adaptive Guided Ecosystem
+- **ELDER** – Empowering Living for Digitally Enhanced Responsiveness
 - **Pillars**:
-  - Safe Simplicity
-  - Assisted Autonomy
-  - Guided Interaction
-  - Emotional Trust Layer
+  - Learning-Friendly
+  - Empowered Autonomy
+  - Directed Guidance
+  - Emotional Trust
 
 Create and maintain a trilingual glossary:
 - `glossary/glossary.en.md`
@@ -106,11 +106,11 @@ After **each step**, output the following commands:
 ```bash
 git status
 git add .
-git commit -m "<clear message>"
+git commit -m "<clear mesELDER>"
 git push origin main
 
 
-Copilot must also recommend the commit message.
+Copilot must also recommend the commit mesELDER.
 
 2. Execution Plan (STRICT ORDER)
 STEP 1 — Repository Initialization & Governance
@@ -163,7 +163,7 @@ GitHub templates (English):
 
 .github/ISSUE_TEMPLATE/feature_request.md
 
-Commit message:
+Commit mesELDER:
 
 chore: initialize repository structure and governance
 
@@ -180,11 +180,11 @@ Deutsch
 
 Include:
 
-What SAGE is / is not
+What ELDER is / is not
 
-The four pillars
+The five pillars
 
-How to use SAGE
+How to use ELDER
 
 Repository structure
 
@@ -200,7 +200,7 @@ glossary/glossary.de.md
 
 glossary/glossary.ar.md
 
-Commit message:
+Commit mesELDER:
 
 docs: add trilingual README and glossary
 
@@ -208,31 +208,31 @@ STEP 3 — Core Pillar Specifications (FULL)
 
 Create three files per pillar:
 
-Safe Simplicity
+Learning-Friendly
 
-core/safe-simplicity.en.md
+core/learning-friendly.en.md
 
-core/safe-simplicity.de.md
+core/learning-friendly.de.md
 
-core/safe-simplicity.ar.md
+core/learning-friendly.ar.md
 
-Assisted Autonomy
+Empowered Autonomy
 
-core/assisted-autonomy.en.md
+core/empowered-autonomy.en.md
 
-core/assisted-autonomy.de.md
+core/empowered-autonomy.de.md
 
-core/assisted-autonomy.ar.md
+core/empowered-autonomy.ar.md
 
-Guided Interaction
+Directed Guidance
 
-core/guided-interaction.en.md
+core/directed-guidance.en.md
 
-core/guided-interaction.de.md
+core/directed-guidance.de.md
 
-core/guided-interaction.ar.md
+core/directed-guidance.ar.md
 
-Emotional Trust Layer
+Emotional Trust
 
 core/emotional-trust.en.md
 
@@ -260,9 +260,9 @@ Anti-patterns
 
 Implementation notes
 
-Commit message:
+Commit mesELDER:
 
-docs: add trilingual SAGE core specifications
+docs: add trilingual ELDER core specifications
 
 STEP 4 — Standards Mapping (TRILINGUAL)
 
@@ -286,11 +286,11 @@ Each mapping must explain:
 
 Related standard concept
 
-What SAGE adds
+What ELDER adds
 
 How to verify compliance
 
-Commit message:
+Commit mesELDER:
 
 docs: add trilingual standards mapping
 
@@ -312,9 +312,9 @@ Reference requirement IDs
 
 Include evidence expectations
 
-Commit message:
+Commit mesELDER:
 
-docs: add trilingual SAGE checklists
+docs: add trilingual ELDER checklists
 
 STEP 6 — Real-World Examples (TRILINGUAL)
 
@@ -334,7 +334,7 @@ acceptance-tests.*.md
 
 Acceptance tests MUST be measurable.
 
-Commit message:
+Commit mesELDER:
 
 docs: add trilingual real-world examples
 
@@ -358,11 +358,11 @@ Problem statement
 
 Related work (no fake citations)
 
-SAGE framework
+ELDER Framework
 
-Deep dive: Safe Simplicity & Assisted Autonomy
+Deep dive: Learning-Friendly & Empowered Autonomy
 
-Overview: Guided Interaction & Emotional Trust
+Overview: Directed Guidance & Emotional Trust
 
 Implementation strategy
 
@@ -374,9 +374,9 @@ Limitations & future work
 
 Conclusion
 
-Commit message:
+Commit mesELDER:
 
-docs: add trilingual SAGE whitepaper draft
+docs: add trilingual ELDER whitepaper draft
 
 STEP 8 — Consistency & Indexing
 
@@ -392,7 +392,7 @@ docs/index.de.md
 
 docs/index.ar.md
 
-Commit message:
+Commit mesELDER:
 
 chore: documentation consistency and indexing
 
@@ -419,7 +419,7 @@ Summarize what was created
 
 Output exact git commands
 
-Provide the commit message
+Provide the commit mesELDER
 
 DO NOT skip steps.
 DO NOT merge steps.

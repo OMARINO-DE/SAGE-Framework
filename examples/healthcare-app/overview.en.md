@@ -33,9 +33,9 @@ HealthCompanion is a healthcare application designed to help seniors:
 
 ---
 
-## SAGE Framework Application
+## ELDER Framework Application
 
-### Why SAGE is Essential for Healthcare
+### Why ELDER is Essential for Healthcare
 
 Healthcare apps present unique challenges for seniors:
 - **High Stakes**: Medication errors can be life-threatening
@@ -44,23 +44,23 @@ Healthcare apps present unique challenges for seniors:
 - **Cognitive Load**: Medical terminology, complex instructions
 - **Frequency**: Daily use required, must be reliable and predictable
 
-SAGE Framework addresses these challenges through:
-- **Safe Simplicity**: Reducing errors through clear, uncluttered design
-- **Assisted Autonomy**: Supporting independence while providing safety nets
-- **Guided Interaction**: Clear workflows for critical health tasks
+ELDER Framework addresses these challenges through:
+- **Learning-Friendly**: Reducing errors through clear, uncluttered design
+- **Empowered Autonomy**: Supporting independence while providing safety nets
+- **Directed Guidance**: Clear workflows for critical health tasks
 - **Emotional Trust**: Building confidence in high-stakes decisions
 
 ---
 
-## Key Features & SAGE Implementation
+## Key Features & ELDER Implementation
 
 ### 1. Medication Dashboard (Home Screen)
 
 **Purpose**: At-a-glance view of today's medications
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S1 (Visual Clutter)**: Shows only today's medications, max 5-7 items visible
-- **S2 (Typography)**: Medication names 20px, dosage 18px, instructions 16px minimum
+- **S2 (Typography)**: Medication names 20px, doELDER 18px, instructions 16px minimum
 - **S3 (Contrast)**: Black text on white (#000 on #FFF = 21:1), color-coded pills have 7:1+ contrast
 - **S5 (Primary Action)**: Single "Take Medication" button prominently displayed
 - **E1 (Consistency)**: Same layout daily, predictable location for each element
@@ -97,13 +97,13 @@ SAGE Framework addresses these challenges through:
 
 **Purpose**: Record that medication was taken safely
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **G1 (Progress)**: Simple 2-step flow with clear progress
 - **G2 (Next Action)**: "Confirm Taken" button uses action verb
 - **G5 (Inline Guidance)**: Instructions visible before confirmation
 - **A3 (Undo)**: "Undo" button visible for 30 seconds after marking taken
 - **A4 (Confirmation)**: Double-check for look-alike medications
-- **E2 (Immediate Feedback)**: Checkmark appears instantly, confirmation message
+- **E2 (Immediate Feedback)**: Checkmark appears instantly, confirmation mesELDER
 - **E9 (Success)**: Positive reinforcement "Great job staying on schedule!"
 
 **User Flow**: See [user-flows.en.md](user-flows.en.md) for detailed walkthrough
@@ -112,7 +112,7 @@ SAGE Framework addresses these challenges through:
 
 **Purpose**: View and manage upcoming medical appointments
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S9 (Limited Information)**: Shows only next 3 appointments on main view
 - **S10 (Predictable)**: Calendar always accessible from same location
 - **G3 (Orientation)**: Breadcrumb shows Home > Appointments > [Appointment Name]
@@ -124,7 +124,7 @@ SAGE Framework addresses these challenges through:
 
 **Purpose**: Request medication refills before running out
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S7 (Error Prevention)**: Shows days of medication remaining, warns at 7 days
 - **A5 (Smart Defaults)**: Pre-selects pharmacy on file, standard quantity
 - **G1 (Progress)**: 3-step refill process with progress indicator
@@ -137,32 +137,32 @@ SAGE Framework addresses these challenges through:
 
 **Purpose**: Access lab results and understand what they mean
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S2 (Typography)**: Result values 24px bold, reference ranges 18px
 - **S3 (Contrast)**: Color + icon + text for abnormal results (never color alone)
 - **A6 (Contextual Help)**: "What does this mean?" link near each result
 - **A10 (Respectful Tone)**: Explanations assume capability, avoid medical jargon
 - **G5 (Inline Guidance)**: Reference ranges visible next to results
-- **E3 (Reassuring)**: "Your doctor has reviewed these results" message
-- **E7 (Human Support)**: "Questions? Message your doctor" button prominent
+- **E3 (Reassuring)**: "Your doctor has reviewed these results" mesELDER
+- **E7 (Human Support)**: "Questions? MesELDER your doctor" button prominent
 
 ### 6. Secure Messaging with Providers
 
 **Purpose**: Communicate with healthcare team
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S6 (Consistent Navigation)**: Inbox always in same top-right location
-- **A1 (User Control)**: Can disable message notifications
-- **A3 (Undo)**: 30-second undo after sending message
-- **E2 (Immediate Feedback)**: "Message sent" confirmation with checkmark
+- **A1 (User Control)**: Can disable mesELDER notifications
+- **A3 (Undo)**: 30-second undo after sending mesELDER
+- **E2 (Immediate Feedback)**: "MesELDER sent" confirmation with checkmark
 - **E4 (Trust Indicators)**: Provider credentials visible (Dr. Sarah Chen, MD)
-- **E8 (Performance)**: Messages load in <2s, typing indicator appears <100ms
+- **E8 (Performance)**: MesELDERs load in <2s, typing indicator appears <100ms
 
 ---
 
 ## Design System Components
 
-### Color Palette (SAGE-Compliant)
+### Color Palette (ELDER-Compliant)
 
 ```css
 /* Primary Colors */
@@ -181,7 +181,7 @@ SAGE Framework addresses these challenges through:
 ### Typography Scale
 
 ```css
---font-xxlarge: 24px;           /* Critical values (test results, dosages) */
+--font-xxlarge: 24px;           /* Critical values (test results, doELDERs) */
 --font-xlarge: 20px;            /* Medication names, primary headings */
 --font-large: 18px;             /* Body text, instructions */
 --font-base: 16px;              /* Secondary text */
@@ -238,11 +238,11 @@ SAGE Framework addresses these challenges through:
 
 ## Security & Privacy
 
-### SAGE-Enhanced Security
+### ELDER-Enhanced Security
 
 **E6 (Transparent Data Handling)** Implementation:
 - Plain-language privacy notice on sign-up
-- Data usage explained at point of collection
+- Data uELDER explained at point of collection
 - Clear consent for each data type (medical records, location, contacts)
 
 **E7 (Human Support)** Implementation:
@@ -260,7 +260,7 @@ SAGE Framework addresses these challenges through:
 
 ## Metrics & Success Criteria
 
-### SAGE Compliance Metrics
+### ELDER Compliance Metrics
 
 | Requirement | Target | Measurement Method |
 |-------------|--------|-------------------|
@@ -332,28 +332,28 @@ SAGE Framework addresses these challenges through:
 
 ## Compliance Documentation
 
-### SAGE Requirements Coverage
+### ELDER Requirements Coverage
 
-**Safe Simplicity**: 10/10 requirements met (100%)
+**Learning-Friendly**: 10/10 requirements met (100%)
 - All screens audited for visual clutter, typography, contrast, touch targets
 - Error prevention and tolerance validated through user testing
 
-**Assisted Autonomy**: 10/10 requirements met (100%)
+**Empowered Autonomy**: 10/10 requirements met (100%)
 - User control settings functional, assistance adaptive
 - Undo mechanisms tested and validated
 - Tone reviewed by seniors for respectfulness
 
-**Guided Interaction**: 10/10 requirements met (100%)
+**Directed Guidance**: 10/10 requirements met (100%)
 - Multi-step flows have progress indicators
 - All screens have clear next actions
 - Error recovery tested successfully
 
-**Emotional Trust Layer**: 10/10 requirements met (100%)
+**Emotional Trust**: 10/10 requirements met (100%)
 - Visual consistency maintained through design system
 - Performance measured and optimized
 - Trust indicators and support access validated
 
-**Overall Compliance**: 100% (40/40 requirements)
+**Overall Compliance**: 100% (40/45+ Requirements)
 
 **Compliance Level**: **Strong** (exceeds Recommended standards)
 
@@ -381,11 +381,11 @@ SAGE Framework addresses these challenges through:
 - [Government Services Example](../gov-services/overview.en.md)
 - [Family Communication Example](../family-communication/overview.en.md)
 
-### SAGE Framework
+### ELDER Framework
 - [Core Specifications](../../core/)
 - [Checklists](../../checklists/)
 - [Standards Mapping](../../standards-mapping/)
 
 ---
 
-**Note**: This is a real-world example showing SAGE Framework in practice. Actual implementation would require clinical validation, HIPAA compliance review, and extensive testing with diverse senior populations.
+**Note**: This is a real-world example showing ELDER Framework in practice. Actual implementation would require clinical validation, HIPAA compliance review, and extensive testing with diverse senior populations.

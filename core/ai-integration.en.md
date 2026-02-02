@@ -1,4 +1,4 @@
-# AI Integration in SAGE Framework
+# AI Integration in ELDER Framework
 
 **Version:** 1.0  
 **Language:** English  
@@ -8,11 +8,11 @@
 
 ## 1. Introduction
 
-This document defines how Artificial Intelligence (AI) technologies should be integrated into SAGE-compliant systems. AI has immense potential to enhance senior user experiences, but it also introduces risks related to transparency, privacy, bias, and complexity. This specification ensures AI serves seniors ethically, transparently, and effectively.
+This document defines how Artificial Intelligence (AI) technologies should be integrated into ELDER-compliant systems. AI has immense potential to enhance senior user experiences, but it also introduces risks related to transparency, privacy, bias, and complexity. This specification ensures AI serves seniors ethically, transparently, and effectively.
 
 ---
 
-## 2. Core AI Principles for SAGE
+## 2. Core AI Principles for ELDER
 
 ### 2.1 Human-Centered AI
 - AI MUST enhance human autonomy, not replace it
@@ -213,7 +213,7 @@ This document defines how Artificial Intelligence (AI) technologies should be in
 
 **AI-ERR-4:** AI MUST suggest corrections, not just flag errors
 - **Rationale:** Seniors benefit from guidance
-- **Metric:** 80% of error messages include actionable suggestion
+- **Metric:** 80% of error mesELDERs include actionable suggestion
 - **Test:** Content audit
 
 **AI-ERR-5:** Error recovery MUST preserve user work
@@ -224,7 +224,7 @@ This document defines how Artificial Intelligence (AI) technologies should be in
 **Anti-patterns:**
 - "Are you sure?" without context
 - Irreversible AI actions
-- Error messages without solutions
+- Error mesELDERs without solutions
 
 ---
 
@@ -297,15 +297,15 @@ This document defines how Artificial Intelligence (AI) technologies should be in
 - **Metric:** Evaluation of federated learning documented
 - **Test:** Design documentation review
 
-**AI-PRIV-6:** Users MUST be informed about AI data usage
+**AI-PRIV-6:** Users MUST be informed about AI data uELDER
 - **Rationale:** Informed consent requires understanding
-- **Metric:** Data usage explanation in plain language
+- **Metric:** Data uELDER explanation in plain language
 - **Test:** Content review
 
 **Anti-patterns:**
 - "AI needs access to everything"
 - Cloud-first AI without justification
-- Opaque data usage
+- Opaque data uELDER
 
 ---
 
@@ -318,7 +318,7 @@ This document defines how Artificial Intelligence (AI) technologies should be in
 **AI-COG-1:** AI MUST provide smart defaults based on context
 - **Rationale:** Reduces decision fatigue
 - **Metric:** Users accept defaults ≥60% of time
-- **Test:** Usage analytics
+- **Test:** UELDER analytics
 
 **AI-COG-2:** Defaults MUST be easily changeable
 - **Rationale:** Defaults shouldn't feel forced
@@ -333,7 +333,7 @@ This document defines how Artificial Intelligence (AI) technologies should be in
 **AI-COG-4:** AI MUST predict next actions without being intrusive
 - **Rationale:** Helpful suggestions vs. annoying interruptions
 - **Metric:** Suggestion acceptance rate ≥40%, dismissal rate ≤10%
-- **Test:** Usage analytics
+- **Test:** UELDER analytics
 
 **AI-COG-5:** Task complexity MUST be AI-estimated and communicated
 - **Rationale:** Users need realistic expectations
@@ -477,7 +477,7 @@ This document defines how Artificial Intelligence (AI) technologies should be in
 **For Users:**
 - What AI does in plain language
 - How to control/disable AI features
-- Data usage and privacy policies
+- Data uELDER and privacy policies
 
 **For Auditors:**
 - Training data sources
@@ -551,7 +551,7 @@ This document defines how Artificial Intelligence (AI) technologies should be in
 
 ## 9. Conclusion
 
-AI has transformative potential for senior users, but only when designed with transparency, ethics, and human dignity at its core. SAGE-compliant AI systems empower seniors without overwhelming them, personalize without manipulating, and assist without replacing human judgment.
+AI has transformative potential for senior users, but only when designed with transparency, ethics, and human dignity at its core. ELDER-compliant AI systems empower seniors without overwhelming them, personalize without manipulating, and assist without replacing human judgment.
 
 ---
 
@@ -573,4 +573,4 @@ Concept by Oday Bakkour (https://oday-bakkour.com/)
 ---
 
 **License:** MIT  
-**Repository:** https://github.com/OMARINO-DE/SAGE-Framework
+**Repository:** https://github.com/OMARINO-DE/ELDER-Framework

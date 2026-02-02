@@ -1,4 +1,4 @@
-# KI-Integration im SAGE Framework
+# KI-Integration im ELDER Framework
 
 **Version:** 1.0  
 **Sprache:** Deutsch  
@@ -8,11 +8,11 @@
 
 ## 1. Einführung
 
-Dieses Dokument definiert, wie Technologien der Künstlichen Intelligenz (KI) in SAGE-konforme Systeme integriert werden sollen. KI hat ein enormes Potenzial, die Benutzererfahrung von Senioren zu verbessern, birgt jedoch auch Risiken in Bezug auf Transparenz, Datenschutz, Bias und Komplexität. Diese Spezifikation stellt sicher, dass KI Senioren ethisch, transparent und effektiv dient.
+Dieses Dokument definiert, wie Technologien der Künstlichen Intelligenz (KI) in ELDER-konforme Systeme integriert werden sollen. KI hat ein enormes Potenzial, die Benutzererfahrung von Senioren zu verbessern, birgt jedoch auch Risiken in Bezug auf Transparenz, Datenschutz, Bias und Komplexität. Diese Spezifikation stellt sicher, dass KI Senioren ethisch, transparent und effektiv dient.
 
 ---
 
-## 2. Grundlegende KI-Prinzipien für SAGE
+## 2. Grundlegende KI-Prinzipien für ELDER
 
 ### 2.1 Menschenzentrierte KI
 - KI MUSS die menschliche Autonomie fördern, nicht ersetzen
@@ -330,7 +330,7 @@ Dieses Dokument definiert, wie Technologien der Künstlichen Intelligenz (KI) in
 - **Metrik:** Erweiterte Features verborgen, bis Nutzer Bereitschaft zeigt
 - **Test:** Adaptive UI-Testing
 
-**AI-COG-4:** KI MUSS nächste Aktionen vorhersagen ohne aufdringlich zu sein
+**AI-COG-4:** KI MUSS nächste Aktionen vorherELDERn ohne aufdringlich zu sein
 - **Begründung:** Hilfreiche Vorschläge vs. nervige Unterbrechungen
 - **Metrik:** Vorschlag-Akzeptanzrate ≥40%, Ablehnungsrate ≤10%
 - **Test:** Nutzungsanalytik
@@ -551,7 +551,7 @@ Dieses Dokument definiert, wie Technologien der Künstlichen Intelligenz (KI) in
 
 ## 9. Fazit
 
-KI hat transformatives Potenzial für Senioren-Nutzer, aber nur wenn sie mit Transparenz, Ethik und menschlicher Würde im Kern gestaltet wird. SAGE-konforme KI-Systeme befähigen Senioren ohne sie zu überfordern, personalisieren ohne zu manipulieren und assistieren ohne menschliches Urteilsvermögen zu ersetzen.
+KI hat transformatives Potenzial für Senioren-Nutzer, aber nur wenn sie mit Transparenz, Ethik und menschlicher Würde im Kern gestaltet wird. ELDER-konforme KI-Systeme befähigen Senioren ohne sie zu überfordern, personalisieren ohne zu manipulieren und assistieren ohne menschliches Urteilsvermögen zu ersetzen.
 
 ---
 
@@ -573,4 +573,4 @@ Konzept von Oday Bakkour (https://oday-bakkour.com/)
 ---
 
 **Lizenz:** MIT  
-**Repository:** https://github.com/OMARINO-DE/SAGE-Framework
+**Repository:** https://github.com/OMARINO-DE/ELDER-Framework

@@ -1,4 +1,4 @@
-# SAGE Framework - Documentation Index
+# ELDER Framework - Documentation Index
 
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
@@ -11,26 +11,26 @@
 
 ## Overview
 
-This index provides a comprehensive guide to all SAGE Framework documentation. Use this to navigate the framework, find specific requirements, and access implementation resources.
+This index provides a comprehensive guide to all ELDER Framework documentation. Use this to navigate the framework, find specific requirements, and access implementation resources.
 
 ---
 
 ## Quick Start
 
-**New to SAGE?** Start here:
+**New to ELDER?** Start here:
 
 1. [README.md](../README.md) – Framework overview and getting started
 2. [Glossary](../glossary/glossary.en.md) – Key terms and definitions
-3. [Safe Simplicity](../core/safe-simplicity.en.md) – First pillar (easiest entry point)
+3. [Learning-Friendly](../core/learning-friendly.en.md) – First pillar (easiest entry point)
 4. [Product Checklist](../checklists/product-checklist.en.md) – Practical implementation guide
 
-**Implementing SAGE?** Use these:
+**Implementing ELDER?** Use these:
 
 1. Role-specific checklists ([Product](../checklists/product-checklist.en.md), [UX](../checklists/ux-checklist.en.md), [Engineering](../checklists/engineering-checklist.en.md))
-2. [Standards Mapping](../standards-mapping/) – How SAGE relates to WCAG/ISO
+2. [Standards Mapping](../standards-mapping/) – How ELDER relates to WCAG/ISO
 3. [Examples](../examples/) – Real-world implementations
 
-**Researching SAGE?** Read:
+**Researching ELDER?** Read:
 
 1. [Scientific Whitepaper](../research/whitepaper.en.md) – Comprehensive academic paper
 2. [Governance](../governance/GOVERNANCE.en.md) – Framework evolution process
@@ -44,11 +44,11 @@ This index provides a comprehensive guide to all SAGE Framework documentation. U
 
 | Document | Description | Path |
 |----------|-------------|------|
-| **README** | Framework overview, what SAGE is/isn't, getting started | [README.md](../README.md) |
+| **README** | Framework overview, what ELDER is/isn't, getting started | [README.md](../README.md) |
 | **Translation Status** | Progress and roadmap for DE/AR translations | [TRANSLATION_STATUS.md](../TRANSLATION_STATUS.md) |
 | **Glossary** | Terminology definitions (EN/DE/AR) | [glossary/](../glossary/) |
 | **License** | MIT License terms | [LICENSE](../LICENSE) |
-| **Citation** | How to cite SAGE in academic work | [CITATION.cff](../CITATION.cff) |
+| **Citation** | How to cite ELDER in academic work | [CITATION.cff](../CITATION.cff) |
 
 ### 2. Governance
 
@@ -57,71 +57,71 @@ This index provides a comprehensive guide to all SAGE Framework documentation. U
 | **Governance** | Decision-making, contribution process, core team | [governance/GOVERNANCE.en.md](../governance/GOVERNANCE.en.md) |
 | **Roadmap** | Future development plans and priorities | [governance/ROADMAP.en.md](../governance/ROADMAP.en.md) |
 | **Code of Conduct** | Community standards and expectations | [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) |
-| **Contributing** | How to contribute to SAGE | [CONTRIBUTING.md](../CONTRIBUTING.md) |
+| **Contributing** | How to contribute to ELDER | [CONTRIBUTING.md](../CONTRIBUTING.md) |
 | **Security** | Security policy and vulnerability reporting | [SECURITY.md](../SECURITY.md) |
 
 ---
 
 ## Core Specifications (All Requirements)
 
-### Pillar 1: Safe Simplicity (S1-S10)
+### Pillar 1: Learning-Friendly (S1-S10)
 
 **Purpose:** Reduce cognitive load through visual clarity and predictable patterns
 
 | Requirement | Description | Link |
 |-------------|-------------|------|
-| **S1** | Minimal Visual Clutter (≤7 elements) | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s1-minimal-visual-clutter) |
-| **S2** | Large Typography (≥18px body) | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s2-large-typography) |
-| **S3** | High Contrast (≥7:1 text) | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s3-high-contrast) |
-| **S4** | Large Touch Targets (≥56×56px) | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s4-large-touch-targets) |
-| **S5** | Single Primary Action | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s5-single-primary-action) |
-| **S6** | Consistent Navigation | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s6-consistent-navigation) |
-| **S7** | Error Prevention | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s7-error-prevention) |
-| **S8** | Error Tolerance | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s8-error-tolerance) |
-| **S9** | Limited Information (3-5 pieces) | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s9-limited-information) |
-| **S10** | Predictable Interactions | [safe-simplicity.en.md](../core/safe-simplicity.en.md#s10-predictable-interactions) |
+| **S1** | Minimal Visual Clutter (≤7 elements) | [learning-friendly.en.md](../core/learning-friendly.en.md#s1-minimal-visual-clutter) |
+| **S2** | Large Typography (≥18px body) | [learning-friendly.en.md](../core/learning-friendly.en.md#s2-large-typography) |
+| **S3** | High Contrast (≥7:1 text) | [learning-friendly.en.md](../core/learning-friendly.en.md#s3-high-contrast) |
+| **S4** | Large Touch Targets (≥56×56px) | [learning-friendly.en.md](../core/learning-friendly.en.md#s4-large-touch-targets) |
+| **S5** | Single Primary Action | [learning-friendly.en.md](../core/learning-friendly.en.md#s5-single-primary-action) |
+| **S6** | Consistent Navigation | [learning-friendly.en.md](../core/learning-friendly.en.md#s6-consistent-navigation) |
+| **S7** | Error Prevention | [learning-friendly.en.md](../core/learning-friendly.en.md#s7-error-prevention) |
+| **S8** | Error Tolerance | [learning-friendly.en.md](../core/learning-friendly.en.md#s8-error-tolerance) |
+| **S9** | Limited Information (3-5 pieces) | [learning-friendly.en.md](../core/learning-friendly.en.md#s9-limited-information) |
+| **S10** | Predictable Interactions | [learning-friendly.en.md](../core/learning-friendly.en.md#s10-predictable-interactions) |
 
-**Full Specification:** [core/safe-simplicity.en.md](../core/safe-simplicity.en.md)
+**Full Specification:** [core/learning-friendly.en.md](../core/learning-friendly.en.md)
 
-### Pillar 2: Assisted Autonomy (A1-A10)
+### Pillar 2: Empowered Autonomy (A1-A10)
 
 **Purpose:** Enable independence while providing intelligent support
 
 | Requirement | Description | Link |
 |-------------|-------------|------|
-| **A1** | User Control (settings persist) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a1-user-control) |
-| **A2** | Progressive Assistance (adapts to skill) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a2-progressive-assistance) |
-| **A3** | Undo Mechanisms (≥30s window) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a3-undo-mechanisms) |
-| **A4** | Confirmations (consequences explained) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a4-confirmations) |
-| **A5** | Intelligent Defaults (80%+ use defaults) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a5-intelligent-defaults) |
-| **A6** | Contextual Help (on 100% of screens) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a6-contextual-help) |
-| **A7** | Transparent Behavior (actions explained) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a7-transparent-behavior) |
-| **A8** | Safe Exploration (preview, auto-save) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a8-safe-exploration) |
-| **A9** | Graduated Complexity (80% in main UI) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a9-graduated-complexity) |
-| **A10** | Respectful Tone (zero patronizing) | [assisted-autonomy.en.md](../core/assisted-autonomy.en.md#a10-respectful-tone) |
+| **A1** | User Control (settings persist) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a1-user-control) |
+| **A2** | Progressive Assistance (adapts to skill) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a2-progressive-assistance) |
+| **A3** | Undo Mechanisms (≥30s window) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a3-undo-mechanisms) |
+| **A4** | Confirmations (consequences explained) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a4-confirmations) |
+| **A5** | Intelligent Defaults (80%+ use defaults) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a5-intelligent-defaults) |
+| **A6** | Contextual Help (on 100% of screens) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a6-contextual-help) |
+| **A7** | Transparent Behavior (actions explained) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a7-transparent-behavior) |
+| **A8** | Safe Exploration (preview, auto-save) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a8-safe-exploration) |
+| **A9** | Graduated Complexity (80% in main UI) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a9-graduated-complexity) |
+| **A10** | Respectful Tone (zero patronizing) | [empowered-autonomy.en.md](../core/empowered-autonomy.en.md#a10-respectful-tone) |
 
-**Full Specification:** [core/assisted-autonomy.en.md](../core/assisted-autonomy.en.md)
+**Full Specification:** [core/empowered-autonomy.en.md](../core/empowered-autonomy.en.md)
 
-### Pillar 3: Guided Interaction (G1-G10)
+### Pillar 3: Directed Guidance (G1-G10)
 
 **Purpose:** Clear pathways through complex processes
 
 | Requirement | Description | Link |
 |-------------|-------------|------|
-| **G1** | Progress Indication (multi-step flows) | [guided-interaction.en.md](../core/guided-interaction.en.md#g1-progress-indication) |
-| **G2** | Explicit Next Actions (action verbs) | [guided-interaction.en.md](../core/guided-interaction.en.md#g2-explicit-next-actions) |
-| **G3** | Orientation Cues (breadcrumbs, titles) | [guided-interaction.en.md](../core/guided-interaction.en.md#g3-orientation-cues) |
-| **G4** | Logical Sequencing (predictable order) | [guided-interaction.en.md](../core/guided-interaction.en.md#g4-logical-sequencing) |
-| **G5** | Inline Guidance (before errors) | [guided-interaction.en.md](../core/guided-interaction.en.md#g5-inline-guidance) |
-| **G6** | Cancel/Exit Options (multi-step flows) | [guided-interaction.en.md](../core/guided-interaction.en.md#g6-cancelexit-options) |
-| **G7** | Smart Defaults (data reuse) | [guided-interaction.en.md](../core/guided-interaction.en.md#g7-smart-defaults) |
-| **G8** | Forgiving Navigation (back button works) | [guided-interaction.en.md](../core/guided-interaction.en.md#g8-forgiving-navigation) |
-| **G9** | Completion Feedback (what + what's next) | [guided-interaction.en.md](../core/guided-interaction.en.md#g9-completion-feedback) |
-| **G10** | Error Recovery (clear instructions) | [guided-interaction.en.md](../core/guided-interaction.en.md#g10-error-recovery) |
+| **G1** | Progress Indication (multi-step flows) | [directed-guidance.en.md](../core/directed-guidance.en.md#g1-progress-indication) |
+| **G2** | Explicit Next Actions (action verbs) | [directed-guidance.en.md](../core/directed-guidance.en.md#g2-explicit-next-actions) |
+| **G3** | Orientation Cues (breadcrumbs, titles) | [directed-guidance.en.md](../core/directed-guidance.en.md#g3-orientation-cues) |
+| **G4** | Logical Sequencing (predictable order) | [directed-guidance.en.md](../core/directed-guidance.en.md#g4-logical-sequencing) |
+| **G5** | Inline Guidance (before errors) | [directed-guidance.en.md](../core/directed-guidance.en.md#g5-inline-guidance) |
+| **G6** | Cancel/Exit Options (multi-step flows) | [directed-guidance.en.md](../core/directed-guidance.en.md#g6-cancelexit-options) |
+| **G7** | Smart Defaults (data reuse) | [directed-guidance.en.md](../core/directed-guidance.en.md#g7-smart-defaults) |
+| **G8** | Forgiving Navigation (back button works) | [directed-guidance.en.md](../core/directed-guidance.en.md#g8-forgiving-navigation) |
+| **G9** | Completion Feedback (what + what's next) | [directed-guidance.en.md](../core/directed-guidance.en.md#g9-completion-feedback) |
+| **G10** | Error Recovery (clear instructions) | [directed-guidance.en.md](../core/directed-guidance.en.md#g10-error-recovery) |
 
-**Full Specification:** [core/guided-interaction.en.md](../core/guided-interaction.en.md)
+**Full Specification:** [core/directed-guidance.en.md](../core/directed-guidance.en.md)
 
-### Pillar 4: Emotional Trust Layer (E1-E10)
+### Pillar 4: Emotional Trust (E1-E10)
 
 **Purpose:** Build confidence and reduce anxiety
 
@@ -144,7 +144,7 @@ This index provides a comprehensive guide to all SAGE Framework documentation. U
 
 ## Standards Mapping
 
-How SAGE relates to existing accessibility and usability standards:
+How ELDER relates to existing accessibility and usability standards:
 
 | Standard | Description | Path |
 |----------|-------------|------|
@@ -169,7 +169,7 @@ Practical checklists for different roles:
 
 ## Real-World Examples
 
-Three comprehensive examples demonstrating SAGE in practice:
+Three comprehensive examples demonstrating ELDER in practice:
 
 ### Healthcare App Example
 
@@ -202,7 +202,7 @@ Three comprehensive examples demonstrating SAGE in practice:
 | Document | Description | Path |
 |----------|-------------|------|
 | Overview | Features, emotional design, connection metrics | [examples/family-communication/overview.en.md](../examples/family-communication/overview.en.md) |
-| User Flows | Video calls, photo messages, calendar | [examples/family-communication/user-flows.en.md](../examples/family-communication/user-flows.en.md) |
+| User Flows | Video calls, photo mesELDERs, calendar | [examples/family-communication/user-flows.en.md](../examples/family-communication/user-flows.en.md) |
 | Acceptance Tests | Technical and emotional impact validation | [examples/family-communication/acceptance-tests.en.md](../examples/family-communication/acceptance-tests.en.md) |
 
 **Key Metrics:** 32% loneliness reduction, 156% call increase, 4.6/5 satisfaction
@@ -213,13 +213,13 @@ Three comprehensive examples demonstrating SAGE in practice:
 
 ### Scientific Whitepaper
 
-**Title:** SAGE Framework: A Design Framework for Senior-Adaptive Guided Ecosystems in Digital Experiences
+**Title:** ELDER Framework: A Design Framework for Empowering Living for Digitally Enhanced Responsivenesss in Digital Experiences
 
 **Content:** 12-page comprehensive academic paper covering:
 - Problem statement and evidence base
-- Related work and SAGE's contributions
+- Related work and ELDER's contributions
 - Complete framework architecture
-- Deep dives: Safe Simplicity and Assisted Autonomy
+- Deep dives: Learning-Friendly and Empowered Autonomy
 - Implementation strategy and evaluation plan
 - Governance, limitations, and future work
 
@@ -227,9 +227,9 @@ Three comprehensive examples demonstrating SAGE in practice:
 
 **Citation:**
 ```
-Bakkour, O., & Zaror, O. (2026). SAGE Framework: A Design Framework for Senior-Adaptive 
+Bakkour, O., & Zaror, O. (2026). ELDER Framework: A Design Framework for Senior-Adaptive 
 Guided Ecosystems in Digital Experiences. 
-https://github.com/OMARINO-DE/SAGE-Framework
+https://github.com/OMARINO-DE/ELDER-Framework
 ```
 
 ---
@@ -273,14 +273,14 @@ Files follow naming convention:
 
 ## Requirement ID Reference
 
-Quick reference for all 40 requirements:
+Quick reference for all 45+ Requirements:
 
 ### By Pillar
 
-- **Safe Simplicity:** S1, S2, S3, S4, S5, S6, S7, S8, S9, S10
-- **Assisted Autonomy:** A1, A2, A3, A4, A5, A6, A7, A8, A9, A10
-- **Guided Interaction:** G1, G2, G3, G4, G5, G6, G7, G8, G9, G10
-- **Emotional Trust Layer:** E1, E2, E3, E4, E5, E6, E7, E8, E9, E10
+- **Learning-Friendly:** S1, S2, S3, S4, S5, S6, S7, S8, S9, S10
+- **Empowered Autonomy:** A1, A2, A3, A4, A5, A6, A7, A8, A9, A10
+- **Directed Guidance:** G1, G2, G3, G4, G5, G6, G7, G8, G9, G10
+- **Emotional Trust:** E1, E2, E3, E4, E5, E6, E7, E8, E9, E10
 
 ### By Theme
 
@@ -306,7 +306,7 @@ Quick reference for all 40 requirements:
 
 ## Compliance Levels
 
-SAGE defines three compliance levels:
+ELDER defines three compliance levels:
 
 | Level | Requirements | Typical Use Case |
 |-------|--------------|------------------|
@@ -325,7 +325,7 @@ Each requirement specifies its compliance level in the core specifications.
 1. Read [README.md](../README.md) for overview
 2. Review [Product Checklist](../checklists/product-checklist.en.md)
 3. Study relevant [example](../examples/) for your domain
-4. Conduct SAGE audit using checklists
+4. Conduct ELDER audit using checklists
 5. Prioritize requirements (start with S1-S10)
 6. Implement incrementally
 7. Validate with senior user testing
@@ -343,12 +343,12 @@ Each requirement specifies its compliance level in the core specifications.
 ### "I'm researching senior accessibility"
 
 1. Start with [Whitepaper](../research/whitepaper.en.md)
-2. Review [Standards Mapping](../standards-mapping/) to understand SAGE's relationship to existing frameworks
+2. Review [Standards Mapping](../standards-mapping/) to understand ELDER's relationship to existing frameworks
 3. Examine [real-world examples](../examples/) for validation data
 4. Study [core specifications](../core/) for detailed requirements
 5. Review [Governance](../governance/GOVERNANCE.en.md) for research collaboration opportunities
 
-### "I want to contribute to SAGE"
+### "I want to contribute to ELDER"
 
 1. Read [Code of Conduct](../CODE_OF_CONDUCT.md)
 2. Review [Contributing Guidelines](../CONTRIBUTING.md)
@@ -362,7 +362,7 @@ Each requirement specifies its compliance level in the core specifications.
 
 | Version | Date | Changes |
 |---------|------|---------|
-| **1.0** | January 28, 2026 | Initial release: 40 requirements across 4 pillars, complete English documentation, 3 real-world examples, scientific whitepaper, implementation checklists |
+| **1.0** | January 28, 2026 | Initial release: 45+ Requirements across 4 pillars, complete English documentation, 3 real-world examples, scientific whitepaper, implementation checklists |
 
 ---
 
@@ -374,7 +374,7 @@ Each requirement specifies its compliance level in the core specifications.
 **Maintainer:** Omar Zaror, OMARINO IT Services  
 **Email:** omar@omarino.de  
 **Website:** https://www.omarino.de  
-**Repository:** https://github.com/OMARINO-DE/SAGE-Framework
+**Repository:** https://github.com/OMARINO-DE/ELDER-Framework
 
 **Community:**
 - GitHub Issues: Report bugs, request features

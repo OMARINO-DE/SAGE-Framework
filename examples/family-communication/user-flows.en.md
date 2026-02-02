@@ -11,7 +11,7 @@
 
 ## User Flow: Making a Video Call
 
-**SAGE Requirements**: S5, A4, E2, E3
+**ELDER Requirements**: S5, A4, E2, E3
 
 ### Step 1: Contact Selection
 ```
@@ -31,7 +31,7 @@ Prevents accidental calls
 ```
 "Calling Sarah..."
 Shows connecting animation
-Reassuring message
+Reassuring mesELDER
 Immediate feedback (<100ms)
 ```
 
@@ -44,15 +44,15 @@ No complex options during call
 
 ---
 
-## User Flow: Sending a Photo Message
+## User Flow: Sending a Photo MesELDER
 
-**SAGE Requirements**: S9, G2, A6
+**ELDER Requirements**: S9, G2, A6
 
 ### Step 1: Open Conversation
 ```
 Tap contact
-Message history shows (5 most recent)
-Large "Send Message" button
+MesELDER history shows (5 most recent)
+Large "Send MesELDER" button
 ```
 
 ### Step 2: Attach Photo
@@ -62,11 +62,11 @@ Choose: Take Photo | Choose from Photos
 Help text visible
 ```
 
-### Step 3: Add Message (Optional)
+### Step 3: Add MesELDER (Optional)
 ```
 Large text input (18px)
 Optional caption
-Inline guidance: "Add a message (optional)"
+Inline guidance: "Add a mesELDER (optional)"
 ```
 
 ### Step 4: Send
@@ -82,15 +82,15 @@ Can cancel
 
 ### Critical Tests
 
-**S1-S10 (Safe Simplicity)**
+**S1-S10 (Learning-Friendly)**
 - Pass Criteria: ≤7 contacts on home, 20px names, 7:1 contrast, large tap targets
 - Expected: PASS
 
-**A1-A10 (Assisted Autonomy)**
+**A1-A10 (Empowered Autonomy)**
 - Pass Criteria: Undo accidental actions, help available, respectful tone
 - Expected: PASS with 90%+ success
 
-**G1-G10 (Guided Interaction)**
+**G1-G10 (Directed Guidance)**
 - Pass Criteria: Clear next actions, completion feedback, error recovery
 - Expected: PASS with 85%+ completion
 
@@ -123,4 +123,4 @@ Can cancel
 - [Arabic (العربية)](user-flows.ar.md)
 - [Healthcare Example](../healthcare-app/overview.en.md)
 - [Government Services Example](../gov-services/overview.en.md)
-- [SAGE Framework](../../core/)
+- [ELDER Framework](../../core/)

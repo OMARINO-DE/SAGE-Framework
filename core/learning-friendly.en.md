@@ -1,5 +1,5 @@
-# Safe Simplicity
-## SAGE Framework - Pillar 1
+# Learning-Friendly
+## ELDER Framework - Pillar 1
 
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
@@ -27,7 +27,7 @@ This specification applies to all user-facing digital interfaces intended for se
 - Government digital services
 - Financial services interfaces
 
-Safe Simplicity principles should be applied throughout the entire user journey, from initial onboarding to advanced features.
+Learning-Friendly principles should be applied throughout the entire user journey, from initial onboarding to advanced features.
 
 ## Definitions
 
@@ -268,14 +268,14 @@ Safe Simplicity principles should be applied throughout the entire user journey,
 **Anti-Patterns**:
 - ❌ Only validating forms on submission
 - ❌ Allowing destructive actions without confirmation
-- ❌ Unclear error messages after the fact
+- ❌ Unclear error mesELDERs after the fact
 - ❌ Disabling controls without explanation
 
 **Implementation Notes**:
 - Use input masks and constraints (e.g., date pickers vs. text fields)
-- Provide inline validation with helpful messages
+- Provide inline validation with helpful mesELDERs
 - Show confirmation dialogs for important actions
-- Use clear, specific constraint messages ("Must be 6-12 characters" not "Invalid")
+- Use clear, specific constraint mesELDERs ("Must be 6-12 characters" not "Invalid")
 
 ---
 
@@ -286,27 +286,27 @@ Safe Simplicity principles should be applied throughout the entire user journey,
 **Rationale**: Errors are inevitable. Graceful error handling maintains user confidence and prevents abandonment.
 
 **Metrics**:
-- All error messages explain what happened and how to fix it
-- Error messages use plain language (reading level: grade 8 or below)
+- All error mesELDERs explain what happened and how to fix it
+- Error mesELDERs use plain language (reading level: grade 8 or below)
 - Users can correct errors without losing entered data
 - Undo functionality available for all non-trivial actions
 
 **Test Procedure**:
 1. Trigger all error conditions deliberately
-2. Verify each error message is clear and actionable
+2. Verify each error mesELDER is clear and actionable
 3. User testing: 90%+ users successfully recover from errors
 4. Measure time-to-recover from common errors (<30 seconds target)
 
 **Compliance Level**: Minimum
 
 **Anti-Patterns**:
-- ❌ Technical error messages ("Error 404", "Exception in line 42")
-- ❌ Error messages that don't explain how to fix the issue
+- ❌ Technical error mesELDERs ("Error 404", "Exception in line 42")
+- ❌ Error mesELDERs that don't explain how to fix the issue
 - ❌ Clearing form data on validation errors
 - ❌ No way to undo actions
 
 **Implementation Notes**:
-- Write error messages in plain language: "We couldn't find that page"
+- Write error mesELDERs in plain language: "We couldn't find that page"
 - Always provide next steps: "Try searching or return to the home page"
 - Preserve user input on errors
 - Implement undo for important actions (30-60 second window)
@@ -402,7 +402,7 @@ Safe Simplicity principles should be applied throughout the entire user journey,
 ## Implementation Guidelines
 
 ### Design Phase
-1. Create wireframes with Safe Simplicity requirements in mind
+1. Create wireframes with Learning-Friendly requirements in mind
 2. Conduct cognitive walkthroughs with specifications
 3. Test with senior users early and often
 4. Measure compliance against metrics before development
@@ -420,9 +420,9 @@ Safe Simplicity principles should be applied throughout the entire user journey,
 4. Error scenario testing
 
 ### Maintenance Phase
-1. Regular audits against Safe Simplicity requirements
+1. Regular audits against Learning-Friendly requirements
 2. Monitor user feedback for complexity issues
-3. Continuously simplify based on usage data
+3. Continuously simplify based on uELDER data
 4. Update as standards and best practices evolve
 
 ---
@@ -454,8 +454,8 @@ Safe Simplicity principles should be applied throughout the entire user journey,
 ---
 
 **For translations, see:**
-- [German (Deutsch)](safe-simplicity.de.md)
-- [Arabic (العربية)](safe-simplicity.ar.md)
+- [German (Deutsch)](learning-friendly.de.md)
+- [Arabic (العربية)](learning-friendly.ar.md)
 
 **For implementation checklists, see:**
 - [Product Checklist](../checklists/product-checklist.en.md)

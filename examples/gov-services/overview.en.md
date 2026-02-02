@@ -32,9 +32,9 @@ CitizenConnect enables seniors to:
 
 ---
 
-## SAGE Framework Application
+## ELDER Framework Application
 
-### Why SAGE is Essential for Government Services
+### Why ELDER is Essential for Government Services
 
 Government digital services present unique challenges:
 - **Universal Access**: Must serve entire population, including most vulnerable
@@ -44,21 +44,21 @@ Government digital services present unique challenges:
 - **Digital Divide**: Cannot assume technology access or literacy
 - **Consequences**: Mistakes can result in lost benefits, fines, legal issues
 
-SAGE Framework addresses these challenges:
-- **Safe Simplicity**: Navigating complex bureaucracy with clarity
-- **Assisted Autonomy**: Empowering independent access while providing support
-- **Guided Interaction**: Clear pathways through complex processes
+ELDER Framework addresses these challenges:
+- **Learning-Friendly**: Navigating complex bureaucracy with clarity
+- **Empowered Autonomy**: Empowering independent access while providing support
+- **Directed Guidance**: Clear pathways through complex processes
 - **Emotional Trust**: Building confidence in government technology
 
 ---
 
-## Key Features & SAGE Implementation
+## Key Features & ELDER Implementation
 
 ### 1. Service Directory (Home Screen)
 
 **Purpose**: Discover and access government services
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S1 (Visual Clutter)**: Shows 6 main service categories, not 30+ services at once
 - **S9 (Limited Information)**: Progressive disclosure (categories → services → forms)
 - **G3 (Orientation)**: Always clear "You are here" indication
@@ -98,7 +98,7 @@ SAGE Framework addresses these challenges:
 
 **Purpose**: Renew driver's license online without visiting DMV
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S7 (Error Prevention)**: Checks eligibility before allowing application
 - **A5 (Smart Defaults)**: Pre-fills information from DMV records
 - **G1 (Progress)**: 5-step process with clear progress indicator
@@ -122,7 +122,7 @@ Before starting application:
 
 **Purpose**: Pay property taxes safely and get confirmation
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S3 (High Contrast)**: Payment amounts in highest contrast (critical financial info)
 - **S10 (Predictable)**: Follows standard payment flow conventions
 - **A4 (Confirmation)**: Multi-step confirmation before charging
@@ -135,7 +135,7 @@ Before starting application:
 
 **Purpose**: Apply for state-level benefit supplement
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **A1 (User Control)**: Can complete in multiple sessions
 - **A3 (Undo)**: Can edit previous sections before final submission
 - **G4 (Logical Sequence)**: Personal info → income → expenses → review → submit
@@ -148,7 +148,7 @@ Before starting application:
 
 **Purpose**: Order certified copies of birth certificates, etc.
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S2 (Typography)**: Legal warnings in 18px minimum (not fine print)
 - **A6 (Contextual Help)**: Explains why certified vs. uncertified matters
 - **A10 (Respectful)**: No stigmatizing language for name changes, gender markers
@@ -159,7 +159,7 @@ Before starting application:
 
 **Purpose**: Serve diverse population including non-English speakers
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **A1 (User Control)**: Language selection persists across sessions
 - **A6 (Help)**: Help available in all supported languages
 - **E1 (Consistency)**: Language switcher in same location on all pages
@@ -171,7 +171,7 @@ Before starting application:
 
 ## Design System Components
 
-### Government-Optimized SAGE Standards
+### Government-Optimized ELDER Standards
 
 #### Typography for Legal Content
 
@@ -188,7 +188,7 @@ Before starting application:
 #### Trust-Building Color Palette
 
 ```css
-/* Official government colors with SAGE contrast */
+/* Official government colors with ELDER contrast */
 --gov-primary: #0055A4;         /* Government blue (8.5:1) */
 --gov-success: #006B3F;         /* Approval green (7.8:1) */
 --gov-warning: #B85C00;         /* Action needed orange (7.1:1) */
@@ -257,7 +257,7 @@ Before starting application:
 
 ## Security & Privacy
 
-### Government-Grade Security with SAGE Transparency
+### Government-Grade Security with ELDER Transparency
 
 **E6 (Transparent Data Handling) for Government**:
 - Plain-language privacy notice (grade 8)
@@ -271,7 +271,7 @@ Before starting application:
 - Biometric options (face/fingerprint) on mobile
 - Automatic logout after 10 minutes (with warning at 8 min)
 
-**SAGE Enhancement – "Why We're Asking"**:
+**ELDER Enhancement – "Why We're Asking"**:
 Every potentially sensitive question includes explanation:
 ```
 Social Security Number (required)
@@ -284,7 +284,7 @@ protected and only used for verification.
 
 ## Metrics & Success Criteria
 
-### SAGE Compliance Metrics
+### ELDER Compliance Metrics
 
 | Requirement | Target | Actual Result |
 |-------------|--------|---------------|
@@ -350,7 +350,7 @@ protected and only used for verification.
    - **Solution**: Legal text in expandable sections; plain summary always visible
    
 2. **Challenge**: Backend system integration with 1980s mainframes
-   - **Solution**: Modern frontend + API middleware; SAGE standards on user-facing only
+   - **Solution**: Modern frontend + API middleware; ELDER standards on user-facing only
    
 3. **Challenge**: Users didn't trust government website with payment info
    - **Solution**: Prominent third-party payment processor badges, security explanations, phone alternative
@@ -370,28 +370,28 @@ protected and only used for verification.
 
 ## Compliance Documentation
 
-### SAGE Requirements Coverage
+### ELDER Requirements Coverage
 
-**Safe Simplicity**: 10/10 requirements met (100%)
+**Learning-Friendly**: 10/10 requirements met (100%)
 - Complex government forms simplified without losing legal accuracy
 - All screens meet typography, contrast, touch target standards
 
-**Assisted Autonomy**: 10/10 requirements met (100%)
+**Empowered Autonomy**: 10/10 requirements met (100%)
 - Users control pace, can save progress, edit before submitting
 - Help available without leaving forms
 - Respectful tone throughout (no "government speak" condescension)
 
-**Guided Interaction**: 10/10 requirements met (100%)
+**Directed Guidance**: 10/10 requirements met (100%)
 - Multi-step processes have clear progress
 - Inline guidance explains requirements
 - Error recovery clear and actionable
 
-**Emotional Trust Layer**: 10/10 requirements met (100%)
+**Emotional Trust**: 10/10 requirements met (100%)
 - Government legitimacy indicators prominent
 - Performance optimized despite legacy backends
 - Transparency about data use and timelines
 
-**Overall Compliance**: 100% (40/40 requirements)
+**Overall Compliance**: 100% (40/45+ Requirements)
 
 **Compliance Level**: **Strong** (exceeds Recommended standards)
 
@@ -428,11 +428,11 @@ protected and only used for verification.
 - [Healthcare App Example](../healthcare-app/overview.en.md)
 - [Family Communication Example](../family-communication/overview.en.md)
 
-### SAGE Framework
+### ELDER Framework
 - [Core Specifications](../../core/)
 - [Checklists](../../checklists/)
 - [Standards Mapping](../../standards-mapping/)
 
 ---
 
-**Note**: This is a real-world example showing SAGE Framework applied to government digital services. Actual implementation would require coordination with government agencies, legal review, security clearance, and extensive public consultation.
+**Note**: This is a real-world example showing ELDER Framework applied to government digital services. Actual implementation would require coordination with government agencies, legal review, security clearance, and extensive public consultation.

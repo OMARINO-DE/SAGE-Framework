@@ -24,14 +24,14 @@ For documentation changes, confirm all three languages are included:
 - [ ] Arabic (AR) - included/updated
 - [ ] N/A (not a documentation change)
 
-## SAGE Alignment
+## ELDER Alignment
 
-Please confirm this change aligns with SAGE principles:
+Please confirm this change aligns with ELDER principles:
 
-- [ ] Supports Safe Simplicity
-- [ ] Enhances Assisted Autonomy
-- [ ] Improves Guided Interaction
-- [ ] Strengthens Emotional Trust Layer
+- [ ] Supports Learning-Friendly
+- [ ] Enhances Empowered Autonomy
+- [ ] Improves Directed Guidance
+- [ ] Strengthens Emotional Trust
 - [ ] N/A (governance/process change)
 
 ## Testing/Validation

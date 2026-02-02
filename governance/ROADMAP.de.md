@@ -1,15 +1,15 @@
-# SAGE Framework Roadmap
+# ELDER Framework Roadmap
 
 ## Vision
 
-SAGE als führendes Open-Source-Framework für seniorengerechte digitale Erlebnisse zu etablieren, weltweit anerkannt von Designern, Entwicklern, Gesundheitsdienstleistern, Regierungsbehörden und Technologieunternehmen.
+ELDER als führendes Open-Source-Framework für seniorengerechte digitale Erlebnisse zu etablieren, weltweit anerkannt von Designern, Entwicklern, Gesundheitsdienstleistern, Regierungsbehörden und Technologieunternehmen.
 
 ## Aktueller Status (Q1 2026)
 
 **Version:** 0.1.0 (Erstveröffentlichung)
 
 - ✅ Framework-Struktur etabliert
-- ✅ Vier Säulen definiert
+- ✅ fünf Säulen definiert
 - ✅ Governance-Modell etabliert
 - ✅ Dreisprachige Dokumentation initiiert
 - 🔄 Kern-Spezifikationen in Entwicklung
@@ -78,7 +78,7 @@ SAGE als führendes Open-Source-Framework für seniorengerechte digitale Erlebni
 - Umfassende Schulungsprogramme aufbauen
 
 ### Zertifizierungsprogramm
-- SAGE-Zertifizierung für Produkte etablieren
+- ELDER-Zertifizierung für Produkte etablieren
 - Berufliche Zertifizierung für Praktiker erstellen
 - Schulungs- und Bildungsmaterialien entwickeln
 - Zertifizierungsstelle aufbauen
@@ -125,7 +125,7 @@ SAGE als führendes Open-Source-Framework für seniorengerechte digitale Erlebni
 ## Erfolgsmetriken
 
 ### Akzeptanz
-- Anzahl der Produkte, die SAGE verwenden
+- Anzahl der Produkte, die ELDER verwenden
 - Organisationen, die Framework implementieren
 - Downloads und Dokumentationsaufrufe
 - Community-Größe und Engagement
@@ -190,7 +190,7 @@ Um Ergänzungen oder Änderungen vorzuschlagen:
 
 **Top 3 Prioritäten für Q1 2026:**
 
-1. **Kern-Spezifikationen vervollständigen**: Dreisprachige Spezifikationen für alle vier Säulen mit testbaren Anforderungen abschließen
+1. **Kern-Spezifikationen vervollständigen**: Dreisprachige Spezifikationen für alle fünf Säulen mit testbaren Anforderungen abschließen
 2. **Validierung mit Benutzern**: Spezifikationen mit tatsächlichen Senioren testen und Feedback einarbeiten
 3. **Community-Building**: Aktive Mitwirkenden-Community und Kommunikationskanäle etablieren
 
@@ -199,7 +199,7 @@ Um Ergänzungen oder Änderungen vorzuschlagen:
 Für Roadmap-bezogene Diskussionen:
 - **GitHub Discussions**: Kategorie "Roadmap"
 - **Issues**: Feature-Anfragen und Vorschläge
-- **E-Mail**: roadmap@sage-framework.org (falls eingerichtet)
+- **E-Mail**: roadmap@ELDER-framework.org (falls eingerichtet)
 
 ---
 

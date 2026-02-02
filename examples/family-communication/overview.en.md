@@ -15,7 +15,7 @@
 
 FamilyBridge enables seniors to:
 - Make video calls to family members
-- Send and receive messages with photos
+- Send and receive mesELDERs with photos
 - Share family photos and videos
 - Create and view family calendars (birthdays, events)
 - Receive emergency notifications from family
@@ -32,30 +32,30 @@ FamilyBridge enables seniors to:
 
 ---
 
-## SAGE Framework Application
+## ELDER Framework Application
 
-### Why SAGE is Essential for Family Communication
+### Why ELDER is Essential for Family Communication
 
 Family communication apps present unique emotional challenges:
 - **Emotional Stakes**: Loneliness, desire for connection
 - **Fear of Technology**: Don't want to "break" something and lose access to family
 - **Generational Gap**: Younger family uses complex apps; seniors need simplicity
-- **Anxiety**: Worry about missing important messages or calls
+- **Anxiety**: Worry about missing important mesELDERs or calls
 - **Dignity**: Want to participate as equals, not feel "handled"
 
-SAGE Framework addresses these challenges:
-- **Safe Simplicity**: Remove technical barriers to connection
-- **Assisted Autonomy**: Enable independence while offering help
-- **Guided Interaction**: Make calling/messaging effortless
+ELDER Framework addresses these challenges:
+- **Learning-Friendly**: Remove technical barriers to connection
+- **Empowered Autonomy**: Enable independence while offering help
+- **Directed Guidance**: Make calling/messaging effortless
 - **Emotional Trust**: Build confidence in maintaining family bonds
 
 ---
 
-## Key Features & SAGE Implementation
+## Key Features & ELDER Implementation
 
 ### 1. Contact List (Home Screen)
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S1**: Shows 5-7 favorite contacts with photos (not overwhelming list)
 - **S2**: Contact names in 20px font
 - **S4**: Large contact cards (80x120px) easy to tap
@@ -85,23 +85,23 @@ SAGE Framework addresses these challenges:
 │                                        │
 │  [View All Family] [Add Contact]      │
 │                                        │
-│  ❤️  3 new messages                    │  E2: Immediate notification
+│  ❤️  3 new mesELDERs                    │  E2: Immediate notification
 │                                        │
 └────────────────────────────────────────┘
 ```
 
 ### 2. Making a Video Call
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S5**: Single "Call" button per contact (not multiple options)
 - **A4**: Confirms before calling ("Call Sarah now?")
 - **E2**: Connecting feedback immediate (<100ms shows "Calling...")
-- **E3**: Reassuring messages ("Sarah will see your call in a moment")
+- **E3**: Reassuring mesELDERs ("Sarah will see your call in a moment")
 - **A8**: Can test video/audio before calling family
 
 ### 3. Receiving Calls
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S2**: Caller name in 24px bold font (immediately recognizable)
 - **S4**: Large Answer (120x80px) and Decline buttons
 - **E2**: Vibration + ringtone + visual (multiple signals)
@@ -110,15 +110,15 @@ SAGE Framework addresses these challenges:
 
 ### 4. Messaging with Photos
 
-**SAGE Requirements Applied**:
-- **S9**: Messages limited to essential info (photo, message, sender, time)
+**ELDER Requirements Applied**:
+- **S9**: MesELDERs limited to essential info (photo, mesELDER, sender, time)
 - **G2**: Clear "Reply" button (not generic "Send")
 - **A6**: Help for attaching photos ("Tap camera icon, then take or choose photo")
 - **E10**: Camera icon universally recognizable
 
 ### 5. Family Calendar
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **S1**: Shows only next 3 events (not overwhelming)
 - **G1**: Timeline visualization of upcoming events
 - **E3**: Warm language ("Emma's birthday party - You're invited!")
@@ -126,7 +126,7 @@ SAGE Framework addresses these challenges:
 
 ### 6. Emergency Features
 
-**SAGE Requirements Applied**:
+**ELDER Requirements Applied**:
 - **E7**: Emergency call button always visible
 - **A4**: Confirms before sending emergency alert to family
 - **E3**: Reassuring "Your family will be notified immediately"
@@ -142,27 +142,27 @@ SAGE Framework addresses these challenges:
 ```css
 --family-primary: #6B4FA0;      /* Warm purple (7.5:1) */
 --family-love: #D84B6A;         /* Warm pink for hearts (7.2:1) */
---family-message: #0077B6;      /* Message blue (8.1:1) */
+--family-mesELDER: #0077B6;      /* MesELDER blue (8.1:1) */
 --family-call: #00A86B;         /* Call green (7.6:1) */
 ```
 
 #### Typography for Emotional Connection
 ```css
 --font-contact-name: 20px;      /* Names easy to read */
---font-message: 18px;           /* Comfortable reading */
+--font-mesELDER: 18px;           /* Comfortable reading */
 --font-call-name: 24px;         /* Caller immediately recognizable */
 ```
 
 #### Photo-First Design
 - Contact cards show large photos (not initials)
-- Message threads show sender photo with each message
+- MesELDER threads show sender photo with each mesELDER
 - Calendar events show family member photos
 
 ---
 
 ## Metrics & Success Criteria
 
-### SAGE Compliance
+### ELDER Compliance
 
 | Requirement | Result |
 |-------------|--------|
@@ -208,7 +208,7 @@ SAGE Framework addresses these challenges:
 
 ## Compliance
 
-**SAGE Compliance**: Strong (100%, 40/40 requirements)
+**ELDER Compliance**: Strong (100%, 40/45+ Requirements)
 
 **Evidence**: User testing with 30 seniors, loneliness scale measurements, family satisfaction surveys, accessibility audit
 
@@ -220,4 +220,4 @@ SAGE Framework addresses these challenges:
 - [Acceptance Tests](acceptance-tests.en.md)
 - [German (Deutsch)](overview.de.md)
 - [Arabic (العربية)](overview.ar.md)
-- [SAGE Framework](../../core/)
+- [ELDER Framework](../../core/)

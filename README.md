@@ -1,22 +1,23 @@
-# SAGE Framework
-## Senior-Adaptive Guided Ecosystem
+# ELDER Framework
+## Empowering Living for Digitally Enhanced Responsiveness
 
 **Framework Originator:** Oday Bakkour (https://oday-bakkour.com/)  
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
 
-**Version:** 1.0 | **Status:** ✅ Production Ready | **License:** MIT  
-**Repository:** https://github.com/OMARINO-DE/SAGE-Framework
+**Version:** 2.0 | **Status:** ✅ Production Ready | **License:** MIT  
+**Repository:** https://github.com/OMARINO-DE/ELDER-Framework
 
 ---
 
 ## 🚀 Framework Status
 
-- ✅ **40 Requirements** across 4 pillars fully documented
+- ✅ **45+ Requirements** across 5 pillars fully documented
 - ✅ **4 Role-Based Checklists** (Product, UX, Engineering, Release)
 - ✅ **3 Validated Examples** (Healthcare: 87% completion, Government: 83% adoption, Family: 32% loneliness reduction)
 - ✅ **Scientific Whitepaper** (12 pages, comprehensive academic foundation)
 - ✅ **Standards Mapping** (WCAG 2.1, ISO 9241-210, Nielsen Heuristics)
+- ✅ **AI Integration Specifications** (Comprehensive ethical AI guidelines)
 - ✅ **English Documentation** (100% complete)
 - 🔄 **German/Arabic Translations** (15% complete - [contribute](TRANSLATION_STATUS.md))
 - ✅ **MIT License** - Free and open for all
@@ -25,38 +26,41 @@
 
 ## English
 
-### What is SAGE?
+### What is ELDER?
 
-**SAGE** (Senior-Adaptive Guided Ecosystem) is an open-source framework for designing digital experiences that empower senior users through thoughtful, evidence-based design principles. SAGE provides comprehensive specifications, guidelines, and tools to help designers, developers, and organizations create products that respect senior users' autonomy while providing appropriate support and guidance.
+**ELDER** (Empowering Living for Digitally Enhanced Responsiveness) is an open-source framework for designing digital experiences that empower senior users through thoughtful, evidence-based design principles. ELDER provides comprehensive specifications, guidelines, and tools to help designers, developers, and organizations create products that respect senior users' autonomy while providing appropriate support and guidance.
 
 ### 📚 Quick Links
 
 - **[Documentation Index](docs/index.en.md)** - Complete navigation guide
 - **[Getting Started](#getting-started)** - Jump right in
-- **[Core Specifications](core/)** - 40 requirements across 4 pillars
+- **[Core Specifications](core/)** - 45+ requirements across 5 pillars
 - **[Checklists](checklists/)** - Practical implementation guides
 - **[Examples](examples/)** - Real-world validated case studies
 - **[Scientific Whitepaper](research/whitepaper.en.md)** - Academic foundation
 - **[Contributors](CONTRIBUTORS.md)** - Meet the team
 - **[Translation Status](TRANSLATION_STATUS.md)** - Help translate
 
-### The Four Pillars
+### The Five Pillars
 
-SAGE is built on four foundational pillars that work together to create truly senior-friendly digital experiences:
+ELDER is built on five foundational pillars that work together to create truly senior-friendly digital experiences:
 
-#### 1. Safe Simplicity
-Reduce cognitive load without reducing functionality. Strip away unnecessary complexity while preserving essential features. Design interfaces that are immediately understandable and error-tolerant.
+#### 1. Emotional Trust
+Build confidence through consistent, respectful, and reassuring interactions. Use familiar patterns, provide clear feedback, and create a sense of safety and reliability. Trust is the foundation of all senior-adaptive design.
 
-#### 2. Assisted Autonomy
-Empower users to make their own decisions while providing intelligent support. Offer guidance without taking control. Respect user agency while being helpful.
+#### 2. Learning-Friendly (Learning-Friendly)
+Reduce cognitive load without reducing functionality. Strip away unnecessary complexity while preserving essential features. Design interfaces that are immediately understandable and error-tolerant, supporting continuous learning.
 
-#### 3. Guided Interaction
-Provide clear, contextual guidance throughout the user journey. Make next steps obvious. Use progressive disclosure to manage complexity without overwhelming users.
+#### 3. Directed Guidance (Directed Guidance)
+Provide clear, contextual guidance throughout the user journey. Make next steps obvious. Use progressive disclosure to manage complexity without overwhelming users. Every interaction should feel guided and intentional.
 
-#### 4. Emotional Trust Layer
-Build confidence through consistent, respectful, and reassuring interactions. Use familiar patterns, provide clear feedback, and create a sense of safety and reliability.
+#### 4. Empowered Autonomy (Empowered Autonomy)
+Empower users to make their own decisions while providing intelligent support. Offer guidance without taking control. Respect user agency while being helpful. Users should feel capable and independent.
 
-### What SAGE Is
+#### 5. Responsive Design
+Create adaptive experiences that respond to user needs, contexts, and capabilities. Ensure interfaces work across devices, adapt to different abilities, and provide flexible interaction methods. Responsiveness encompasses technical, cognitive, and emotional adaptability.
+
+### What ELDER Is
 
 - ✅ **A comprehensive framework** with testable, auditable specifications
 - ✅ **Evidence-based guidelines** grounded in research and real-world testing
@@ -64,33 +68,36 @@ Build confidence through consistent, respectful, and reassuring interactions. Us
 - ✅ **Open and collaborative** - anyone can contribute and use it
 - ✅ **Trilingual by design** - documentation in English, German, and Arabic (see [TRANSLATION_STATUS.md](TRANSLATION_STATUS.md))
 - ✅ **Standards-aligned** - maps to WCAG, ISO 9241-210, and Nielsen Heuristics
+- ✅ **AI-ready** - comprehensive ethical AI integration guidelines
 
-### What SAGE Is Not
+### What ELDER Is Not
 
-- ❌ **Not a replacement for accessibility standards** - SAGE complements and extends existing standards like WCAG
-- ❌ **Not age-discriminatory** - SAGE principles benefit all users, with special focus on senior needs
-- ❌ **Not one-size-fits-all** - SAGE provides flexible guidelines adaptable to different contexts
-- ❌ **Not just for elderly users** - SAGE principles improve usability for everyone
-- ❌ **Not prescriptive** - SAGE guides rather than dictates specific solutions
+- ❌ **Not a replacement for accessibility standards** - ELDER complements and extends existing standards like WCAG
+- ❌ **Not age-discriminatory** - ELDER principles benefit all users, with special focus on senior needs
+- ❌ **Not one-size-fits-all** - ELDER provides flexible guidelines adaptable to different contexts
+- ❌ **Not just for elderly users** - ELDER principles improve usability for everyone
+- ❌ **Not prescriptive** - ELDER guides rather than dictates specific solutions
 
-### How to Use SAGE
+### How to Use ELDER
 
-1. **Designers**: Use SAGE specifications to inform your design decisions and validate your work against senior-friendly criteria
-2. **Developers**: Implement SAGE requirements in your code and test against provided checklists
-3. **Product Managers**: Use SAGE to define requirements and acceptance criteria for senior-focused features
-4. **QA Teams**: Use SAGE checklists to audit products for senior usability
-5. **Organizations**: Adopt SAGE as part of your accessibility and inclusive design strategy
+1. **Designers**: Use ELDER specifications to inform your design decisions and validate your work against senior-friendly criteria
+2. **Developers**: Implement ELDER requirements in your code and test against provided checklists
+3. **Product Managers**: Use ELDER to define requirements and acceptance criteria for senior-focused features
+4. **QA Teams**: Use ELDER checklists to audit products for senior usability
+5. **Organizations**: Adopt ELDER as part of your accessibility and inclusive design strategy
 
 ### Repository Structure
 
 ```
-SAGE-Framework/
+ELDER-Framework/
 ├── .github/                      # GitHub templates and workflows
 ├── core/                         # Core pillar specifications
-│   ├── safe-simplicity.*         # Safe Simplicity specifications (EN/DE/AR)
-│   ├── assisted-autonomy.*       # Assisted Autonomy specifications (EN/DE/AR)
-│   ├── guided-interaction.*      # Guided Interaction specifications (EN/DE/AR)
-│   └── emotional-trust.*         # Emotional Trust Layer specifications (EN/DE/AR)
+│   ├── emotional-trust.*         # Emotional Trust specifications (EN/DE/AR)
+│   ├── learning-friendly.*       # Learning-Friendly specifications (EN/DE/AR)
+│   ├── directed-guidance.*       # Directed Guidance specifications (EN/DE/AR)
+│   ├── empowered-autonomy.*      # Empowered Autonomy specifications (EN/DE/AR)
+│   ├── responsive-design.*       # Responsive Design specifications (EN/DE/AR)
+│   └── ai-integration.*          # AI Integration specifications (EN/DE/AR)
 ├── standards-mapping/            # Mappings to existing standards
 │   ├── wcag-mapping.*            # WCAG alignment (EN/DE/AR)
 │   ├── iso-9241-mapping.*        # ISO 9241-210 alignment (EN/DE/AR)
@@ -105,7 +112,7 @@ SAGE-Framework/
 │   ├── gov-services/             # Government services example
 │   └── family-communication/     # Family communication example
 ├── research/                     # Research and whitepapers
-│   └── whitepaper.*              # SAGE Framework whitepaper (EN/DE/AR)
+│   └── whitepaper.*              # ELDER Framework whitepaper (EN/DE/AR)
 ├── governance/                   # Governance documentation
 │   ├── GOVERNANCE.*              # Governance model (EN/DE/AR)
 │   └── ROADMAP.*                 # Project roadmap (EN/DE/AR)
@@ -121,13 +128,13 @@ SAGE-Framework/
 
 #### For Product Teams
 1. **Understand the Framework**: Read [Documentation Index](docs/index.en.md) for complete overview
-2. **Review Requirements**: Study [core specifications](core/) - 40 requirements across 4 pillars
+2. **Review Requirements**: Study [core specifications](core/) - 45+ requirements across 5 pillars
 3. **Check Examples**: See [Healthcare App](examples/healthcare-app/overview.en.md) (87% task completion improvement)
 4. **Use Checklists**: Apply [Product Checklist](checklists/product-checklist.en.md) for requirements definition
-5. **Measure Success**: Target 90%+ compliance for SAGE certification
+5. **Measure Success**: Target 90%+ compliance for ELDER certification
 
 #### For Designers
-1. Start with [Safe Simplicity](core/safe-simplicity.en.md) - easiest entry point
+1. Start with [Emotional Trust](core/emotional-trust.en.md) or [Learning-Friendly](core/learning-friendly.en.md) - easiest entry points
 2. Use [UX Checklist](checklists/ux-checklist.en.md) across design phases
 3. Study [design patterns](checklists/ux-checklist.en.md#design-patterns) (buttons, forms, help icons)
 4. Review [Government Services Example](examples/gov-services/overview.en.md) for UI patterns
@@ -146,7 +153,7 @@ SAGE-Framework/
 
 ### Key Metrics from Validated Examples
 
-| Domain | Before SAGE | After SAGE | Improvement |
+| Domain | Before ELDER | After ELDER | Improvement |
 |--------|-------------|------------|-------------|
 | **Healthcare App** | 61% task completion | 87% completion | +26% |
 | **Healthcare App** | 65% medication adherence | 87% adherence | +22% |
@@ -164,9 +171,9 @@ We welcome contributions! See [CONTRIBUTORS.md](CONTRIBUTORS.md) to meet the tea
 **Ways to Contribute:**
 - 📝 **Translations**: Help complete German/Arabic translations (see [TRANSLATION_STATUS.md](TRANSLATION_STATUS.md))
 - 📖 **Documentation**: Improve clarity, add examples, fix typos
-- 🧪 **Validation**: Share your SAGE implementation case studies
+- 🧪 **Validation**: Share your ELDER implementation case studies
 - 🔬 **Research**: Conduct validation studies, provide evidence
-- 💻 **Tools**: Build SAGE compliance checkers, design systems, libraries
+- 💻 **Tools**: Build ELDER compliance checkers, design systems, libraries
 - 💬 **Community**: Answer questions, provide support, spread awareness
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines:
@@ -179,8 +186,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines:
 
 **Get Help:**
 - 📖 **[Documentation Index](docs/index.en.md)** - Complete framework documentation
-- 🐛 **[GitHub Issues](https://github.com/OMARINO-DE/SAGE-Framework/issues)** - Report bugs or request features
-- 💬 **[GitHub Discussions](https://github.com/OMARINO-DE/SAGE-Framework/discussions)** - Ask questions and discuss ideas
+- 🐛 **[GitHub Issues](https://github.com/OMARINO-DE/ELDER-Framework/issues)** - Report bugs or request features
+- 💬 **[GitHub Discussions](https://github.com/OMARINO-DE/ELDER-Framework/discussions)** - Ask questions and discuss ideas
 - 📧 **Email**: omar@omarino.de - Direct support from maintainer
 
 **Stay Updated:**
@@ -189,10 +196,10 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines:
 - 🔔 Follow discussions for announcements
 
 **Professional Services:**
-- SAGE implementation consulting
+- ELDER implementation consulting
 - Professional translation services (DE/AR)
 - Training and workshops
-- Custom SAGE validation studies
+- Custom ELDER validation studies
 
 Contact: omar@omarino.de | https://www.omarino.de
 
@@ -203,17 +210,17 @@ Contact: omar@omarino.de | https://www.omarino.de
 **How to Cite:**
 
 ```bibtex
-Bakkour, O., & Zaror, O. (2026). SAGE Framework: Senior-Adaptive Guided Ecosystem.
-GitHub. https://github.com/OMARINO-DE/SAGE-Framework
+Bakkour, O., & Zaror, O. (2026). ELDER Framework: Empowering Living for Digitally Enhanced Responsiveness.
+GitHub. https://github.com/OMARINO-DE/ELDER-Framework
 ```
 
 For BibTeX, RIS, and other citation formats, see [CITATION.cff](CITATION.cff).
 
-**When to Cite SAGE:**
+**When to Cite ELDER:**
 - Academic papers on senior UX or accessibility
-- Product documentation adopting SAGE principles
-- Research validating or extending SAGE requirements
-- Design systems implementing SAGE patterns
+- Product documentation adopting ELDER principles
+- Research validating or extending ELDER requirements
+- Design systems implementing ELDER patterns
 
 ### Project Information
 
@@ -237,45 +244,45 @@ For BibTeX, RIS, and other citation formats, see [CITATION.cff](CITATION.cff).
 Website: https://www.omarino.de  
 Email: omar@omarino.de
 
-- **Issues**: [GitHub Issues](https://github.com/OMARINO-DE/SAGE-Framework/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/OMARINO-DE/SAGE-Framework/discussions)
+- **Issues**: [GitHub Issues](https://github.com/OMARINO-DE/ELDER-Framework/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/OMARINO-DE/ELDER-Framework/discussions)
 
 ---
 
 ## Deutsch
 
-### Was ist SAGE?
+### Was ist ELDER?
 
-**SAGE** (Senior-Adaptive Guided Ecosystem / Seniorengerechtes Adaptives Geführtes Ökosystem) ist ein Open-Source-Framework für die Gestaltung digitaler Erlebnisse, die ältere Nutzer durch durchdachte, evidenzbasierte Designprinzipien unterstützen. SAGE bietet umfassende Spezifikationen, Richtlinien und Tools, um Designern, Entwicklern und Organisationen zu helfen, Produkte zu erstellen, die die Autonomie älterer Nutzer respektieren und gleichzeitig angemessene Unterstützung und Anleitung bieten.
+**ELDER** (Empowering Living for Digitally Enhanced Responsiveness / Ermächtigendes Leben für Digital Verbesserte Reaktionsfähigkeit) ist ein Open-Source-Framework für die Gestaltung digitaler Erlebnisse, die ältere Nutzer durch durchdachte, evidenzbasierte Designprinzipien unterstützen. ELDER bietet umfassende Spezifikationen, Richtlinien und Tools, um Designern, Entwicklern und Organisationen zu helfen, Produkte zu erstellen, die die Autonomie älterer Nutzer respektieren und gleichzeitig angemessene Unterstützung und Anleitung bieten.
 
 ### 📚 Schnellzugriff
 
 - **[Dokumentationsindex](docs/index.en.md)** - Vollständiger Navigationsführer
 - **[Erste Schritte](#erste-schritte)** - Sofort loslegen
-- **[Kern-Spezifikationen](core/)** - 40 Anforderungen über 4 Säulen
+- **[Kern-Spezifikationen](core/)** - 45+ Anforderungen über 4 Säulen
 - **[Checklisten](checklists/)** - Praktische Implementierungsleitfäden
 - **[Beispiele](examples/)** - Validierte Fallstudien aus der Praxis
 - **[Wissenschaftliches Whitepaper](research/whitepaper.en.md)** - Akademische Grundlage
 - **[Mitwirkende](CONTRIBUTORS.md)** - Das Team kennenlernen
 - **[Übersetzungsstatus](TRANSLATION_STATUS.md)** - Bei Übersetzungen helfen
 
-### Die vier Säulen
+### Die fünf Säulen
 
-SAGE basiert auf vier grundlegenden Säulen, die zusammenwirken, um wirklich seniorenfreundliche digitale Erlebnisse zu schaffen:
+ELDER basiert auf vier grundlegenden Säulen, die zusammenwirken, um wirklich seniorenfreundliche digitale Erlebnisse zu schaffen:
 
-#### 1. Sichere Einfachheit (Safe Simplicity)
+#### 1. Lernfreundlich (Learning-Friendly)
 Reduzierung der kognitiven Belastung ohne Funktionsverlust. Entfernung unnötiger Komplexität bei Erhalt wesentlicher Funktionen. Gestaltung von Oberflächen, die sofort verständlich und fehlertolerant sind.
 
-#### 2. Unterstützte Autonomie (Assisted Autonomy)
+#### 2. Ermächtigte Autonomie (Empowered Autonomy)
 Befähigung der Nutzer, eigene Entscheidungen zu treffen, während intelligente Unterstützung geboten wird. Anleitung ohne Kontrollübernahme. Respekt vor der Handlungsfähigkeit der Nutzer bei gleichzeitiger Hilfsbereitschaft.
 
-#### 3. Geführte Interaktion (Guided Interaction)
+#### 3. Gerichtete Anleitung (Directed Guidance)
 Bereitstellung klarer, kontextbezogener Anleitung während der gesamten Nutzerreise. Nächste Schritte offensichtlich machen. Progressive Offenlegung zur Komplexitätsbewältigung ohne Überforderung.
 
-#### 4. Emotionale Vertrauensebene (Emotional Trust Layer)
+#### 4. Emotionales Vertrauen (Emotional Trust)
 Aufbau von Vertrauen durch konsistente, respektvolle und beruhigende Interaktionen. Verwendung vertrauter Muster, klare Rückmeldungen und Schaffung eines Gefühls von Sicherheit und Zuverlässigkeit.
 
-### Was SAGE ist
+### Was ELDER ist
 
 - ✅ **Ein umfassendes Framework** mit testbaren, überprüfbaren Spezifikationen
 - ✅ **Evidenzbasierte Richtlinien** basierend auf Forschung und realen Tests
@@ -284,21 +291,21 @@ Aufbau von Vertrauen durch konsistente, respektvolle und beruhigende Interaktion
 - ✅ **Dreisprachig konzipiert** - Dokumentation auf Englisch, Deutsch und Arabisch
 - ✅ **Standards-konform** - Abbildung auf WCAG, ISO 9241-210 und Nielsen-Heuristiken
 
-### Was SAGE nicht ist
+### Was ELDER nicht ist
 
-- ❌ **Kein Ersatz für Barrierefreiheitsstandards** - SAGE ergänzt und erweitert bestehende Standards wie WCAG
-- ❌ **Keine Altersdiskriminierung** - SAGE-Prinzipien nützen allen Nutzern, mit besonderem Fokus auf Seniorenbedürfnisse
-- ❌ **Keine Einheitslösung** - SAGE bietet flexible Richtlinien, anpassbar an verschiedene Kontexte
-- ❌ **Nicht nur für ältere Nutzer** - SAGE-Prinzipien verbessern die Benutzerfreundlichkeit für alle
-- ❌ **Nicht vorschreibend** - SAGE leitet an, anstatt spezifische Lösungen vorzuschreiben
+- ❌ **Kein Ersatz für Barrierefreiheitsstandards** - ELDER ergänzt und erweitert bestehende Standards wie WCAG
+- ❌ **Keine Altersdiskriminierung** - ELDER-Prinzipien nützen allen Nutzern, mit besonderem Fokus auf Seniorenbedürfnisse
+- ❌ **Keine Einheitslösung** - ELDER bietet flexible Richtlinien, anpassbar an verschiedene Kontexte
+- ❌ **Nicht nur für ältere Nutzer** - ELDER-Prinzipien verbessern die Benutzerfreundlichkeit für alle
+- ❌ **Nicht vorschreibend** - ELDER leitet an, anstatt spezifische Lösungen vorzuschreiben
 
-### Wie man SAGE verwendet
+### Wie man ELDER verwendet
 
-1. **Designer**: Nutzen Sie SAGE-Spezifikationen zur Orientierung bei Designentscheidungen und zur Validierung Ihrer Arbeit anhand seniorenfreundlicher Kriterien
-2. **Entwickler**: Implementieren Sie SAGE-Anforderungen in Ihrem Code und testen Sie anhand der bereitgestellten Checklisten
-3. **Produktmanager**: Verwenden Sie SAGE zur Definition von Anforderungen und Akzeptanzkriterien für seniorenorientierte Funktionen
-4. **QA-Teams**: Verwenden Sie SAGE-Checklisten zur Überprüfung von Produkten auf Seniorentauglichkeit
-5. **Organisationen**: Übernehmen Sie SAGE als Teil Ihrer Barrierefreiheits- und inklusiven Designstrategie
+1. **Designer**: Nutzen Sie ELDER-Spezifikationen zur Orientierung bei Designentscheidungen und zur Validierung Ihrer Arbeit anhand seniorenfreundlicher Kriterien
+2. **Entwickler**: Implementieren Sie ELDER-Anforderungen in Ihrem Code und testen Sie anhand der bereitgestellten Checklisten
+3. **Produktmanager**: Verwenden Sie ELDER zur Definition von Anforderungen und Akzeptanzkriterien für seniorenorientierte Funktionen
+4. **QA-Teams**: Verwenden Sie ELDER-Checklisten zur Überprüfung von Produkten auf Seniorentauglichkeit
+5. **Organisationen**: Übernehmen Sie ELDER als Teil Ihrer Barrierefreiheits- und inklusiven Designstrategie
 
 ### Verwendung der Repository-Struktur
 
@@ -308,13 +315,13 @@ Siehe englische Version oben für die vollständige Repository-Struktur.
 
 #### Für Produktteams
 1. **Framework verstehen**: Lesen Sie den [Dokumentationsindex](docs/index.en.md) für vollständige Übersicht
-2. **Anforderungen prüfen**: Studieren Sie [Kern-Spezifikationen](core/) - 40 Anforderungen über 4 Säulen
+2. **Anforderungen prüfen**: Studieren Sie [Kern-Spezifikationen](core/) - 45+ Anforderungen über 4 Säulen
 3. **Beispiele ansehen**: Siehe [Healthcare App](examples/healthcare-app/overview.en.md) (87% Aufgabenabschluss-Verbesserung)
 4. **Checklisten verwenden**: [Produkt-Checkliste](checklists/product-checklist.en.md) für Anforderungsdefinition
-5. **Erfolg messen**: Ziel 90%+ Compliance für SAGE-Zertifizierung
+5. **Erfolg messen**: Ziel 90%+ Compliance für ELDER-Zertifizierung
 
 #### Für Designer
-1. Start mit [Sichere Einfachheit](core/safe-simplicity.en.md) - einfachster Einstiegspunkt
+1. Start mit [Lernfreundlich](core/learning-friendly.en.md) - einfachster Einstiegspunkt
 2. Verwenden Sie [UX-Checkliste](checklists/ux-checklist.en.md) über Designphasen
 3. Studieren Sie [Designmuster](checklists/ux-checklist.en.md#design-patterns) (Buttons, Formulare, Hilfe-Icons)
 4. Prüfen Sie [Behördendienste-Beispiel](examples/gov-services/overview.en.md) für UI-Muster
@@ -333,7 +340,7 @@ Siehe englische Version oben für die vollständige Repository-Struktur.
 
 ### Wichtige Kennzahlen aus validierten Beispielen
 
-| Bereich | Vor SAGE | Nach SAGE | Verbesserung |
+| Bereich | Vor ELDER | Nach ELDER | Verbesserung |
 |---------|----------|-----------|-------------|
 | **Healthcare App** | 61% Aufgabenabschluss | 87% Abschluss | +26% |
 | **Healthcare App** | 65% Medikamententreue | 87% Treue | +22% |
@@ -351,9 +358,9 @@ Wir begrüßen Beiträge! Siehe [CONTRIBUTORS.md](CONTRIBUTORS.md) um das Team k
 **Möglichkeiten zur Mitarbeit:**
 - 📝 **Übersetzungen**: Helfen Sie bei deutschen/arabischen Übersetzungen (siehe [TRANSLATION_STATUS.md](TRANSLATION_STATUS.md))
 - 📖 **Dokumentation**: Klarheit verbessern, Beispiele hinzufügen, Tippfehler korrigieren
-- 🧪 **Validierung**: Teilen Sie Ihre SAGE-Implementierungs-Fallstudien
+- 🧪 **Validierung**: Teilen Sie Ihre ELDER-Implementierungs-Fallstudien
 - 🔬 **Forschung**: Führen Sie Validierungsstudien durch, liefern Sie Beweise
-- 💻 **Tools**: Erstellen Sie SAGE-Compliance-Checker, Designsysteme, Bibliotheken
+- 💻 **Tools**: Erstellen Sie ELDER-Compliance-Checker, Designsysteme, Bibliotheken
 - 💬 **Community**: Beantworten Sie Fragen, bieten Sie Unterstützung, verbreiten Sie Bewusstsein
 
 Bitte lesen Sie [CONTRIBUTING.md](CONTRIBUTING.md) für detaillierte Richtlinien:
@@ -366,8 +373,8 @@ Bitte lesen Sie [CONTRIBUTING.md](CONTRIBUTING.md) für detaillierte Richtlinien
 
 **Hilfe erhalten:**
 - 📖 **[Dokumentationsindex](docs/index.en.md)** - Vollständige Framework-Dokumentation
-- 🐛 **[GitHub Issues](https://github.com/OMARINO-DE/SAGE-Framework/issues)** - Fehler melden oder Funktionen anfordern
-- 💬 **[GitHub Discussions](https://github.com/OMARINO-DE/SAGE-Framework/discussions)** - Fragen stellen und Ideen diskutieren
+- 🐛 **[GitHub Issues](https://github.com/OMARINO-DE/ELDER-Framework/issues)** - Fehler melden oder Funktionen anfordern
+- 💬 **[GitHub Discussions](https://github.com/OMARINO-DE/ELDER-Framework/discussions)** - Fragen stellen und Ideen diskutieren
 - 📧 **Email**: omar@omarino.de - Direkter Support vom Maintainer
 
 **Auf dem Laufenden bleiben:**
@@ -376,10 +383,10 @@ Bitte lesen Sie [CONTRIBUTING.md](CONTRIBUTING.md) für detaillierte Richtlinien
 - 🔔 Diskussionen für Ankündigungen folgen
 
 **Professionelle Dienstleistungen:**
-- SAGE-Implementierungsberatung
+- ELDER-Implementierungsberatung
 - Professionelle Übersetzungsdienste (DE/AR)
 - Schulungen und Workshops
-- Maßgeschneiderte SAGE-Validierungsstudien
+- Maßgeschneiderte ELDER-Validierungsstudien
 
 Kontakt: omar@omarino.de | https://www.omarino.de
 
@@ -390,17 +397,17 @@ Kontakt: omar@omarino.de | https://www.omarino.de
 **Wie man zitiert:**
 
 ```bibtex
-Bakkour, O., & Zaror, O. (2026). SAGE Framework: Senior-Adaptive Guided Ecosystem.
-GitHub. https://github.com/OMARINO-DE/SAGE-Framework
+Bakkour, O., & Zaror, O. (2026). ELDER Framework: Empowering Living for Digitally Enhanced Responsiveness.
+GitHub. https://github.com/OMARINO-DE/ELDER-Framework
 ```
 
 Für BibTeX, RIS und andere Zitatformate siehe [CITATION.cff](CITATION.cff).
 
-**Wann SAGE zitieren:**
+**Wann ELDER zitieren:**
 - Akademische Arbeiten über Senior-UX oder Barrierefreiheit
-- Produktdokumentation, die SAGE-Prinzipien übernimmt
-- Forschung, die SAGE-Anforderungen validiert oder erweitert
-- Designsysteme, die SAGE-Muster implementieren
+- Produktdokumentation, die ELDER-Prinzipien übernimmt
+- Forschung, die ELDER-Anforderungen validiert oder erweitert
+- Designsysteme, die ELDER-Muster implementieren
 
 ### Projektinformationen
 
@@ -424,8 +431,8 @@ Für BibTeX, RIS und andere Zitatformate siehe [CITATION.cff](CITATION.cff).
 Website: https://www.omarino.de  
 E-Mail: omar@omarino.de
 
-- **Issues**: [GitHub Issues](https://github.com/OMARINO-DE/SAGE-Framework/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/OMARINO-DE/SAGE-Framework/discussions)
+- **Issues**: [GitHub Issues](https://github.com/OMARINO-DE/ELDER-Framework/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/OMARINO-DE/ELDER-Framework/discussions)
 
 ---
 
@@ -433,9 +440,9 @@ E-Mail: omar@omarino.de
 
 > ملاحظة: هذا المستند مكتوب بالعربية وقد يُعرض من اليمين إلى اليسار حسب بيئة العرض.
 
-### ما هو SAGE؟
+### ما هو ELDER؟
 
-**SAGE** (النظام البيئي الموجه التكيفي لكبار السن) هو إطار مفتوح المصدر لتصميم التجارب الرقمية التي تمكّن كبار السن من خلال مبادئ التصميم القائمة على الأدلة والمدروسة. يوفر SAGE مواصفات وإرشادات وأدوات شاملة لمساعدة المصممين والمطورين والمؤسسات على إنشاء منتجات تحترم استقلالية كبار السن مع توفير الدعم والتوجيه المناسبين.
+**ELDER** (النظام البيئي الموجه التكيفي لكبار السن) هو إطار مفتوح المصدر لتصميم التجارب الرقمية التي تمكّن كبار السن من خلال مبادئ التصميم القائمة على الأدلة والمدروسة. يوفر ELDER مواصفات وإرشادات وأدوات شاملة لمساعدة المصممين والمطورين والمؤسسات على إنشاء منتجات تحترم استقلالية كبار السن مع توفير الدعم والتوجيه المناسبين.
 
 ### 📚 روابط سريعة
 
@@ -450,21 +457,21 @@ E-Mail: omar@omarino.de
 
 ### الركائز الأربع
 
-يُبنى SAGE على أربع ركائز أساسية تعمل معًا لإنشاء تجارب رقمية صديقة لكبار السن حقًا:
+يُبنى ELDER على أربع ركائز أساسية تعمل معًا لإنشاء تجارب رقمية صديقة لكبار السن حقًا:
 
-#### 1. البساطة الآمنة (Safe Simplicity)
+#### 1. البساطة الآمنة (Learning-Friendly)
 تقليل العبء المعرفي دون تقليل الوظائف. إزالة التعقيد غير الضروري مع الحفاظ على الميزات الأساسية. تصميم واجهات مفهومة فورًا ومتسامحة مع الأخطاء.
 
-#### 2. الاستقلالية المساعدة (Assisted Autonomy)
+#### 2. الاستقلالية المساعدة (Empowered Autonomy)
 تمكين المستخدمين من اتخاذ قراراتهم الخاصة مع توفير دعم ذكي. تقديم التوجيه دون السيطرة. احترام إرادة المستخدم مع تقديم المساعدة.
 
-#### 3. التفاعل الموجه (Guided Interaction)
+#### 3. التفاعل الموجه (Directed Guidance)
 توفير توجيه واضح وسياقي طوال رحلة المستخدم. جعل الخطوات التالية واضحة. استخدام الكشف التدريجي لإدارة التعقيد دون إرهاق المستخدمين.
 
-#### 4. طبقة الثقة العاطفية (Emotional Trust Layer)
+#### 4. طبقة الثقة العاطفية (Emotional Trust)
 بناء الثقة من خلال تفاعلات متسقة ومحترمة ومطمئنة. استخدام أنماط مألوفة، وتوفير ملاحظات واضحة، وخلق شعور بالأمان والموثوقية.
 
-### ما هو SAGE
+### ما هو ELDER
 
 - ✅ **إطار عمل شامل** مع مواصفات قابلة للاختبار والمراجعة
 - ✅ **إرشادات قائمة على الأدلة** مبنية على البحث والاختبار الواقعي
@@ -473,21 +480,21 @@ E-Mail: omar@omarino.de
 - ✅ **ثلاثي اللغة بالتصميم** - وثائق باللغات الإنجليزية والألمانية والعربية
 - ✅ **متوافق مع المعايير** - يتماشى مع WCAG وISO 9241-210 وهيوريستات Nielsen
 
-### ما ليس SAGE
+### ما ليس ELDER
 
-- ❌ **ليس بديلاً عن معايير إمكانية الوصول** - SAGE يكمل ويوسع المعايير الحالية مثل WCAG
-- ❌ **ليس تمييزًا عمريًا** - مبادئ SAGE تفيد جميع المستخدمين، مع تركيز خاص على احتياجات كبار السن
-- ❌ **ليس حلاً واحدًا يناسب الجميع** - SAGE يوفر إرشادات مرنة قابلة للتكيف مع سياقات مختلفة
-- ❌ **ليس فقط للمستخدمين المسنين** - مبادئ SAGE تحسن قابلية الاستخدام للجميع
-- ❌ **ليس إلزاميًا** - SAGE يوجه بدلاً من إملاء حلول محددة
+- ❌ **ليس بديلاً عن معايير إمكانية الوصول** - ELDER يكمل ويوسع المعايير الحالية مثل WCAG
+- ❌ **ليس تمييزًا عمريًا** - مبادئ ELDER تفيد جميع المستخدمين، مع تركيز خاص على احتياجات كبار السن
+- ❌ **ليس حلاً واحدًا يناسب الجميع** - ELDER يوفر إرشادات مرنة قابلة للتكيف مع سياقات مختلفة
+- ❌ **ليس فقط للمستخدمين المسنين** - مبادئ ELDER تحسن قابلية الاستخدام للجميع
+- ❌ **ليس إلزاميًا** - ELDER يوجه بدلاً من إملاء حلول محددة
 
-### كيفية استخدام SAGE
+### كيفية استخدام ELDER
 
-1. **المصممون**: استخدم مواصفات SAGE لتوجيه قرارات التصميم والتحقق من عملك وفقًا لمعايير صديقة لكبار السن
-2. **المطورون**: نفذ متطلبات SAGE في كودك واختبر وفقًا لقوائم التحقق المقدمة
-3. **مديرو المنتجات**: استخدم SAGE لتحديد المتطلبات ومعايير القبول للميزات الموجهة لكبار السن
-4. **فرق ضمان الجودة**: استخدم قوائم تحقق SAGE لمراجعة المنتجات لقابلية استخدام كبار السن
-5. **المؤسسات**: اعتمد SAGE كجزء من استراتيجية إمكانية الوصول والتصميم الشامل
+1. **المصممون**: استخدم مواصفات ELDER لتوجيه قرارات التصميم والتحقق من عملك وفقًا لمعايير صديقة لكبار السن
+2. **المطورون**: نفذ متطلبات ELDER في كودك واختبر وفقًا لقوائم التحقق المقدمة
+3. **مديرو المنتجات**: استخدم ELDER لتحديد المتطلبات ومعايير القبول للميزات الموجهة لكبار السن
+4. **فرق ضمان الجودة**: استخدم قوائم تحقق ELDER لمراجعة المنتجات لقابلية استخدام كبار السن
+5. **المؤسسات**: اعتمد ELDER كجزء من استراتيجية إمكانية الوصول والتصميم الشامل
 
 ### هيكل المستودع
 
@@ -500,10 +507,10 @@ E-Mail: omar@omarino.de
 2. **مراجعة المتطلبات**: ادرس [المواصفات الأساسية](core/) - 40 متطلبًا عبر 4 ركائز
 3. **فحص الأمثلة**: انظر [تطبيق الرعاية الصحية](examples/healthcare-app/overview.en.md) (87% تحسين إكمال المهام)
 4. **استخدام قوائم التحقق**: طبّق [قائمة المنتج](checklists/product-checklist.en.md) لتحديد المتطلبات
-5. **قياس النجاح**: الهدف 90%+ امتثال لشهادة SAGE
+5. **قياس النجاح**: الهدف 90%+ امتثال لشهادة ELDER
 
 #### للمصممين
-1. ابدأ بـ [البساطة الآمنة](core/safe-simplicity.en.md) - أسهل نقطة دخول
+1. ابدأ بـ [البساطة الآمنة](core/learning-friendly.en.md) - أسهل نقطة دخول
 2. استخدم [قائمة UX](checklists/ux-checklist.en.md) عبر مراحل التصميم
 3. ادرس [أنماط التصميم](checklists/ux-checklist.en.md#design-patterns) (أزرار، نماذج، أيقونات المساعدة)
 4. راجع [مثال الخدمات الحكومية](examples/gov-services/overview.en.md) لأنماط UI
@@ -522,7 +529,7 @@ E-Mail: omar@omarino.de
 
 ### مؤشرات رئيسية من أمثلة متحقق منها
 
-| المجال | قبل SAGE | بعد SAGE | التحسين |
+| المجال | قبل ELDER | بعد ELDER | التحسين |
 |---------|----------|-----------|-------------|
 | **تطبيق الرعاية الصحية** | 61% إكمال المهام | 87% إكمال | +26% |
 | **تطبيق الرعاية الصحية** | 65% التزام بالدواء | 87% التزام | +22% |
@@ -540,9 +547,9 @@ E-Mail: omar@omarino.de
 **طرق المساهمة:**
 - 📝 **الترجمات**: ساعد في إكمال الترجمات الألمانية/العربية (انظر [TRANSLATION_STATUS.md](TRANSLATION_STATUS.md))
 - 📖 **التوثيق**: حسّن الوضوح، أضف أمثلة، صحّح الأخطاء
-- 🧪 **التحقق**: شارك دراسات حالة تنفيذ SAGE
+- 🧪 **التحقق**: شارك دراسات حالة تنفيذ ELDER
 - 🔬 **البحث**: أجرِ دراسات التحقق، قدّم الأدلة
-- 💻 **الأدوات**: ابنِ فاحصات امتثال SAGE، أنظمة التصميم، مكتبات
+- 💻 **الأدوات**: ابنِ فاحصات امتثال ELDER، أنظمة التصميم، مكتبات
 - 💬 **المجتمع**: أجِب على الأسئلة، قدّم الدعم، انشر الوعي
 
 يرجى قراءة [CONTRIBUTING.md](CONTRIBUTING.md) لإرشادات مفصلة:
@@ -555,8 +562,8 @@ E-Mail: omar@omarino.de
 
 **احصل على المساعدة:**
 - 📖 **[فهرس التوثيق](docs/index.en.md)** - وثائق الإطار الكاملة
-- 🐛 **[GitHub Issues](https://github.com/OMARINO-DE/SAGE-Framework/issues)** - أبلغ عن أخطاء أو اطلب ميزات
-- 💬 **[GitHub Discussions](https://github.com/OMARINO-DE/SAGE-Framework/discussions)** - اطرح أسئلة وناقش الأفكار
+- 🐛 **[GitHub Issues](https://github.com/OMARINO-DE/ELDER-Framework/issues)** - أبلغ عن أخطاء أو اطلب ميزات
+- 💬 **[GitHub Discussions](https://github.com/OMARINO-DE/ELDER-Framework/discussions)** - اطرح أسئلة وناقش الأفكار
 - 📧 **البريد الإلكتروني**: omar@omarino.de - دعم مباشر من المشرف
 
 **ابقَ مطلعًا:**
@@ -565,10 +572,10 @@ E-Mail: omar@omarino.de
 - 🔔 تابِع المناقشات للإعلانات
 
 **الخدمات المهنية:**
-- استشارات تنفيذ SAGE
+- استشارات تنفيذ ELDER
 - خدمات الترجمة المهنية (DE/AR)
 - التدريب وورش العمل
-- دراسات التحقق من SAGE المخصصة
+- دراسات التحقق من ELDER المخصصة
 
 الاتصال: omar@omarino.de | https://www.omarino.de
 
@@ -579,17 +586,17 @@ E-Mail: omar@omarino.de
 **كيفية الاستشهاد:**
 
 ```bibtex
-Bakkour, O., & Zaror, O. (2026). SAGE Framework: Senior-Adaptive Guided Ecosystem.
-GitHub. https://github.com/OMARINO-DE/SAGE-Framework
+Bakkour, O., & Zaror, O. (2026). ELDER Framework: Empowering Living for Digitally Enhanced Responsiveness.
+GitHub. https://github.com/OMARINO-DE/ELDER-Framework
 ```
 
 لصيغ BibTeX وRIS وغيرها من صيغ الاستشهاد، انظر [CITATION.cff](CITATION.cff).
 
-**متى تستشهد SAGE:**
+**متى تستشهد ELDER:**
 - الأوراق الأكاديمية حول UX لكبار السن أو إمكانية الوصول
-- وثائق المنتج التي تتبنى مبادئ SAGE
-- البحوث التي تتحقق من أو توسّع متطلبات SAGE
-- أنظمة التصميم التي تنفّذ أنماط SAGE
+- وثائق المنتج التي تتبنى مبادئ ELDER
+- البحوث التي تتحقق من أو توسّع متطلبات ELDER
+- أنظمة التصميم التي تنفّذ أنماط ELDER
 
 ### معلومات المشروع
 
@@ -613,11 +620,12 @@ GitHub. https://github.com/OMARINO-DE/SAGE-Framework
 الموقع الإلكتروني: https://www.omarino.de  
 البريد الإلكتروني: omar@omarino.de
 
-- **المشكلات**: [GitHub Issues](https://github.com/OMARINO-DE/SAGE-Framework/issues)
-- **المناقشات**: [GitHub Discussions](https://github.com/OMARINO-DE/SAGE-Framework/discussions)
+- **المشكلات**: [GitHub Issues](https://github.com/OMARINO-DE/ELDER-Framework/issues)
+- **المناقشات**: [GitHub Discussions](https://github.com/OMARINO-DE/ELDER-Framework/discussions)
 
 ---
 
 **Version:** 0.1.0  
 **Last Updated:** January 28, 2026  
 **License:** MIT
+

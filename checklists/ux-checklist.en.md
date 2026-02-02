@@ -1,4 +1,4 @@
-# SAGE Framework - UX Checklist
+# ELDER Framework - UX Checklist
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
 **Version:** 1.0  
@@ -9,7 +9,7 @@
 
 ## Overview
 
-This checklist helps UX Designers ensure their designs meet SAGE Framework standards throughout the design process. Use during wireframing, prototyping, and design review.
+This checklist helps UX Designers ensure their designs meet ELDER Framework standards throughout the design process. Use during wireframing, prototyping, and design review.
 
 **How to Use**:
 - Use at each design phase (wireframe, mockup, prototype)
@@ -21,7 +21,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 
 ## Design Phase: Wireframes
 
-### Layout & Structure (Safe Simplicity)
+### Layout & Structure (Learning-Friendly)
 
 - [ ] Screen sections contain ≤7 interactive elements
 - [ ] White space planned for ≥40% of screen
@@ -31,16 +31,16 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Information architecture ≤3 levels deep
 - [ ] Multi-step flows have progress indication planned
 
-### Content Planning (Guided Interaction)
+### Content Planning (Directed Guidance)
 
 - [ ] Page titles defined for all screens
 - [ ] Next action labeled with action verbs
 - [ ] Help placement identified for complex features
-- [ ] Error message locations planned
+- [ ] Error mesELDER locations planned
 - [ ] Confirmation dialog flows mapped
 - [ ] Breadcrumb paths for deep hierarchies
 
-### Interaction Patterns (Assisted Autonomy)
+### Interaction Patterns (Empowered Autonomy)
 
 - [ ] Undo mechanisms identified for important actions
 - [ ] Confirmation points marked for destructive actions
@@ -52,7 +52,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 
 ## Design Phase: Visual Mockups
 
-### Typography (Safe Simplicity)
+### Typography (Learning-Friendly)
 
 - [ ] Base font size: 18-20px specified
 - [ ] Minimum font size: 14px enforced
@@ -62,7 +62,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Font family limited to 2-3 maximum
 - [ ] Text hierarchy clear (H1, H2, body, caption)
 
-### Color & Contrast (Safe Simplicity)
+### Color & Contrast (Learning-Friendly)
 
 - [ ] All text meets 7:1 contrast ratio (WCAG AAA)
 - [ ] Interactive elements meet 3:1 contrast
@@ -71,7 +71,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] High contrast mode designed
 - [ ] Contrast checked with WebAIM/Stark
 
-### Touch Targets & Spacing (Safe Simplicity)
+### Touch Targets & Spacing (Learning-Friendly)
 
 - [ ] Buttons designed at 56x56px minimum
 - [ ] Interactive elements spaced 8px+ apart
@@ -80,7 +80,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Hover states designed
 - [ ] Focus indicators designed (3px outline)
 
-### Visual Consistency (Emotional Trust Layer)
+### Visual Consistency (Emotional Trust)
 
 - [ ] Design system/component library used
 - [ ] Components reused across screens
@@ -89,7 +89,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Consistent iconography style
 - [ ] Consistent form element styling
 
-### Feedback & Status (Emotional Trust Layer)
+### Feedback & Status (Emotional Trust)
 
 - [ ] Loading states designed for all async actions
 - [ ] Success states designed
@@ -103,7 +103,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 
 ## Design Phase: Interactive Prototype
 
-### Navigation (Safe Simplicity)
+### Navigation (Learning-Friendly)
 
 - [ ] Navigation location consistent on all screens
 - [ ] Current location highlighted
@@ -112,7 +112,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Breadcrumbs functional (if applicable)
 - [ ] Navigation pattern singular (not mixing tabs/sidebar)
 
-### User Flow (Guided Interaction)
+### User Flow (Directed Guidance)
 
 - [ ] Multi-step progress indicators functional
 - [ ] Next actions clearly labeled and positioned
@@ -122,7 +122,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Smart defaults pre-filled
 - [ ] Data persists across navigation
 
-### Assistance & Help (Assisted Autonomy)
+### Assistance & Help (Empowered Autonomy)
 
 - [ ] Help accessible on every screen
 - [ ] Contextual help near complex features
@@ -132,13 +132,13 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Assistance can be dismissed
 - [ ] Help doesn't require leaving context
 
-### Error Prevention & Handling (Safe Simplicity)
+### Error Prevention & Handling (Learning-Friendly)
 
 - [ ] Real-time validation designed
 - [ ] Input masks for structured data
 - [ ] Confirmation dialogs for destructive actions
-- [ ] Error messages near error source
-- [ ] Error messages explain how to fix
+- [ ] Error mesELDERs near error source
+- [ ] Error mesELDERs explain how to fix
 - [ ] User input preserved on errors
 - [ ] Undo options visible
 
@@ -156,15 +156,15 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 
 ## Content & Microcopy
 
-### Tone & Language (Emotional Trust Layer)
+### Tone & Language (Emotional Trust)
 
 - [ ] All content in plain language (grade 8 level)
 - [ ] No technical jargon
 - [ ] Warm, supportive tone
 - [ ] No patronizing language
 - [ ] Positive framing used
-- [ ] Error messages constructive, not blaming
-- [ ] Success messages encouraging
+- [ ] Error mesELDERs constructive, not blaming
+- [ ] Success mesELDERs encouraging
 
 ### Content Examples:
 
@@ -178,7 +178,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - ❌ "Invalid input"
 - ❌ "Let me show you how to do this"
 
-### Labeling (Guided Interaction)
+### Labeling (Directed Guidance)
 
 - [ ] Button labels use action verbs
 - [ ] Labels descriptive, not generic
@@ -237,7 +237,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Business goals supported
 - [ ] Technical feasibility confirmed
 - [ ] Content strategy aligned
-- [ ] Brand guidelines followed (with SAGE adaptations)
+- [ ] Brand guidelines followed (with ELDER adaptations)
 
 ---
 
@@ -247,7 +247,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 
 - [ ] Interactive prototype ready
 - [ ] Task scenarios written
-- [ ] Success criteria defined per SAGE metrics
+- [ ] Success criteria defined per ELDER metrics
 - [ ] Recruitment criteria (age 65+, diverse tech skills)
 - [ ] Test script prepared
 - [ ] Consent forms ready
@@ -268,7 +268,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Time on task
 - [ ] Error frequency
 - [ ] Navigation paths
-- [ ] Help usage
+- [ ] Help uELDER
 - [ ] Emotional responses (confidence, frustration)
 - [ ] Satisfaction ratings
 
@@ -278,7 +278,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 
 ### Design Documentation
 
-- [ ] Annotated mockups with SAGE requirement IDs
+- [ ] Annotated mockups with ELDER requirement IDs
 - [ ] Design system/component library
 - [ ] Interaction specifications
 - [ ] Animation/transition specs (timing, easing)
@@ -295,7 +295,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Border radius, shadow values
 - [ ] Animation durations
 
-### SAGE Compliance Notes:
+### ELDER Compliance Notes:
 
 - [ ] Which requirements each screen addresses
 - [ ] Compliance level achieved (Minimum/Recommended/Strong)
@@ -312,7 +312,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Page/screen completion rates
 - [ ] Drop-off points in flows
 - [ ] Error frequency and types
-- [ ] Help/support usage
+- [ ] Help/support uELDER
 - [ ] Search queries (what users can't find)
 - [ ] Time on task trends
 - [ ] Return visit patterns
@@ -322,14 +322,14 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - [ ] Regular user feedback collection
 - [ ] Support ticket analysis
 - [ ] A/B testing opportunities
-- [ ] Quarterly SAGE audit
+- [ ] Quarterly ELDER audit
 - [ ] Annual comprehensive review
 
 ---
 
 ## Design Patterns Library
 
-### SAGE-Compliant Patterns to Reuse:
+### ELDER-Compliant Patterns to Reuse:
 
 **Primary Action Button**:
 - 56x56px minimum
@@ -337,7 +337,7 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 - Action verb label
 - Positioned bottom-right or centered
 
-**Error Message**:
+**Error MesELDER**:
 - Near error source
 - Plain language explanation
 - How-to-fix instructions
@@ -368,10 +368,10 @@ This checklist helps UX Designers ensure their designs meet SAGE Framework stand
 
 **Quick Check**: Count yes answers in each category
 
-- Safe Simplicity (S1-S10): ___/30 items
-- Assisted Autonomy (A1-A10): ___/25 items
-- Guided Interaction (G1-G10): ___/20 items
-- Emotional Trust Layer (E1-E10): ___/25 items
+- Learning-Friendly (S1-S10): ___/30 items
+- Empowered Autonomy (A1-A10): ___/25 items
+- Directed Guidance (G1-G10): ___/20 items
+- Emotional Trust (E1-E10): ___/25 items
 
 **Overall Compliance**: ___% (target: 90%+)
 

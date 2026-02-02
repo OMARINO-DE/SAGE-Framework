@@ -1,8 +1,8 @@
-# SAGE Framework Governance
+# ELDER Framework Governance
 
 ## Überblick
 
-Das SAGE Framework (Senior-Adaptive Guided Ecosystem) ist ein Open-Source-Projekt, das sich der Entwicklung von Standards und Richtlinien für die Gestaltung digitaler Erlebnisse widmet, die ältere Nutzer unterstützen. Dieses Dokument beschreibt, wie das Projekt verwaltet wird und wie Entscheidungen getroffen werden.
+Das ELDER Framework (Empowering Living for Digitally Enhanced Responsiveness) ist ein Open-Source-Projekt, das sich der Entwicklung von Standards und Richtlinien für die Gestaltung digitaler Erlebnisse widmet, die ältere Nutzer unterstützen. Dieses Dokument beschreibt, wie das Projekt verwaltet wird und wie Entscheidungen getroffen werden.
 
 ## Mission
 
@@ -114,7 +114,7 @@ Wenn kein Konsens erreicht werden kann:
 Siehe [CONTRIBUTING.md](../CONTRIBUTING.md) für detaillierte Richtlinien.
 
 Hauptanforderungen:
-- Alle Beiträge müssen mit SAGE-Prinzipien übereinstimmen
+- Alle Beiträge müssen mit ELDER-Prinzipien übereinstimmen
 - Dokumentation muss dreisprachig sein
 - Spezifikationen müssen testbar und überprüfbar sein
 - Änderungen müssen nach Möglichkeit rückwärtskompatibel sein
@@ -184,7 +184,7 @@ Durchsetzungsverantwortlichkeiten:
 
 ## Partnerschaften und Zugehörigkeiten
 
-Das SAGE Framework kann Partnerschaften eingehen mit:
+Das ELDER Framework kann Partnerschaften eingehen mit:
 - Forschungseinrichtungen
 - Gesundheitsorganisationen
 - Regierungsbehörden
@@ -192,7 +192,7 @@ Das SAGE Framework kann Partnerschaften eingehen mit:
 - Technologieunternehmen
 
 Anforderungen für Partnerschaften:
-- Übereinstimmung mit SAGE-Prinzipien
+- Übereinstimmung mit ELDER-Prinzipien
 - Keine exklusive Kontrolle oder proprietäre Einschränkungen
 - Open-Source-Charakter beibehalten
 - Genehmigung des Kernteams erforderlich
@@ -223,7 +223,7 @@ Wenn Kernteam-Mitglieder inaktiv werden:
 
 Für governance-bezogene Fragen:
 - Öffnen Sie eine GitHub Discussion
-- E-Mail: governance@sage-framework.org (falls eingerichtet)
+- E-Mail: governance@ELDER-framework.org (falls eingerichtet)
 - Überprüfen Sie dieses Dokument und [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ---

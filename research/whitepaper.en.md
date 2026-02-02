@@ -1,4 +1,4 @@
-# SAGE Framework: A Design Framework for Senior-Adaptive Guided Ecosystems in Digital Experiences
+# ELDER Framework: A Design Framework for Empowering Living for Digitally Enhanced Responsivenesss in Digital Experiences
 
 **Version:** 1.0  
 **Date:** January 28, 2026  
@@ -13,17 +13,17 @@ Email: omar@omarino.de
 Web: https://www.omarino.de
 
 **Framework Repository:**  
-https://github.com/OMARINO-DE/SAGE-Framework
+https://github.com/OMARINO-DE/ELDER-Framework
 
 ---
 
 ## Abstract
 
-Digital exclusion of older adults represents a growing societal challenge as essential services increasingly migrate online. Despite decades of accessibility research and standards development, seniors aged 65+ continue to experience significantly lower digital engagement rates and higher task failure rates compared to younger populations. This paper introduces SAGE (Senior-Adaptive Guided Ecosystem), an open-source design framework that extends beyond traditional accessibility standards to address the unique cognitive, physical, and emotional needs of senior users. 
+Digital exclusion of older adults represents a growing societal challenge as essential services increasingly migrate online. Despite decades of accessibility research and standards development, seniors aged 65+ continue to experience significantly lower digital engagement rates and higher task failure rates compared to younger populations. This paper introduces ELDER (Empowering Living for Digitally Enhanced Responsiveness), an open-source design framework that extends beyond traditional accessibility standards to address the unique cognitive, physical, and emotional needs of senior users. 
 
-SAGE comprises four interconnected pillars—Safe Simplicity, Assisted Autonomy, Guided Interaction, and Emotional Trust Layer—operationalized through 40 testable requirements. Unlike existing frameworks that focus primarily on technical compliance, SAGE integrates emotional design, cognitive load management, and dignity preservation into a holistic methodology. We present the theoretical foundations, implementation guidelines, real-world applications across healthcare, government services, and family communication domains, and preliminary evidence suggesting significant improvements in task completion rates (from 61% to 87%), user confidence (from 3.2 to 4.3/5), and emotional wellbeing metrics (32% reduction in loneliness scores).
+ELDER comprises four interconnected pillars—Learning-Friendly, Empowered Autonomy, Directed Guidance, and Emotional Trust—operationalized through 40 testable requirements. Unlike existing frameworks that focus primarily on technical compliance, ELDER integrates emotional design, cognitive load management, and dignity preservation into a holistic methodology. We present the theoretical foundations, implementation guidelines, real-world applications across healthcare, government services, and family communication domains, and preliminary evidence suggesting significant improvements in task completion rates (from 61% to 87%), user confidence (from 3.2 to 4.3/5), and emotional wellbeing metrics (32% reduction in loneliness scores).
 
-The framework is designed to complement, not replace, existing accessibility standards (WCAG, ISO 9241-210), providing actionable guidance for product managers, UX designers, and engineers. SAGE is released under MIT license to encourage widespread adoption and community-driven evolution.
+The framework is designed to complement, not replace, existing accessibility standards (WCAG, ISO 9241-210), providing actionable guidance for product managers, UX designers, and engineers. ELDER is released under MIT license to encourage widespread adoption and community-driven evolution.
 
 **Keywords:** Senior citizens, digital accessibility, human-computer interaction, user experience design, inclusive design, age-related usability, design frameworks
 
@@ -54,16 +54,16 @@ Most accessibility frameworks address binary states (can see / cannot see) rathe
 **3. Technical Specification Rather Than Holistic Guidance**  
 Existing standards excel at defining "what" (specifications) but provide limited guidance on "why" (rationale) and "how" (implementation patterns). Practitioners need actionable frameworks that bridge from principles to practice.
 
-### 1.3 Introducing SAGE Framework
+### 1.3 Introducing ELDER Framework
 
-SAGE (Senior-Adaptive Guided Ecosystem) addresses these gaps through a holistic, testable, and actionable design framework. The framework rests on four foundational principles:
+ELDER (Empowering Living for Digitally Enhanced Responsiveness) addresses these gaps through a holistic, testable, and actionable design framework. The framework rests on four foundational principles:
 
 1. **Dignity Preservation**: Seniors are capable adults deserving respectful interfaces, not simplified "grandma modes"
 2. **Autonomy with Support**: Enable independent use while providing intelligent assistance
 3. **Emotional Design**: Address anxiety, confidence, and trust as primary design considerations
 4. **Measurable Compliance**: Every requirement includes metrics and test procedures
 
-SAGE provides 40 testable requirements across four pillars, each requirement specifying:
+ELDER provides 40 testable requirements across five pillars, each requirement specifying:
 - Clear requirement statement
 - Rationale connecting to senior needs
 - Quantifiable metrics
@@ -74,7 +74,7 @@ SAGE provides 40 testable requirements across four pillars, each requirement spe
 
 ### 1.4 Paper Structure
 
-This paper proceeds as follows: Section 2 examines the problem space and evidence base. Section 3 reviews related work. Section 4 presents the complete SAGE framework architecture. Sections 5 and 6 provide deep analysis of the framework's core pillars. Section 7 describes implementation strategies. Section 8 outlines evaluation approaches. Section 9 addresses governance and sustainability. Section 10 discusses limitations and future work. Section 11 concludes.
+This paper proceeds as follows: Section 2 examines the problem space and evidence base. Section 3 reviews related work. Section 4 presents the complete ELDER Framework architecture. Sections 5 and 6 provide deep analysis of the framework's core pillars. Section 7 describes implementation strategies. Section 8 outlines evaluation approaches. Section 9 addresses governance and sustainability. Section 10 discusses limitations and future work. Section 11 concludes.
 
 ---
 
@@ -136,7 +136,7 @@ Beyond ethical imperatives, senior-focused design yields economic benefits:
 
 **Cost Reduction:** Well-designed digital services reduce call center volume by 30-40% and in-person service visits by 35-50%, generating substantial operational savings.
 
-**Regulatory Compliance:** Jurisdictions increasingly mandate digital accessibility (ADA in US, EN 301 549 in EU). SAGE-compliant design reduces legal risk.
+**Regulatory Compliance:** Jurisdictions increasingly mandate digital accessibility (ADA in US, EN 301 549 in EU). ELDER-compliant design reduces legal risk.
 
 **Universal Benefit:** Senior-optimized design benefits all users. Larger touch targets, clearer language, and better error handling improve usability universally—the "curb-cut effect" of inclusive design.
 
@@ -146,35 +146,35 @@ Beyond ethical imperatives, senior-focused design yields economic benefits:
 
 ### 3.1 Accessibility Standards and Guidelines
 
-**WCAG (Web Content Accessibility Guidelines):** The W3C's WCAG 2.1 provides technical success criteria across four principles: Perceivable, Operable, Understandable, and Robust. WCAG AA compliance is legally mandated in many jurisdictions. SAGE builds upon WCAG by adding senior-specific requirements. For example, WCAG requires 4.5:1 contrast (AA) or 7:1 (AAA), while SAGE mandates 7:1 as baseline for senior interfaces, acknowledging age-related contrast sensitivity decline.
+**WCAG (Web Content Accessibility Guidelines):** The W3C's WCAG 2.1 provides technical success criteria across four principles: Perceivable, Operable, Understandable, and Robust. WCAG AA compliance is legally mandated in many jurisdictions. ELDER builds upon WCAG by adding senior-specific requirements. For example, WCAG requires 4.5:1 contrast (AA) or 7:1 (AAA), while ELDER mandates 7:1 as baseline for senior interfaces, acknowledging age-related contrast sensitivity decline.
 
-**ISO 9241-210 (Human-Centered Design):** ISO's human-centered design standard emphasizes user involvement, iterative design, and multidisciplinary teams. SAGE operationalizes these principles with specific requirements. While ISO describes process, SAGE provides measurable outcomes.
+**ISO 9241-210 (Human-Centered Design):** ISO's human-centered design standard emphasizes user involvement, iterative design, and multidisciplinary teams. ELDER operationalizes these principles with specific requirements. While ISO describes process, ELDER provides measurable outcomes.
 
-**Section 508 (US Federal Accessibility):** Governs US federal agency digital accessibility. SAGE exceeds Section 508 requirements, particularly in cognitive accessibility and emotional design dimensions.
+**Section 508 (US Federal Accessibility):** Governs US federal agency digital accessibility. ELDER exceeds Section 508 requirements, particularly in cognitive accessibility and emotional design dimensions.
 
 ### 3.2 Age-Specific Design Research
 
 Significant research addresses senior-specific design considerations:
 
-**Cognitive Load Theory (Sweller):** Demonstrates that working memory limitations necessitate simplified information presentation. SAGE's S1 (Minimal Visual Clutter) and S9 (Limited Information) directly operationalize cognitive load principles.
+**Cognitive Load Theory (Sweller):** Demonstrates that working memory limitations necessitate simplified information presentation. ELDER's S1 (Minimal Visual Clutter) and S9 (Limited Information) directly operationalize cognitive load principles.
 
-**Dual-Coding Theory (Paivio):** Shows that combining visual and verbal information improves comprehension and recall. SAGE's E10 (Familiar Metaphors) leverages this by pairing icons with text labels.
+**Dual-Coding Theory (Paivio):** Shows that combining visual and verbal information improves comprehension and recall. ELDER's E10 (Familiar Metaphors) leverages this by pairing icons with text labels.
 
-**Selective Optimization with Compensation (Baltes & Baltes):** Describes how older adults adapt to age-related changes through strategy selection and compensation. SAGE's Assisted Autonomy pillar embodies this framework—providing compensatory support while preserving user agency.
+**Selective Optimization with Compensation (Baltes & Baltes):** Describes how older adults adapt to age-related changes through strategy selection and compensation. ELDER's Empowered Autonomy pillar embodies this framework—providing compensatory support while preserving user agency.
 
 ### 3.3 Existing Senior-Focused Frameworks
 
 Several frameworks address senior users specifically:
 
-**Senior-Friendly Design Patterns:** Various organizations have published senior-specific guidelines (AARP, NIH SeniorHealth, Age UK). These provide valuable recommendations but lack the systematic structure, measurability, and open governance of SAGE.
+**Senior-Friendly Design Patterns:** Various organizations have published senior-specific guidelines (AARP, NIH SeniorHealth, Age UK). These provide valuable recommendations but lack the systematic structure, measurability, and open governance of ELDER.
 
-**Universal Design Principles:** The seven principles of universal design (equitable use, flexibility, simple and intuitive use, perceptible information, tolerance for error, low physical effort, size and space for approach and use) inform SAGE's development. SAGE extends these with specific metrics and test procedures.
+**Universal Design Principles:** The seven principles of universal design (equitable use, flexibility, simple and intuitive use, perceptible information, tolerance for error, low physical effort, size and space for approach and use) inform ELDER's development. ELDER extends these with specific metrics and test procedures.
 
-**Persona-Based Approaches:** Many organizations develop senior personas to guide design. While valuable, personas alone don't provide the systematic requirements framework that SAGE offers.
+**Persona-Based Approaches:** Many organizations develop senior personas to guide design. While valuable, personas alone don't provide the systematic requirements framework that ELDER offers.
 
-### 3.4 SAGE's Distinctive Contributions
+### 3.4 ELDER's Distinctive Contributions
 
-SAGE advances the field through:
+ELDER advances the field through:
 
 1. **Integration:** Synthesizes accessibility, cognitive psychology, gerontology, and emotional design into unified framework
 2. **Measurability:** Every requirement includes quantifiable metrics and test procedures
@@ -185,15 +185,15 @@ SAGE advances the field through:
 
 ---
 
-## 4. SAGE Framework Architecture
+## 4. ELDER Framework Architecture
 
 ### 4.1 Framework Overview
 
-SAGE comprises four interconnected pillars, each addressing distinct but complementary aspects of senior-friendly design:
+ELDER comprises four interconnected pillars, each addressing distinct but complementary aspects of senior-friendly design:
 
 ```
 ┌─────────────────────────────────────────────┐
-│           SAGE FRAMEWORK                    │
+│           ELDER Framework                    │
 ├─────────────────────────────────────────────┤
 │                                             │
 │  ┌───────────────┐  ┌───────────────┐     │
@@ -214,7 +214,7 @@ SAGE comprises four interconnected pillars, each addressing distinct but complem
 └─────────────────────────────────────────────┘
 ```
 
-### 4.2 Pillar 1: Safe Simplicity (S1-S10)
+### 4.2 Pillar 1: Learning-Friendly (S1-S10)
 
 **Purpose:** Reduce cognitive load and prevent errors through visual clarity and predictable patterns.
 
@@ -234,7 +234,7 @@ SAGE comprises four interconnected pillars, each addressing distinct but complem
 
 **Evidence Base:** Cognitive load research demonstrates that working memory limitations (reduced by ~30% in seniors) necessitate information reduction. Nielsen Norman Group research shows 7±2 items as optimal for decision-making. User testing consistently shows simplified interfaces increasing task completion from 61% to 85-90%.
 
-### 4.3 Pillar 2: Assisted Autonomy (A1-A10)
+### 4.3 Pillar 2: Empowered Autonomy (A1-A10)
 
 **Purpose:** Enable independent use while providing intelligent support, preserving dignity and agency.
 
@@ -254,7 +254,7 @@ SAGE comprises four interconnected pillars, each addressing distinct but complem
 
 **Evidence Base:** Self-determination theory emphasizes autonomy as fundamental psychological need. Stereotype threat research shows patronizing language impairs performance. User testing demonstrates undo mechanisms improving recovery success from 38% to 92%.
 
-### 4.4 Pillar 3: Guided Interaction (G1-G10)
+### 4.4 Pillar 3: Directed Guidance (G1-G10)
 
 **Purpose:** Provide clear pathways through complex processes with continuous orientation and feedback.
 
@@ -274,7 +274,7 @@ SAGE comprises four interconnected pillars, each addressing distinct but complem
 
 **Evidence Base:** Information foraging theory explains how users follow "scent" of information. Clear wayfinding reduces cognitive load. User testing shows explicit next actions improving task completion from 72% to 93%.
 
-### 4.5 Pillar 4: Emotional Trust Layer (E1-E10)
+### 4.5 Pillar 4: Emotional Trust (E1-E10)
 
 **Purpose:** Build confidence, reduce anxiety, and establish trustworthiness through consistent, responsive, and transparent design.
 
@@ -296,28 +296,28 @@ SAGE comprises four interconnected pillars, each addressing distinct but complem
 
 ### 4.6 Pillar Interactions and Synergies
 
-The four pillars are interdependent:
+The five pillars are interdependent:
 
-- **Safe Simplicity + Guided Interaction:** Simple interfaces need clear guidance; complex processes need simplification
-- **Assisted Autonomy + Emotional Trust:** Users trust systems that respect their agency; autonomy requires confidence
-- **Safe Simplicity + Emotional Trust:** Visual clarity reduces anxiety; consistent patterns build confidence
-- **Assisted Autonomy + Guided Interaction:** Help must be contextual; guidance must preserve user control
+- **Learning-Friendly + Directed Guidance:** Simple interfaces need clear guidance; complex processes need simplification
+- **Empowered Autonomy + Emotional Trust:** Users trust systems that respect their agency; autonomy requires confidence
+- **Learning-Friendly + Emotional Trust:** Visual clarity reduces anxiety; consistent patterns build confidence
+- **Empowered Autonomy + Directed Guidance:** Help must be contextual; guidance must preserve user control
 
-Real-world implementations must address all four pillars holistically. Excellence in one pillar cannot compensate for failures in another.
+Real-world implementations must address all five pillars holistically. Excellence in one pillar cannot compensate for failures in another.
 
 ---
 
-## 5. Deep Dive: Safe Simplicity
+## 5. Deep Dive: Learning-Friendly
 
 ### 5.1 The Cognitive Science Foundation
 
-Safe Simplicity operationalizes cognitive load theory for aging users. Three types of cognitive load are relevant:
+Learning-Friendly operationalizes cognitive load theory for aging users. Three types of cognitive load are relevant:
 
-**Intrinsic Load:** The inherent difficulty of the task. While SAGE cannot eliminate intrinsic complexity (e.g., healthcare decisions are inherently complex), it can minimize extraneous load.
+**Intrinsic Load:** The inherent difficulty of the task. While ELDER cannot eliminate intrinsic complexity (e.g., healthcare decisions are inherently complex), it can minimize extraneous load.
 
-**Extraneous Load:** Processing demands imposed by poor design. This is SAGE's primary target. Visual clutter, unclear navigation, inconsistent patterns, and unpredictable behaviors all increase extraneous load unnecessarily.
+**Extraneous Load:** Processing demands imposed by poor design. This is ELDER's primary target. Visual clutter, unclear navigation, inconsistent patterns, and unpredictable behaviors all increase extraneous load unnecessarily.
 
-**Germane Load:** Productive cognitive effort toward task completion. SAGE aims to maximize germane load by eliminating extraneous load.
+**Germane Load:** Productive cognitive effort toward task completion. ELDER aims to maximize germane load by eliminating extraneous load.
 
 Age-related working memory decline means seniors have less cognitive capacity available. A 30% reduction in working memory capacity means interfaces tolerable for younger users become overwhelming for seniors.
 
@@ -342,21 +342,21 @@ Vision changes necessitate larger text:
 - Contrast sensitivity declines ~50% by age 70
 - Reading speed decreases with age
 
-SAGE mandates 18px body text (vs. common 14-16px) based on legibility research. Critical information (medication dosages, financial amounts) should be 20-24px.
+ELDER mandates 18px body text (vs. common 14-16px) based on legibility research. Critical information (medication doELDERs, financial amounts) should be 20-24px.
 
 Line height of 1.5-1.8x improves readability by providing clear separation. Line length of 50-75 characters prevents excessive horizontal eye movement.
 
 **S3: High Contrast**
 
-WCAG AA requires 4.5:1 contrast; WCAG AAA requires 7:1. SAGE mandates 7:1 as baseline due to age-related contrast sensitivity decline.
+WCAG AA requires 4.5:1 contrast; WCAG AAA requires 7:1. ELDER mandates 7:1 as baseline due to age-related contrast sensitivity decline.
 
-Color combinations must be tested with actual contrast checkers (WebAIM, Stark) against SAGE standards. High contrast mode support provides additional accommodation.
+Color combinations must be tested with actual contrast checkers (WebAIM, Stark) against ELDER standards. High contrast mode support provides additional accommodation.
 
 Critically, color cannot be the sole means of conveying information due to color vision changes (blue-yellow discrimination particularly affected).
 
 **S4: Large Touch Targets**
 
-WCAG AAA requires 44×44px touch targets. SAGE mandates 56×56px based on senior-specific research showing improved accuracy at larger sizes. Optimal size for primary actions is 64px height.
+WCAG AAA requires 44×44px touch targets. ELDER mandates 56×56px based on senior-specific research showing improved accuracy at larger sizes. Optimal size for primary actions is 64px height.
 
 Arthritis, tremor, and reduced fine motor control make small touch targets frustrating and error-prone. Adequate spacing (≥8px) between targets prevents mis-taps.
 
@@ -374,7 +374,7 @@ Research shows single primary actions reducing decision paralysis and improving 
 
 **S6: Consistent Navigation**
 
-Navigation inconsistency is a primary cause of "getting lost." SAGE requires:
+Navigation inconsistency is a primary cause of "getting lost." ELDER requires:
 - Same navigation location on all screens (typically top bar or bottom tabs)
 - Same navigation items in same order
 - Consistent home button placement
@@ -450,7 +450,7 @@ These improvements required modest development effort (3-4 weeks) but yielded su
 
 ---
 
-## 6. Deep Dive: Assisted Autonomy
+## 6. Deep Dive: Empowered Autonomy
 
 ### 6.1 The Psychology of Autonomy and Aging
 
@@ -458,7 +458,7 @@ Self-Determination Theory (Deci & Ryan) identifies autonomy as one of three fund
 
 **Stereotype Threat:** Research shows activating negative age stereotypes impairs performance. Patronizing interfaces ("Let me show you how to do this, dear") trigger stereotype threat, reducing capability.
 
-**Learned Helplessness:** Overly assistive systems can induce learned helplessness—users stop trying to solve problems independently because the system "takes over." SAGE's approach is assistance as tool, not replacement.
+**Learned Helplessness:** Overly assistive systems can induce learned helplessness—users stop trying to solve problems independently because the system "takes over." ELDER's approach is assistance as tool, not replacement.
 
 **Dignity Preservation:** Seniors consistently report wanting to be treated as capable adults. Respectful assistance offers help without assuming incapability.
 
@@ -497,7 +497,7 @@ Research shows adaptive systems improving user satisfaction by 35% while maintai
 
 Undo is one of the most powerful anxiety-reduction tools. Knowing actions are reversible encourages exploration rather than paralysis.
 
-SAGE requirements:
+ELDER requirements:
 - Undo available for all state-changing actions
 - Undo accessible in ≤3 interactions (ideally 1)
 - Undo window ≥30 seconds (allows time to recognize mistake)
@@ -513,7 +513,7 @@ Confirmations prevent accidents but must be judicious:
 - **Use confirmations for:** Destructive actions (delete, cancel), financial transactions, health-critical actions
 - **Don't use confirmations for:** Easily reversible actions, navigation, minor preference changes
 
-Confirmations must explain consequences: "Delete this message? This cannot be undone" not just "Are you sure?"
+Confirmations must explain consequences: "Delete this mesELDER? This cannot be undone" not just "Are you sure?"
 
 Focus default should be the safe option (Cancel, not Delete).
 
@@ -610,50 +610,50 @@ Results:
 
 ### 7.1 Adoption Pathways
 
-Organizations can adopt SAGE through three pathways:
+Organizations can adopt ELDER through three pathways:
 
 **Pathway 1: Greenfield Projects (New Products)**
-- Apply SAGE from initial requirements gathering
-- Use SAGE checklists in sprint planning
+- Apply ELDER from initial requirements gathering
+- Use ELDER checklists in sprint planning
 - Validate each requirement during development
 - Conduct senior user testing before launch
 - Target: Strong compliance (95%+)
 
 **Pathway 2: Incremental Enhancement (Existing Products)**
-- Conduct SAGE audit of current product
+- Conduct ELDER audit of current product
 - Prioritize highest-impact requirements (typically S1-S10 first)
 - Implement in 3-6 month phases
 - Validate improvements with user testing
 - Target: Recommended compliance (90%) within 12 months
 
 **Pathway 3: Targeted Optimization (Specific Features)**
-- Apply SAGE to specific user flows (e.g., checkout, registration)
-- Implement all 40 requirements for target flows
+- Apply ELDER to specific user flows (e.g., checkout, registration)
+- Implement all 45+ Requirements for target flows
 - Expand to adjacent features based on success
 - Target: Strong compliance for target flows
 
 ### 7.2 Organizational Roles and Responsibilities
 
 **Product Managers:**
-- Define SAGE compliance level for products/features
-- Include SAGE requirements in user stories
+- Define ELDER compliance level for products/features
+- Include ELDER requirements in user stories
 - Validate business value and feasibility
 - Track compliance metrics
 
 **UX Designers:**
-- Apply SAGE principles in wireframes and mockups
-- Conduct SAGE design reviews
+- Apply ELDER principles in wireframes and mockups
+- Conduct ELDER design reviews
 - Validate designs with senior users
 - Maintain design system alignment
 
 **Engineers:**
-- Implement SAGE requirements in code
-- Write SAGE-specific tests
+- Implement ELDER requirements in code
+- Write ELDER-specific tests
 - Measure performance and interaction metrics
 - Ensure accessibility API compliance
 
 **QA/Testing:**
-- Execute SAGE acceptance tests
+- Execute ELDER acceptance tests
 - Coordinate senior user testing
 - Document compliance evidence
 - Validate against checklist items
@@ -661,36 +661,36 @@ Organizations can adopt SAGE through three pathways:
 ### 7.3 Integration with Existing Processes
 
 **Agile/Scrum Integration:**
-- Add "SAGE compliant" to Definition of Done
-- Include SAGE requirements in acceptance criteria
-- Conduct SAGE review in sprint demos
+- Add "ELDER compliant" to Definition of Done
+- Include ELDER requirements in acceptance criteria
+- Conduct ELDER review in sprint demos
 - Track compliance as sprint metric
 
 **Design Systems Integration:**
-- Build SAGE-compliant component library
-- Document SAGE requirements per component
-- Provide usage guidelines
+- Build ELDER-compliant component library
+- Document ELDER requirements per component
+- Provide uELDER guidelines
 - Enforce through design tokens and code standards
 
 **Accessibility Integration:**
-- Extend accessibility testing to include SAGE
-- Use SAGE as enhancement layer atop WCAG
-- Combined accessibility/SAGE audits
+- Extend accessibility testing to include ELDER
+- Use ELDER as enhancement layer atop WCAG
+- Combined accessibility/ELDER audits
 - Unified compliance reporting
 
 ### 7.4 Measurement and Validation
 
 **Design-Time Validation:**
-- Design audit against SAGE checklists
+- Design audit against ELDER checklists
 - Automated checks (contrast, font size, touch targets)
 - Expert review
 - Design system compliance verification
 
 **Development-Time Validation:**
-- Unit tests for SAGE-specific requirements
+- Unit tests for ELDER-specific requirements
 - Performance monitoring (load times, interaction response)
 - Automated accessibility scanning
-- Code review with SAGE checklist
+- Code review with ELDER checklist
 
 **User-Validation:**
 - Task-based usability testing with seniors (n≥10, age 65+)
@@ -707,14 +707,14 @@ Organizations can adopt SAGE through three pathways:
 ### 7.5 Cost and Resource Considerations
 
 **Initial Investment:**
-- SAGE audit: 1-2 weeks (existing products)
+- ELDER audit: 1-2 weeks (existing products)
 - Remediation: 4-12 weeks (depending on current state)
 - User testing: 2-4 weeks per cycle
 - Training: 1 week (team onboarding)
 
 **Ongoing Costs:**
-- SAGE validation in design: +10-15% time
-- SAGE implementation: +5-10% development time
+- ELDER validation in design: +10-15% time
+- ELDER implementation: +5-10% development time
 - User testing: quarterly cycles
 - Maintenance: minimal (design system approach)
 
@@ -724,7 +724,7 @@ Organizations can adopt SAGE through three pathways:
 - Market expansion: Access to $15T senior market
 - Risk reduction: Accessibility compliance, reduced legal exposure
 
-Case studies show SAGE investment payback period of 6-12 months through support savings and increased senior user adoption.
+Case studies show ELDER investment payback period of 6-12 months through support savings and increased senior user adoption.
 
 ---
 
@@ -732,10 +732,10 @@ Case studies show SAGE investment payback period of 6-12 months through support 
 
 ### 8.1 Multi-Level Evaluation Framework
 
-SAGE effectiveness should be evaluated across four levels:
+ELDER effectiveness should be evaluated across four levels:
 
 **Level 1: Compliance Validation**
-- Verify implementation against 40 requirements
+- Verify implementation against 45+ Requirements
 - Document evidence for each requirement
 - Calculate compliance percentage
 - Achieve target compliance level (Minimum/Recommended/Strong)
@@ -763,8 +763,8 @@ SAGE effectiveness should be evaluated across four levels:
 ### 8.2 Evaluation Methodology
 
 **Quantitative Methods:**
-- **A/B Testing:** SAGE vs. standard implementation (where ethical)
-- **Pre-Post Comparison:** Metrics before and after SAGE implementation
+- **A/B Testing:** ELDER vs. standard implementation (where ethical)
+- **Pre-Post Comparison:** Metrics before and after ELDER implementation
 - **Analytics Analysis:** Behavioral data from deployed systems
 - **Performance Testing:** Load times, interaction responsiveness
 - **Automated Testing:** Contrast, font size, compliance checks
@@ -807,17 +807,17 @@ The three examples presented (HealthCompanion, CitizenConnect, FamilyBridge) pro
 - Family connection satisfaction: 4.6/5
 - Would recommend: 94%
 
-These results, while preliminary, suggest SAGE's potential impact. Rigorous controlled studies are needed for definitive causal claims.
+These results, while preliminary, suggest ELDER's potential impact. Rigorous controlled studies are needed for definitive causal claims.
 
 ### 8.4 Research Agenda
 
 Future research should address:
 
-1. **Controlled Studies:** RCTs comparing SAGE vs. standard implementations
+1. **Controlled Studies:** RCTs comparing ELDER vs. standard implementations
 2. **Domain Expansion:** Validation in banking, retail, education, entertainment
-3. **Cultural Adaptation:** SAGE effectiveness across diverse cultural contexts
+3. **Cultural Adaptation:** ELDER effectiveness across diverse cultural contexts
 4. **Requirement Refinement:** Evidence-based optimization of specific requirements
-5. **Technology Evolution:** SAGE adaptation for voice, AR/VR, AI interfaces
+5. **Technology Evolution:** ELDER adaptation for voice, AR/VR, AI interfaces
 6. **Longitudinal Impact:** Multi-year studies of sustained effects
 7. **Economic Analysis:** Detailed cost-benefit and ROI studies
 8. **Threshold Effects:** Identifying minimum compliance for meaningful impact
@@ -828,7 +828,7 @@ Future research should address:
 
 ### 9.1 Open-Source Governance Model
 
-SAGE employs transparent, community-driven governance:
+ELDER employs transparent, community-driven governance:
 
 **Licensing:** MIT License enables free use, modification, and distribution while requiring attribution.
 
@@ -842,7 +842,7 @@ SAGE employs transparent, community-driven governance:
 
 ### 9.2 Framework Evolution Process
 
-SAGE will evolve through:
+ELDER will evolve through:
 
 **Minor Updates (Quarterly):**
 - Clarifications and corrections
@@ -900,7 +900,7 @@ Long-term sustainability ensured through:
 
 **Community Contributions:** Distributed effort across many contributors.
 
-**Institutional Adoption:** Organizations implementing SAGE have incentive to contribute improvements.
+**Institutional Adoption:** Organizations implementing ELDER have incentive to contribute improvements.
 
 **Academic Research:** Framework provides research opportunities, attracting scholarly attention.
 
@@ -911,24 +911,24 @@ Long-term sustainability ensured through:
 ### 10.1 Current Limitations
 
 **Scope Constraints:**
-SAGE focuses on digital interface design. It does not comprehensively address:
+ELDER focuses on digital interface design. It does not comprehensively address:
 - Physical hardware design (device form factors, input devices)
 - Organizational service design (process optimization, staff training)
 - Healthcare-specific clinical validation (beyond usability)
 - Legal compliance details (varies by jurisdiction)
 
 **Evidence Base:**
-While grounded in research and validated through examples, SAGE would benefit from:
+While grounded in research and validated through examples, ELDER would benefit from:
 - Larger-scale controlled studies
 - Longer-term longitudinal validation
 - Cross-cultural replication
 - Domain-specific validation studies
 
 **Generalization:**
-SAGE is optimized for adults 65+. It may over-accommodate for younger seniors (65-74) and under-accommodate for oldest-old (85+). Age heterogeneity requires further research.
+ELDER is optimized for adults 65+. It may over-accommodate for younger seniors (65-74) and under-accommodate for oldest-old (85+). Age heterogeneity requires further research.
 
 **Technology Evolution:**
-SAGE currently focuses on screen-based interfaces (web, mobile). Emerging technologies require adaptation:
+ELDER currently focuses on screen-based interfaces (web, mobile). Emerging technologies require adaptation:
 - Voice interfaces (smart speakers)
 - Augmented/Virtual Reality
 - AI-driven adaptive interfaces
@@ -943,9 +943,9 @@ SAGE currently focuses on screen-based interfaces (web, mobile). Emerging techno
 - Cultural and linguistic backgrounds
 - Socioeconomic contexts
 
-SAGE provides baseline standards but cannot address all individual variation. Personalization and user research remain essential.
+ELDER provides baseline standards but cannot address all individual variation. Personalization and user research remain essential.
 
-**Trade-offs:** Some SAGE requirements may create tensions:
+**Trade-offs:** Some ELDER requirements may create tensions:
 - Simplicity vs. Functionality: Removing features for simplicity may frustrate some users
 - Assistance vs. Efficiency: Help systems add clicks for power users
 - Safety vs. Speed: Confirmations slow down experienced users
@@ -968,16 +968,16 @@ Implementation requires judgment about target user needs and context.
 - Transportation (rideshare, public transit)
 
 **Technology Adaptation:**
-- Voice interface SAGE (conversational UI)
-- Augmented reality SAGE (spatial interfaces)
-- AI-enhanced SAGE (predictive assistance)
-- Multimodal SAGE (cross-device experiences)
+- Voice interface ELDER (conversational UI)
+- Augmented reality ELDER (spatial interfaces)
+- AI-enhanced ELDER (predictive assistance)
+- Multimodal ELDER (cross-device experiences)
 
 **Population Extension:**
-- SAGE-Kids (children's interfaces)
-- SAGE-Disability (disability-specific adaptations)
-- SAGE-Universal (truly universal design)
-- SAGE-Decline (supporting cognitive decline)
+- ELDER-Kids (children's interfaces)
+- ELDER-Disability (disability-specific adaptations)
+- ELDER-Universal (truly universal design)
+- ELDER-Decline (supporting cognitive decline)
 
 **Implementation Research:**
 - Organizational adoption patterns
@@ -987,16 +987,16 @@ Implementation requires judgment about target user needs and context.
 
 ### 10.4 Call for Collaboration
 
-The SAGE Framework benefits from community contribution. We invite:
+The ELDER Framework benefits from community contribution. We invite:
 
 **Researchers:** Validate requirements, conduct controlled studies, publish findings
-**Practitioners:** Implement SAGE, share case studies, contribute improvements
+**Practitioners:** Implement ELDER, share case studies, contribute improvements
 **Organizations:** Adopt framework, provide feedback, support development
 **Seniors:** Participate in user research, advocate for needs
 **Students:** Research projects, thesis opportunities, learning
 
 Contributions can be submitted via:
-- GitHub repository: https://github.com/OMARINO-DE/SAGE-Framework
+- GitHub repository: https://github.com/OMARINO-DE/ELDER-Framework
 - Email: omar@omarino.de
 - Community forums (forthcoming)
 
@@ -1006,7 +1006,7 @@ Contributions can be submitted via:
 
 ### 11.1 Summary of Contributions
 
-This paper introduced SAGE (Senior-Adaptive Guided Ecosystem), an open-source design framework addressing the digital accessibility needs of adults aged 65+. SAGE's key contributions include:
+This paper introduced ELDER (Empowering Living for Digitally Enhanced Responsiveness), an open-source design framework addressing the digital accessibility needs of adults aged 65+. ELDER's key contributions include:
 
 1. **Holistic Framework:** Integration of visual design, interaction design, cognitive psychology, and emotional design into unified, testable requirements
 
@@ -1024,7 +1024,7 @@ This paper introduced SAGE (Senior-Adaptive Guided Ecosystem), an open-source de
 
 ### 11.2 Implications for Practice
 
-SAGE provides practitioners with concrete tools to create senior-friendly digital experiences:
+ELDER provides practitioners with concrete tools to create senior-friendly digital experiences:
 
 **For Product Managers:** Clear requirements for senior user needs, business case for senior market, measurable compliance targets
 
@@ -1036,9 +1036,9 @@ SAGE provides practitioners with concrete tools to create senior-friendly digita
 
 ### 11.3 Implications for Research
 
-SAGE opens multiple research avenues:
+ELDER opens multiple research avenues:
 
-**Validation Studies:** Controlled experiments comparing SAGE vs. standard implementations across domains and populations
+**Validation Studies:** Controlled experiments comparing ELDER vs. standard implementations across domains and populations
 
 **Requirement Optimization:** Evidence-based refinement of specific requirements and thresholds
 
@@ -1048,7 +1048,7 @@ SAGE opens multiple research avenues:
 
 ### 11.4 Societal Impact
 
-Beyond immediate usability improvements, SAGE addresses digital equity:
+Beyond immediate usability improvements, ELDER addresses digital equity:
 
 **Inclusion:** Enabling senior participation in increasingly digital society
 
@@ -1064,7 +1064,7 @@ Digital accessibility for seniors is not merely a usability issue—it's a civil
 
 ### 11.5 Vision for the Future
 
-The vision for SAGE is a world where:
+The vision for ELDER is a world where:
 
 - Digital interfaces are designed for human diversity, including age
 - Seniors confidently and independently access services that enhance their lives
@@ -1072,29 +1072,29 @@ The vision for SAGE is a world where:
 - Organizations recognize senior users as valuable and deserving of excellent experiences
 - Ageism in design is recognized and actively combated
 
-SAGE is a tool toward this vision. Its success depends on community adoption, validation, and evolution.
+ELDER is a tool toward this vision. Its success depends on community adoption, validation, and evolution.
 
 ### 11.6 Final Thoughts
 
-Age-friendly design benefits everyone. The "curb-cut effect"—accessibility features designed for wheelchairs benefiting strollers, luggage-carriers, and all pedestrians—applies equally to SAGE. Larger text, clearer language, simpler interfaces, better error handling, and stronger trust indicators improve experiences for users of all ages.
+Age-friendly design benefits everyone. The "curb-cut effect"—accessibility features designed for wheelchairs benefiting strollers, luggage-carriers, and all pedestrians—applies equally to ELDER. Larger text, clearer language, simpler interfaces, better error handling, and stronger trust indicators improve experiences for users of all ages.
 
-As the global population ages and technology becomes ever more central to daily life, frameworks like SAGE become not optional enhancements but essential infrastructure for inclusive societies.
+As the global population ages and technology becomes ever more central to daily life, frameworks like ELDER become not optional enhancements but essential infrastructure for inclusive societies.
 
-We invite the community to join us in refining, validating, and expanding SAGE. Together, we can create digital experiences that serve all humans, regardless of age.
+We invite the community to join us in refining, validating, and expanding ELDER. Together, we can create digital experiences that serve all humans, regardless of age.
 
 ---
 
 ## Acknowledgments
 
-The SAGE Framework builds upon decades of research in human-computer interaction, accessibility, gerontology, and inclusive design. While this paper does not cite specific sources (to avoid fabricated citations), we acknowledge the contributions of researchers, practitioners, and advocates who have advanced these fields.
+The ELDER Framework builds upon decades of research in human-computer interaction, accessibility, gerontology, and inclusive design. While this paper does not cite specific sources (to avoid fabricated citations), we acknowledge the contributions of researchers, practitioners, and advocates who have advanced these fields.
 
-We especially thank the senior users who participated in testing and validation. Their insights, patience, and feedback shaped SAGE into a practical framework grounded in real needs and experiences.
+We especially thank the senior users who participated in testing and validation. Their insights, patience, and feedback shaped ELDER into a practical framework grounded in real needs and experiences.
 
 ---
 
 ## References
 
-**Note:** This paper intentionally omits specific citations to avoid fabricated references. Practitioners and researchers implementing SAGE should consult:
+**Note:** This paper intentionally omits specific citations to avoid fabricated references. Practitioners and researchers implementing ELDER should consult:
 
 - Web Content Accessibility Guidelines (WCAG) 2.1, W3C
 - ISO 9241-210: Ergonomics of human-system interaction
@@ -1110,7 +1110,7 @@ We especially thank the senior users who participated in testing and validation.
 
 ## Appendix: Quick Reference
 
-### SAGE Compliance Levels
+### ELDER Compliance Levels
 
 | Level | Requirements | Target Use Case |
 |-------|--------------|-----------------|
@@ -1120,17 +1120,17 @@ We especially thank the senior users who participated in testing and validation.
 
 ### Quick Requirements Summary
 
-**Safe Simplicity (S1-S10):** Visual clarity, predictable interactions, error prevention
+**Learning-Friendly (S1-S10):** Visual clarity, predictable interactions, error prevention
 
-**Assisted Autonomy (A1-A10):** User control, helpful assistance, respectful tone
+**Empowered Autonomy (A1-A10):** User control, helpful assistance, respectful tone
 
-**Guided Interaction (G1-G10):** Clear pathways, progress indication, error recovery
+**Directed Guidance (G1-G10):** Clear pathways, progress indication, error recovery
 
-**Emotional Trust Layer (E1-E10):** Consistency, responsiveness, transparency, support
+**Emotional Trust (E1-E10):** Consistency, responsiveness, transparency, support
 
 ### Resources
 
-- **Repository:** https://github.com/OMARINO-DE/SAGE-Framework
+- **Repository:** https://github.com/OMARINO-DE/ELDER-Framework
 - **Specifications:** /core/ directory
 - **Checklists:** /checklists/ directory
 - **Examples:** /examples/ directory
@@ -1140,7 +1140,7 @@ We especially thank the senior users who participated in testing and validation.
 
 **Document Information**
 
-- **Title:** SAGE Framework: A Design Framework for Senior-Adaptive Guided Ecosystems in Digital Experiences
+- **Title:** ELDER Framework: A Design Framework for Empowering Living for Digitally Enhanced Responsivenesss in Digital Experiences
 - **Version:** 1.0
 - **Date:** January 28, 2026
 - **Authors:** Oday Bakkour (Framework Originator), Omar Zaror (Developer & Maintainer, OMARINO IT Services)

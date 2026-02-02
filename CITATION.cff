@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this framework in your research or project, please cite it as below."
-title: "SAGE Framework: Senior-Adaptive Guided Ecosystem"
-abstract: "An open-source framework for designing digital experiences that empower senior users through Safe Simplicity, Assisted Autonomy, Guided Interaction, and Emotional Trust."
+mesELDER: "If you use this framework in your research or project, please cite it as below."
+title: "ELDER Framework: Empowering Living for Digitally Enhanced Responsiveness"
+abstract: "An open-source framework for designing digital experiences that empower senior users through Learning-Friendly, Empowered Autonomy, Directed Guidance, and Emotional Trust."
 authors:
   - family-names: "Bakkour"
     given-names: "Oday"
@@ -13,7 +13,7 @@ authors:
     affiliation: "OMARINO IT Services"
     role: "Framework Developer & Maintainer"
 type: software
-repository-code: "https://github.com/OMARINO-DE/SAGE-Framework"
+repository-code: "https://github.com/OMARINO-DE/ELDER-Framework"
 license: MIT
 keywords:
   - accessibility

@@ -1,4 +1,4 @@
-# SAGE Framework - Product Checklist
+# ELDER Framework - Product Checklist
 
 **Developed and maintained by OMARINO IT Services .inh Omar Zaror in Germany**  
 **Website:** https://www.omarino.de | **Email:** omar@omarino.de
@@ -11,7 +11,7 @@
 
 ## Overview
 
-This checklist helps Product Managers define requirements and validate that products meet SAGE Framework standards. Use this during product definition, sprint planning, and acceptance testing.
+This checklist helps Product Managers define requirements and validate that products meet ELDER Framework standards. Use this during product definition, sprint planning, and acceptance testing.
 
 **How to Use**:
 - ✅ Check items that are complete and verified
@@ -19,11 +19,11 @@ This checklist helps Product Managers define requirements and validate that prod
 - 🚫 Mark items that are not applicable (with justification)
 - 📊 Use compliance percentage to track progress
 
-**Target**: Minimum 90% compliance for SAGE-certified products
+**Target**: Minimum 90% compliance for ELDER-certified products
 
 ---
 
-## Safe Simplicity Requirements
+## Learning-Friendly Requirements
 
 ### Visual Design & Layout
 
@@ -73,7 +73,7 @@ This checklist helps Product Managers define requirements and validate that prod
 - [ ] **S7.2**: Destructive actions require confirmation
 - [ ] **S7.3**: Input masks used for structured data
 - [ ] **S7.4**: Error rate <10% across all tasks
-- [ ] **S8.1**: Error messages in plain language (grade 8 level)
+- [ ] **S8.1**: Error mesELDERs in plain language (grade 8 level)
 - [ ] **S8.2**: Errors explain how to fix the issue
 - [ ] **S8.3**: User input preserved on errors
 - [ ] **S8.4**: Undo available for important actions (30s window)
@@ -90,7 +90,7 @@ This checklist helps Product Managers define requirements and validate that prod
 
 ---
 
-## Assisted Autonomy Requirements
+## Empowered Autonomy Requirements
 
 ### User Control
 
@@ -131,7 +131,7 @@ This checklist helps Product Managers define requirements and validate that prod
 - [ ] **A9.1**: Core features (80% use cases) in main interface
 - [ ] **A9.2**: Advanced features behind "More options"
 - [ ] **A9.3**: Clear path from basic to advanced
-- [ ] **Evidence**: Usage analytics, default modification rates
+- [ ] **Evidence**: UELDER analytics, default modification rates
 
 ### Communication
 
@@ -146,7 +146,7 @@ This checklist helps Product Managers define requirements and validate that prod
 
 ---
 
-## Guided Interaction Requirements
+## Directed Guidance Requirements
 
 ### Progress & Wayfinding
 
@@ -188,13 +188,13 @@ This checklist helps Product Managers define requirements and validate that prod
 - [ ] **G9.2**: Feedback includes what happened and what's next
 - [ ] **G9.3**: 95%+ users understand what happened
 - [ ] **G10.1**: 100% of error states include recovery instructions
-- [ ] **G10.2**: Error messages appear near error source
+- [ ] **G10.2**: Error mesELDERs appear near error source
 - [ ] **G10.3**: 90%+ users successfully recover from errors in <30s
 - [ ] **Evidence**: Completion testing, error recovery metrics
 
 ---
 
-## Emotional Trust Layer Requirements
+## Emotional Trust Requirements
 
 ### Visual Consistency
 
@@ -202,7 +202,7 @@ This checklist helps Product Managers define requirements and validate that prod
 - [ ] **E1.2**: Maximum 5-7 functional colors used
 - [ ] **E1.3**: Maximum 2-3 font families used
 - [ ] **E1.4**: 80%+ of UI uses standard components
-- [ ] **Evidence**: Design system audit, component usage report
+- [ ] **Evidence**: Design system audit, component uELDER report
 
 ### Responsiveness & Feedback
 
@@ -254,11 +254,11 @@ This checklist helps Product Managers define requirements and validate that prod
 
 ### Feature Specs Should Include:
 
-- [ ] SAGE requirement IDs addressed
-- [ ] Success criteria mapped to SAGE metrics
+- [ ] ELDER requirement IDs addressed
+- [ ] Success criteria mapped to ELDER metrics
 - [ ] User stories from senior perspective
-- [ ] Acceptance criteria referencing SAGE compliance levels
-- [ ] Accessibility requirements (WCAG + SAGE)
+- [ ] Acceptance criteria referencing ELDER compliance levels
+- [ ] Accessibility requirements (WCAG + ELDER)
 
 ### User Stories Template:
 
@@ -268,7 +268,7 @@ I want to [action],
 So that I can [goal],
 Without [senior-specific barrier]
 
-SAGE Requirements: [S1, A3, G2, etc.]
+ELDER Requirements: [S1, A3, G2, etc.]
 Acceptance Criteria:
 - [ ] Meets S1 (visual clutter <7 elements)
 - [ ] Meets A3 (undo within 3 clicks)
@@ -282,7 +282,7 @@ Acceptance Criteria:
 
 ### Before Feature Sign-Off:
 
-- [ ] All applicable SAGE requirements checked
+- [ ] All applicable ELDER requirements checked
 - [ ] User testing with ≥5 senior users (65+)
 - [ ] Automated accessibility scan (WAVE, axe)
 - [ ] Manual accessibility review
@@ -308,8 +308,8 @@ Acceptance Criteria:
 
 **Target Compliance Levels**:
 - **Minimum Product Viability**: 80% of Minimum requirements
-- **SAGE Compliant**: 90% of Minimum + 70% of Recommended
-- **SAGE Exemplary**: 95% of Minimum + 85% of Recommended + 50% of Strong
+- **ELDER Compliant**: 90% of Minimum + 70% of Recommended
+- **ELDER Exemplary**: 95% of Minimum + 85% of Recommended + 50% of Strong
 
 **Current Status**: ___% compliant
 

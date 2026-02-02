@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report an issue with the SAGE Framework documentation or specifications
+about: Report an issue with the ELDER Framework documentation or specifications
 title: '[BUG] '
 labels: bug
 assignees: ''
@@ -14,7 +14,7 @@ A clear and concise description of what the bug is.
 
 Where did you find this issue?
 
-- **File(s):** (e.g., core/safe-simplicity.en.md)
+- **File(s):** (e.g., core/learning-friendly.en.md)
 - **Section:** (e.g., Requirement S3)
 - **Line number(s):** (if applicable)
 

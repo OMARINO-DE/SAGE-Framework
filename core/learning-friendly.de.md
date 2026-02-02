@@ -1,5 +1,5 @@
-# Sichere Einfachheit
-## SAGE Framework - Säule 1
+# Lernfreundlich
+## ELDER Framework - Säule 1
 
 **Version:** 1.0  
 **Zuletzt aktualisiert:** 28. Januar 2026  
@@ -40,7 +40,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S1: Minimales visuelles Durcheinander
 
-**Aussage**: Oberflächen müssen visuelles Durcheinander minimieren, indem nur wesentliche Elemente angezeigt werden, die für die aktuelle Aufgabe erforderlich sind.
+**AusELDER**: Oberflächen müssen visuelles Durcheinander minimieren, indem nur wesentliche Elemente angezeigt werden, die für die aktuelle Aufgabe erforderlich sind.
 
 **Begründung**: Seniorennutzer können Schwierigkeiten haben, dichte visuelle Informationen zu verarbeiten. Die Reduzierung von Durcheinander verbessert den Fokus, reduziert die kognitive Belastung und verhindert Überforderung.
 
@@ -73,7 +73,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S2: Große, klare Typografie
 
-**Aussage**: Text muss groß genug sein, um bequem ohne Zoomen oder Hilfstechnologie gelesen zu werden, mit klarer Schriftartauswahl.
+**AusELDER**: Text muss groß genug sein, um bequem ohne Zoomen oder Hilfstechnologie gelesen zu werden, mit klarer Schriftartauswahl.
 
 **Begründung**: Das Sehvermögen nimmt mit dem Alter natürlich ab. Größerer Text mit hoher Lesbarkeit reduziert Augenbelastung und verbessert das Verständnis.
 
@@ -108,7 +108,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S3: Hoher Farbkontrast
 
-**Aussage**: Alle Text- und interaktiven Elemente müssen ausreichenden Kontrast zu ihren Hintergründen aufweisen, um die Lesbarkeit zu gewährleisten.
+**AusELDER**: Alle Text- und interaktiven Elemente müssen ausreichenden Kontrast zu ihren Hintergründen aufweisen, um die Lesbarkeit zu gewährleisten.
 
 **Begründung**: Altersbedingte Sehveränderungen reduzieren die Kontrastempfindlichkeit. Hoher Kontrast verbessert die Lesbarkeit und reduziert Augenermüdung.
 
@@ -142,7 +142,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S4: Große Touch-Ziele
 
-**Aussage**: Alle interaktiven Elemente müssen groß genug sein, um ohne präzise Feinmotorik genau getippt zu werden.
+**AusELDER**: Alle interaktiven Elemente müssen groß genug sein, um ohne präzise Feinmotorik genau getippt zu werden.
 
 **Begründung**: Die Feinmotorik kann mit dem Alter abnehmen. Größere Touch-Ziele reduzieren Fehler und Frustration, insbesondere auf Touch-Geräten.
 
@@ -176,7 +176,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S5: Einzelne primäre Aktion pro Bildschirm
 
-**Aussage**: Jeder Bildschirm oder jede Ansicht sollte eine klare primäre Aktion haben, wobei sekundäre Aktionen visuell deemphasiert werden.
+**AusELDER**: Jeder Bildschirm oder jede Ansicht sollte eine klare primäre Aktion haben, wobei sekundäre Aktionen visuell deemphasiert werden.
 
 **Begründung**: Mehrere konkurrierende Handlungsaufforderungen erzeugen Entscheidungslähmung. Eine klare primäre Aktion leitet Benutzer und reduziert die kognitive Belastung.
 
@@ -210,7 +210,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S6: Konsistente Navigationsmuster
 
-**Aussage**: Navigationsstruktur und -muster müssen über alle Bildschirme und Abschnitte der Anwendung hinweg konsistent bleiben.
+**AusELDER**: Navigationsstruktur und -muster müssen über alle Bildschirme und Abschnitte der Anwendung hinweg konsistent bleiben.
 
 **Begründung**: Konsistenz reduziert die Lernkurve und kognitive Belastung. Vorhersehbare Navigation ermöglicht es Benutzern, mentale Modelle aufzubauen.
 
@@ -224,7 +224,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 1. Überprüfen Sie alle Bildschirme auf Navigationskonsistenz
 2. Benutzertests: Benutzer navigieren ohne Fehler zu 5 verschiedenen Abschnitten
 3. Messen Sie die Zeit zur Navigation zu bestimmten Abschnitten (sollte über Sitzungen abnehmen)
-4. Mentales Modell-Test: Benutzer sagen mit >80% Genauigkeit voraus, wo Funktionen zu finden sind
+4. Mentales Modell-Test: Benutzer ELDERn mit >80% Genauigkeit voraus, wo Funktionen zu finden sind
 
 **Compliance-Level**: Minimum
 
@@ -244,7 +244,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S7: Klare Fehlervermeidung
 
-**Aussage**: Das System muss Fehler verhindern, bevor sie auftreten, durch Beschränkungen, Warnungen und Bestätigungen.
+**AusELDER**: Das System muss Fehler verhindern, bevor sie auftreten, durch Beschränkungen, Warnungen und Bestätigungen.
 
 **Begründung**: Die Fehlerbehebung kann für Seniorennutzer herausfordernd sein. Prävention ist effektiver als Korrektur.
 
@@ -278,7 +278,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S8: Großzügige Fehlertoleranz
 
-**Aussage**: Wenn Fehler auftreten, muss das System klare Erklärungen, einfache Korrekturpfade bieten und Datenverlust verhindern.
+**AusELDER**: Wenn Fehler auftreten, muss das System klare Erklärungen, einfache Korrekturpfade bieten und Datenverlust verhindern.
 
 **Begründung**: Fehler sind unvermeidlich. Elegante Fehlerbehandlung erhält das Benutzervertrauen und verhindert Abbruch.
 
@@ -312,7 +312,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S9: Begrenzte Informationen pro Ansicht
 
-**Aussage**: Jeder Bildschirm oder jede Ansicht sollte eine begrenzte Menge an Informationen präsentieren, die sich auf eine einzelne Aufgabe oder ein Konzept konzentriert.
+**AusELDER**: Jeder Bildschirm oder jede Ansicht sollte eine begrenzte Menge an Informationen präsentieren, die sich auf eine einzelne Aufgabe oder ein Konzept konzentriert.
 
 **Begründung**: Informationsüberflutung verursacht kognitive Belastung. Fokussierte Bildschirme verbessern das Verständnis und die Aufgabenerledigung.
 
@@ -346,7 +346,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 ### S10: Vorhersehbare Interaktionen
 
-**Aussage**: Alle interaktiven Elemente müssen sich auf vorhersehbare, standardisierte Weise verhalten, die den Benutzererwartungen entspricht.
+**AusELDER**: Alle interaktiven Elemente müssen sich auf vorhersehbare, standardisierte Weise verhalten, die den Benutzererwartungen entspricht.
 
 **Begründung**: Unerwartetes Verhalten erhöht die kognitive Belastung und reduziert das Vertrauen. Vorhersehbare Interaktionen nutzen bestehende mentale Modelle.
 
@@ -358,7 +358,7 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 
 **Testverfahren**:
 1. Überprüfen Sie alle interaktiven Elemente gegen Plattformstandards
-2. Benutzertests: Benutzer sagen Elementverhalten mit 90%+ Genauigkeit voraus
+2. Benutzertests: Benutzer ELDERn Elementverhalten mit 90%+ Genauigkeit voraus
 3. Messen Sie Verwirrungsvorfälle (Ziel: <5% der Interaktionen)
 4. A/B-Test Standard vs. Nicht-Standard-Implementierungen
 
@@ -397,8 +397,8 @@ Die Prinzipien der Sicheren Einfachheit sollten während der gesamten Nutzerreis
 ---
 
 **Für Übersetzungen siehe:**
-- [Englisch (English)](safe-simplicity.en.md)
-- [Arabisch (العربية)](safe-simplicity.ar.md)
+- [Englisch (English)](learning-friendly.en.md)
+- [Arabisch (العربية)](learning-friendly.ar.md)
 
 **Für Implementierungs-Checklisten siehe:**
 - [Produkt-Checkliste](../checklists/product-checklist.de.md)
